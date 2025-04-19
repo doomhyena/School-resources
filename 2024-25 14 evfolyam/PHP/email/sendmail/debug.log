@@ -1,0 +1,708 @@
+24/11/26 10:00:32 ** --- MESSAGE BEGIN ---
+24/11/26 10:00:32 ** To: hujber.balazs28@gmail.com
+24/11/26 10:00:32 ** Subject: Simple Email Test via PHP
+24/11/26 10:00:32 ** From: sender\'s email
+24/11/26 10:00:32 ** 
+24/11/26 10:00:32 ** Hi,nn This is test email send by PHP Script
+24/11/26 10:00:32 ** --- MESSAGE END ---
+24/11/26 10:00:32 ** Connecting to smtp.gmail.com:587
+24/11/26 10:00:32 ** Connected.
+24/11/26 10:00:32 << 220 smtp.gmail.com ESMTP 4fb4d7f45d1cf-5d01d3bf9b8sm4937085a12.41 - gsmtp<EOL>
+24/11/26 10:00:32 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/26 10:00:32 << 250-smtp.gmail.com at your service, [84.225.151.207]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/26 10:00:32 ** Authenticating as humbibambi@gmail.com
+24/11/26 10:00:32 >> STARTTLS<EOL>
+24/11/26 10:00:32 << 220 2.0.0 Ready to start TLS<EOL>
+24/11/26 10:00:32 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/26 10:00:32 << 250-smtp.gmail.com at your service, [84.225.151.207]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/26 10:00:32 >> AUTH LOGIN<EOL>
+24/11/26 10:00:32 << 334 VXNlcm5hbWU6<EOL>
+24/11/26 10:00:32 >> aHVtYmliYW1iaUBnbWFpbC5jb20=<EOL>
+24/11/26 10:00:32 << 334 UGFzc3dvcmQ6<EOL>
+24/11/26 10:00:32 >> VmFsYW1pYW1lcmlrYTI4<EOL>
+24/11/26 10:00:33 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-5d01d3bf9b8sm4937085a12.41 - gsmtp<EOL>
+24/11/26 10:00:33 ** Disconnecting from smtp.gmail.com:587
+24/11/26 10:00:33 ** Disconnected.
+24/11/26 10:00:33 ** Disconnected.
+24/11/26 10:00:33 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-5d01d3bf9b8sm4937085a12.41 - gsmtp<EOL>
+24/11/26 10:01:48 ** --- MESSAGE BEGIN ---
+24/11/26 10:01:48 ** To: hujber.balazs28@gmail.com
+24/11/26 10:01:48 ** Subject: Simple Email Test via PHP
+24/11/26 10:01:48 ** From: sender\'s email
+24/11/26 10:01:48 ** 
+24/11/26 10:01:48 ** Hi,nn This is test email send by PHP Script
+24/11/26 10:01:48 ** --- MESSAGE END ---
+24/11/26 10:01:48 ** Connecting to smtp.gmail.com:587
+24/11/26 10:01:48 ** Connected.
+24/11/26 10:01:48 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa51a449c24sm533437066b.178 - gsmtp<EOL>
+24/11/26 10:01:48 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/26 10:01:48 << 250-smtp.gmail.com at your service, [84.225.151.207]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/26 10:01:48 ** Authenticating as humbibambi@gmail.com
+24/11/26 10:01:48 >> STARTTLS<EOL>
+24/11/26 10:01:48 << 220 2.0.0 Ready to start TLS<EOL>
+24/11/26 10:01:49 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/26 10:01:49 << 250-smtp.gmail.com at your service, [84.225.151.207]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/26 10:01:49 >> AUTH LOGIN<EOL>
+24/11/26 10:01:49 << 334 VXNlcm5hbWU6<EOL>
+24/11/26 10:01:49 >> aHVtYmliYW1iaUBnbWFpbC5jb20=<EOL>
+24/11/26 10:01:49 << 334 UGFzc3dvcmQ6<EOL>
+24/11/26 10:01:49 >> VmFsYW1pYW1lcmlrYTI4<EOL>
+24/11/26 10:01:49 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa51a449c24sm533437066b.178 - gsmtp<EOL>
+24/11/26 10:01:49 ** Disconnecting from smtp.gmail.com:587
+24/11/26 10:01:49 ** Disconnected.
+24/11/26 10:01:49 ** Disconnected.
+24/11/26 10:01:49 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa51a449c24sm533437066b.178 - gsmtp<EOL>
+24/11/26 10:04:24 ** --- MESSAGE BEGIN ---
+24/11/26 10:04:24 ** To: hujber.balazs28@gmail.com
+24/11/26 10:04:24 ** Subject: Simple Email Test via PHP
+24/11/26 10:04:24 ** From: sender\'s email
+24/11/26 10:04:24 ** 
+24/11/26 10:04:24 ** Hi,nn This is test email send by PHP Script
+24/11/26 10:04:24 ** --- MESSAGE END ---
+24/11/26 10:04:24 ** Connecting to smtp.gmail.com:587
+24/11/26 10:04:24 ** Connected.
+24/11/26 10:04:24 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa527d3b95dsm483198266b.142 - gsmtp<EOL>
+24/11/26 10:04:24 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/26 10:04:24 << 250-smtp.gmail.com at your service, [84.225.151.207]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/26 10:04:24 ** Authenticating as phpora2024@gmail.com
+24/11/26 10:04:24 >> STARTTLS<EOL>
+24/11/26 10:04:24 << 220 2.0.0 Ready to start TLS<EOL>
+24/11/26 10:04:24 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/26 10:04:24 << 250-smtp.gmail.com at your service, [84.225.151.207]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/26 10:04:24 >> AUTH LOGIN<EOL>
+24/11/26 10:04:24 << 334 VXNlcm5hbWU6<EOL>
+24/11/26 10:04:24 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/11/26 10:04:25 << 334 UGFzc3dvcmQ6<EOL>
+24/11/26 10:04:25 >> QXNkcXdlMTIz<EOL>
+24/11/26 10:04:25 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa527d3b95dsm483198266b.142 - gsmtp<EOL>
+24/11/26 10:04:25 ** Disconnecting from smtp.gmail.com:587
+24/11/26 10:04:25 ** Disconnected.
+24/11/26 10:04:25 ** Disconnected.
+24/11/26 10:04:25 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa527d3b95dsm483198266b.142 - gsmtp<EOL>
+24/11/28 09:00:18 ** --- MESSAGE BEGIN ---
+24/11/28 09:00:18 ** To: hujber.balazs28@gmail.com
+24/11/28 09:00:18 ** Subject: Simple Email Test via PHP
+24/11/28 09:00:18 ** From: sender\'s email
+24/11/28 09:00:18 ** 
+24/11/28 09:00:18 ** Hi,nn This is test email send by PHP Script
+24/11/28 09:00:18 ** --- MESSAGE END ---
+24/11/28 09:00:19 ** Connecting to smtp.gmail.com:587
+24/11/28 09:00:19 ** Connected.
+24/11/28 09:00:19 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa59990a9bbsm36809266b.166 - gsmtp<EOL>
+24/11/28 09:00:19 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/28 09:00:19 << 250-smtp.gmail.com at your service, [84.225.150.234]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/28 09:00:19 ** Authenticating as phpora2024@gmail.com
+24/11/28 09:00:19 >> STARTTLS<EOL>
+24/11/28 09:00:19 << 220 2.0.0 Ready to start TLS<EOL>
+24/11/28 09:00:19 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/28 09:00:19 << 250-smtp.gmail.com at your service, [84.225.150.234]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/28 09:00:19 >> AUTH LOGIN<EOL>
+24/11/28 09:00:19 << 334 VXNlcm5hbWU6<EOL>
+24/11/28 09:00:19 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/11/28 09:00:19 << 334 UGFzc3dvcmQ6<EOL>
+24/11/28 09:00:19 >> QXNkcXdlMTIz<EOL>
+24/11/28 09:00:20 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa59990a9bbsm36809266b.166 - gsmtp<EOL>
+24/11/28 09:00:20 ** Disconnecting from smtp.gmail.com:587
+24/11/28 09:00:20 ** Disconnected.
+24/11/28 09:00:20 ** Disconnected.
+24/11/28 09:00:20 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa59990a9bbsm36809266b.166 - gsmtp<EOL>
+24/11/28 09:03:29 ** --- MESSAGE BEGIN ---
+24/11/28 09:03:29 ** To: hujber.balazs28@gmail.com
+24/11/28 09:03:29 ** Subject: Simple Email Test via PHP
+24/11/28 09:03:29 ** From: sender\'s email
+24/11/28 09:03:29 ** 
+24/11/28 09:03:29 ** Hi,nn This is test email send by PHP Script
+24/11/28 09:03:29 ** --- MESSAGE END ---
+24/11/28 09:03:29 ** Connecting to smtp.gmail.com:465
+24/11/28 09:03:30 ** Connected.
+24/11/28 09:03:30 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa59990a7a7sm37256066b.172 - gsmtp<EOL>
+24/11/28 09:03:30 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/28 09:03:30 << 250-smtp.gmail.com at your service, [84.225.150.234]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/28 09:03:30 ** Authenticating as phpora2024@gmail.com
+24/11/28 09:03:30 >> AUTH LOGIN<EOL>
+24/11/28 09:03:30 << 334 VXNlcm5hbWU6<EOL>
+24/11/28 09:03:30 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/11/28 09:03:30 << 334 UGFzc3dvcmQ6<EOL>
+24/11/28 09:03:30 >> QXNkcXdlMTIz<EOL>
+24/11/28 09:03:30 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa59990a7a7sm37256066b.172 - gsmtp<EOL>
+24/11/28 09:03:30 ** Disconnecting from smtp.gmail.com:465
+24/11/28 09:03:30 ** Disconnected.
+24/11/28 09:03:30 ** Disconnected.
+24/11/28 09:03:30 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa59990a7a7sm37256066b.172 - gsmtp<EOL>
+24/11/28 09:03:32 ** --- MESSAGE BEGIN ---
+24/11/28 09:03:32 ** To: hujber.balazs28@gmail.com
+24/11/28 09:03:32 ** Subject: Simple Email Test via PHP
+24/11/28 09:03:32 ** From: sender\'s email
+24/11/28 09:03:32 ** 
+24/11/28 09:03:32 ** Hi,nn This is test email send by PHP Script
+24/11/28 09:03:32 ** --- MESSAGE END ---
+24/11/28 09:03:32 ** Connecting to smtp.gmail.com:465
+24/11/28 09:03:33 ** Connected.
+24/11/28 09:03:33 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5998e771csm38004366b.127 - gsmtp<EOL>
+24/11/28 09:03:33 >> EHLO DESKTOP-KETDHVT<EOL>
+24/11/28 09:03:33 << 250-smtp.gmail.com at your service, [84.225.150.234]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/11/28 09:03:33 ** Authenticating as phpora2024@gmail.com
+24/11/28 09:03:33 >> AUTH LOGIN<EOL>
+24/11/28 09:03:33 << 334 VXNlcm5hbWU6<EOL>
+24/11/28 09:03:33 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/11/28 09:03:33 << 334 UGFzc3dvcmQ6<EOL>
+24/11/28 09:03:33 >> QXNkcXdlMTIz<EOL>
+24/11/28 09:03:33 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5998e771csm38004366b.127 - gsmtp<EOL>
+24/11/28 09:03:33 ** Disconnecting from smtp.gmail.com:465
+24/11/28 09:03:33 ** Disconnected.
+24/11/28 09:03:33 ** Disconnected.
+24/11/28 09:03:33 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5998e771csm38004366b.127 - gsmtp<EOL>
+24/12/03 12:01:44 ** --- MESSAGE BEGIN ---
+24/12/03 12:01:44 ** To: hujber.balazs28@gmail.com
+24/12/03 12:01:44 ** Subject: Simple Email Test via PHP
+24/12/03 12:01:44 ** From: sender\'s email
+24/12/03 12:01:44 ** 
+24/12/03 12:01:44 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:01:44 ** --- MESSAGE END ---
+24/12/03 12:01:44 ** Connecting to smtp.gmail.com:465
+24/12/03 12:01:45 ** Connected.
+24/12/03 12:01:45 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5998e6a34sm601027166b.111 - gsmtp<EOL>
+24/12/03 12:01:45 >> EHLO DESKTOP-KETDHVT<EOL>
+24/12/03 12:01:45 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:01:45 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:01:45 >> AUTH LOGIN<EOL>
+24/12/03 12:01:45 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:01:45 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:01:45 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:01:45 >> QXNkcXdlMTIz<EOL>
+24/12/03 12:01:46 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5998e6a34sm601027166b.111 - gsmtp<EOL>
+24/12/03 12:01:46 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:01:46 ** Disconnected.
+24/12/03 12:01:46 ** Disconnected.
+24/12/03 12:01:46 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5998e6a34sm601027166b.111 - gsmtp<EOL>
+24/12/03 12:02:29 ** --- MESSAGE BEGIN ---
+24/12/03 12:02:29 ** To: hujber.balazs28@gmail.com
+24/12/03 12:02:29 ** Subject: Simple Email Test via PHP
+24/12/03 12:02:29 ** From: sender\'s email
+24/12/03 12:02:29 ** 
+24/12/03 12:02:29 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:02:29 ** --- MESSAGE END ---
+24/12/03 12:02:29 ** Connecting to smtp.gmail.com:465
+24/12/03 12:02:29 ** Connected.
+24/12/03 12:02:29 << 220 smtp.gmail.com ESMTP 4fb4d7f45d1cf-5d0c7c09444sm3994682a12.78 - gsmtp<EOL>
+24/12/03 12:02:29 >> EHLO DESKTOP-KETDHVT<EOL>
+24/12/03 12:02:29 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:02:29 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:02:29 >> AUTH LOGIN<EOL>
+24/12/03 12:02:29 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:02:29 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:02:29 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:02:29 >> QXNkcXdlMTIz<EOL>
+24/12/03 12:02:30 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-5d0c7c09444sm3994682a12.78 - gsmtp<EOL>
+24/12/03 12:02:30 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:02:30 ** Disconnected.
+24/12/03 12:02:30 ** Disconnected.
+24/12/03 12:02:30 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-5d0c7c09444sm3994682a12.78 - gsmtp<EOL>
+24/12/03 12:02:41 ** --- MESSAGE BEGIN ---
+24/12/03 12:02:41 ** To: hujber.balazs28@gmail.com
+24/12/03 12:02:41 ** Subject: Simple Email Test via PHP
+24/12/03 12:02:41 ** From: sender\'s email
+24/12/03 12:02:41 ** 
+24/12/03 12:02:41 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:02:41 ** --- MESSAGE END ---
+24/12/03 12:02:41 ** Connecting to smtp.gmail.com:465
+24/12/03 12:02:41 ** Connected.
+24/12/03 12:02:41 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5999734e4sm600660866b.203 - gsmtp<EOL>
+24/12/03 12:02:41 >> EHLO DESKTOP-KETDHVT<EOL>
+24/12/03 12:02:41 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:02:41 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:02:41 >> AUTH LOGIN<EOL>
+24/12/03 12:02:42 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:02:42 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:02:42 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:02:42 >> QXNkcXdlMTIz<EOL>
+24/12/03 12:02:42 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5999734e4sm600660866b.203 - gsmtp<EOL>
+24/12/03 12:02:42 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:02:42 ** Disconnected.
+24/12/03 12:02:42 ** Disconnected.
+24/12/03 12:02:42 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5999734e4sm600660866b.203 - gsmtp<EOL>
+24/12/03 12:02:52 ** --- MESSAGE BEGIN ---
+24/12/03 12:02:52 ** To: hujber.balazs28@gmail.com
+24/12/03 12:02:52 ** Subject: Simple Email Test via PHP
+24/12/03 12:02:52 ** From: sender\'s email
+24/12/03 12:02:52 ** 
+24/12/03 12:02:52 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:02:52 ** --- MESSAGE END ---
+24/12/03 12:02:53 ** Connecting to smtp.gmail.com:465
+24/12/03 12:02:53 ** Connected.
+24/12/03 12:02:53 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa59990a7cesm599973166b.162 - gsmtp<EOL>
+24/12/03 12:02:53 >> EHLO DESKTOP-KETDHVT<EOL>
+24/12/03 12:02:53 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:02:53 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:02:53 >> AUTH LOGIN<EOL>
+24/12/03 12:02:53 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:02:53 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:02:53 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:02:53 >> QXNkcXdlMTIz<EOL>
+24/12/03 12:02:53 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa59990a7cesm599973166b.162 - gsmtp<EOL>
+24/12/03 12:02:53 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:02:53 ** Disconnected.
+24/12/03 12:02:53 ** Disconnected.
+24/12/03 12:02:53 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa59990a7cesm599973166b.162 - gsmtp<EOL>
+24/12/03 12:04:30 ** --- MESSAGE BEGIN ---
+24/12/03 12:04:30 ** To: hujber.balazs28@gmail.com
+24/12/03 12:04:30 ** Subject: Simple Email Test via PHP
+24/12/03 12:04:30 ** From: sender\'s email
+24/12/03 12:04:30 ** 
+24/12/03 12:04:30 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:04:30 ** --- MESSAGE END ---
+24/12/03 12:04:30 ** Connecting to smtp.gmail.com:465
+24/12/03 12:04:30 ** Connected.
+24/12/03 12:04:30 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5997d40e9sm598598166b.78 - gsmtp<EOL>
+24/12/03 12:04:30 >> EHLO DESKTOP-KETDHVT<EOL>
+24/12/03 12:04:30 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:04:30 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:04:30 >> AUTH LOGIN<EOL>
+24/12/03 12:04:30 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:04:30 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:04:30 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:04:30 >> QXNkcXdlMTIz<EOL>
+24/12/03 12:04:30 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5997d40e9sm598598166b.78 - gsmtp<EOL>
+24/12/03 12:04:30 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:04:30 ** Disconnected.
+24/12/03 12:04:30 ** Disconnected.
+24/12/03 12:04:30 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5997d40e9sm598598166b.78 - gsmtp<EOL>
+24/12/03 12:08:11 ** --- MESSAGE BEGIN ---
+24/12/03 12:08:11 ** To: hujber.balazs28@gmail.com
+24/12/03 12:08:11 ** Subject: Simple Email Test via PHP
+24/12/03 12:08:11 ** From: sender\'s email
+24/12/03 12:08:11 ** 
+24/12/03 12:08:11 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:08:11 ** --- MESSAGE END ---
+24/12/03 12:08:11 ** Connecting to smtp.gmail.com:465
+24/12/03 12:08:11 ** Connected.
+24/12/03 12:08:11 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5996c0ed4sm603393666b.30 - gsmtp<EOL>
+24/12/03 12:08:11 >> EHLO smtp.gmail.com<EOL>
+24/12/03 12:08:11 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:08:11 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:08:11 >> AUTH LOGIN<EOL>
+24/12/03 12:08:11 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:08:11 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:08:11 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:08:11 >> QXNkcXdlMTIz<EOL>
+24/12/03 12:08:12 << 535-5.7.8 Username and Password not accepted. For more information, go to<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5996c0ed4sm603393666b.30 - gsmtp<EOL>
+24/12/03 12:08:12 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:08:12 ** Disconnected.
+24/12/03 12:08:12 ** Disconnected.
+24/12/03 12:08:12 ** Username and Password not accepted. For more information, go to<EOL> https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa5996c0ed4sm603393666b.30 - gsmtp<EOL>
+24/12/03 12:16:47 ** --- MESSAGE BEGIN ---
+24/12/03 12:16:47 ** To: hujber.balazs28@gmail.com
+24/12/03 12:16:47 ** Subject: Simple Email Test via PHP
+24/12/03 12:16:47 ** From: sender\'s email
+24/12/03 12:16:47 ** 
+24/12/03 12:16:47 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:16:47 ** --- MESSAGE END ---
+24/12/03 12:16:48 ** Connecting to smtp.gmail.com:465
+24/12/03 12:16:48 ** Connected.
+24/12/03 12:16:48 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5997d5646sm605114966b.62 - gsmtp<EOL>
+24/12/03 12:16:48 >> EHLO smtp.gmail.com<EOL>
+24/12/03 12:16:48 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:16:48 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:16:48 >> AUTH LOGIN<EOL>
+24/12/03 12:16:48 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:16:48 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:16:48 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:16:48 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+24/12/03 12:16:48 << 235 2.7.0 Accepted<EOL>
+24/12/03 12:16:48 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+24/12/03 12:16:48 << 250 2.1.0 OK a640c23a62f3a-aa5997d5646sm605114966b.62 - gsmtp<EOL>
+24/12/03 12:16:48 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+24/12/03 12:16:48 << 250 2.1.5 OK a640c23a62f3a-aa5997d5646sm605114966b.62 - gsmtp<EOL>
+24/12/03 12:16:48 >> DATA<EOL>
+24/12/03 12:16:49 << 354 Go ahead a640c23a62f3a-aa5997d5646sm605114966b.62 - gsmtp<EOL>
+24/12/03 12:16:49 >> Date: Tue, 3 Dec 2024 12:16:49 +0100<EOL>
+24/12/03 12:16:49 >> To: hujber.balazs28@gmail.com<EOL>
+24/12/03 12:16:49 >> Subject: Simple Email Test via PHP<EOL>
+24/12/03 12:16:49 >> From: sender\'s email<EOL>
+24/12/03 12:16:49 >> <EOL>
+24/12/03 12:16:49 >> Hi,nn This is test email send by PHP Script<EOL>
+24/12/03 12:16:49 >> .<EOL>
+24/12/03 12:16:49 << 250 2.0.0 OK  1733224610 a640c23a62f3a-aa5997d5646sm605114966b.62 - gsmtp<EOL>
+24/12/03 12:16:49 >> QUIT<EOL>
+24/12/03 12:16:49 << 221 2.0.0 closing connection a640c23a62f3a-aa5997d5646sm605114966b.62 - gsmtp<EOL>
+24/12/03 12:16:49 ** Disconnecting from smtp.gmail.com:465
+24/12/03 12:16:49 ** Disconnected.
+24/12/03 12:16:49 ** Disconnected.
+24/12/03 12:17:10 ** --- MESSAGE BEGIN ---
+24/12/03 12:17:10 ** To: hujber.balazs28@gmail.com
+24/12/03 12:17:10 ** Subject: Simple Email Test via PHP
+24/12/03 12:17:10 ** From: sender\'s email
+24/12/03 12:17:10 ** 
+24/12/03 12:17:10 ** Hi,nn This is test email send by PHP Script
+24/12/03 12:17:10 ** --- MESSAGE END ---
+24/12/03 12:17:11 ** Connecting to smtp.gmail.com:465
+24/12/03 12:17:11 ** Connected.
+24/12/03 12:17:11 << 220 smtp.gmail.com ESMTP a640c23a62f3a-aa5996de7fdsm600898266b.54 - gsmtp<EOL>
+24/12/03 12:17:11 >> EHLO smtp.gmail.com<EOL>
+24/12/03 12:17:11 << 250-smtp.gmail.com at your service, [84.225.155.82]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+24/12/03 12:17:11 ** Authenticating as phpora2024@gmail.com
+24/12/03 12:17:11 >> AUTH LOGIN<EOL>
+24/12/03 12:17:11 << 334 VXNlcm5hbWU6<EOL>
+24/12/03 12:17:11 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+24/12/03 12:17:11 << 334 UGFzc3dvcmQ6<EOL>
+24/12/03 12:17:11 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+24/12/03 12:17:11 << 235 2.7.0 Accepted<EOL>
+24/12/03 12:17:11 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+24/12/03 12:17:11 << 250 2.1.0 OK a640c23a62f3a-aa5996de7fdsm600898266b.54 - gsmtp<EOL>
+24/12/03 12:17:11 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+24/12/03 12:17:11 << 250 2.1.5 OK a640c23a62f3a-aa5996de7fdsm600898266b.54 - gsmtp<EOL>
+24/12/03 12:17:11 >> DATA<EOL>
+24/12/03 12:17:12 << 354 Go ahead a640c23a62f3a-aa5996de7fdsm600898266b.54 - gsmtp<EOL>
+24/12/03 12:17:12 >> Date: Tue, 3 Dec 2024 12:17:12 +0100<EOL>
+24/12/03 12:17:12 >> To: hujber.balazs28@gmail.com<EOL>
+24/12/03 12:17:12 >> Subject: Simple Email Test via PHP<EOL>
+24/12/03 12:17:12 >> From: sender\'s email<EOL>
+24/12/03 12:17:12 >> <EOL>
+24/12/03 12:17:12 >> Hi,nn This is test email send by PHP Script<EOL>
+24/12/03 12:17:12 >> .<EOL>
+24/12/03 12:17:12 << 250 2.0.0 OK  1733224633 a640c23a62f3a-aa5996de7fdsm600898266b.54 - gsmtp<EOL>
+24/12/03 12:17:12 >> QUIT<EOL>
+24/12/03 12:17:12 << 221 2.0.0 closing connection a640c23a62f3a-aa5996de7fdsm600898266b.54 - gsmtp<EOL>
+24/12/03 12:17:12 ** Disconnected.
+24/12/03 12:17:12 ** Disconnected.
+24/12/03 12:17:12 ** Disconnected.
+25/01/07 09:05:58 ** --- MESSAGE BEGIN ---
+25/01/07 09:05:58 ** To: hujber.balazs28@gmail.com
+25/01/07 09:05:58 ** Subject: Simple Email Test via PHP
+25/01/07 09:05:58 ** From: sender\'s email
+25/01/07 09:05:58 ** 
+25/01/07 09:05:58 ** Hi,nn This is test email send by PHP Script
+25/01/07 09:05:58 ** --- MESSAGE END ---
+25/01/07 09:05:58 ** Connecting to smtp.gmail.com:465
+25/01/07 09:05:58 ** Connected.
+25/01/07 09:05:58 << 220 smtp.gmail.com ESMTP 5b1f17b1804b1-43656b119d7sm622742485e9.20 - gsmtp<EOL>
+25/01/07 09:05:58 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:05:58 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:05:58 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:05:58 >> AUTH LOGIN<EOL>
+25/01/07 09:05:58 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:05:58 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:05:58 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:05:58 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:05:59 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:05:59 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:05:59 << 250 2.1.0 OK 5b1f17b1804b1-43656b119d7sm622742485e9.20 - gsmtp<EOL>
+25/01/07 09:05:59 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:05:59 << 250 2.1.5 OK 5b1f17b1804b1-43656b119d7sm622742485e9.20 - gsmtp<EOL>
+25/01/07 09:05:59 >> DATA<EOL>
+25/01/07 09:05:59 << 354 Go ahead 5b1f17b1804b1-43656b119d7sm622742485e9.20 - gsmtp<EOL>
+25/01/07 09:05:59 >> Date: Tue, 7 Jan 2025 09:05:59 +0100<EOL>
+25/01/07 09:05:59 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:05:59 >> Subject: Simple Email Test via PHP<EOL>
+25/01/07 09:05:59 >> From: sender\'s email<EOL>
+25/01/07 09:05:59 >> <EOL>
+25/01/07 09:05:59 >> Hi,nn This is test email send by PHP Script<EOL>
+25/01/07 09:05:59 >> .<EOL>
+25/01/07 09:06:00 << 250 2.0.0 OK  1736237160 5b1f17b1804b1-43656b119d7sm622742485e9.20 - gsmtp<EOL>
+25/01/07 09:06:00 >> QUIT<EOL>
+25/01/07 09:06:00 << 221 2.0.0 closing connection 5b1f17b1804b1-43656b119d7sm622742485e9.20 - gsmtp<EOL>
+25/01/07 09:06:00 ** Disconnected.
+25/01/07 09:06:00 ** Disconnected.
+25/01/07 09:06:00 ** Disconnected.
+25/01/07 09:10:38 ** --- MESSAGE BEGIN ---
+25/01/07 09:10:38 ** To: hujber.balazs28@gmail.com
+25/01/07 09:10:38 ** Subject: Simple Email Test via PHP
+25/01/07 09:10:38 ** From: PHP Óra
+25/01/07 09:10:38 ** MIME-Version: 1.0
+25/01/07 09:10:38 ** Content-type: text/html; charset=UTF-8
+25/01/07 09:10:38 ** 
+25/01/07 09:10:38 ** Hi,nn This is test email send by PHP Script
+25/01/07 09:10:38 ** --- MESSAGE END ---
+25/01/07 09:10:38 ** Connecting to smtp.gmail.com:465
+25/01/07 09:10:38 ** Connected.
+25/01/07 09:10:38 << 220 smtp.gmail.com ESMTP ffacd0b85a97d-38a1c89e278sm50368055f8f.75 - gsmtp<EOL>
+25/01/07 09:10:38 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:10:38 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:10:38 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:10:38 >> AUTH LOGIN<EOL>
+25/01/07 09:10:38 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:10:38 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:10:38 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:10:38 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:10:39 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:10:39 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:10:39 << 250 2.1.0 OK ffacd0b85a97d-38a1c89e278sm50368055f8f.75 - gsmtp<EOL>
+25/01/07 09:10:39 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:10:39 << 250 2.1.5 OK ffacd0b85a97d-38a1c89e278sm50368055f8f.75 - gsmtp<EOL>
+25/01/07 09:10:39 >> DATA<EOL>
+25/01/07 09:10:39 << 354 Go ahead ffacd0b85a97d-38a1c89e278sm50368055f8f.75 - gsmtp<EOL>
+25/01/07 09:10:39 >> Date: Tue, 7 Jan 2025 09:10:39 +0100<EOL>
+25/01/07 09:10:39 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:10:39 >> Subject: Simple Email Test via PHP<EOL>
+25/01/07 09:10:39 >> From: PHP Óra<EOL>
+25/01/07 09:10:39 >> MIME-Version: 1.0<EOL>
+25/01/07 09:10:39 >> Content-type: text/html; charset=UTF-8<EOL>
+25/01/07 09:10:39 >> <EOL>
+25/01/07 09:10:39 >> Hi,nn This is test email send by PHP Script<EOL>
+25/01/07 09:10:39 >> .<EOL>
+25/01/07 09:10:39 << 250 2.0.0 OK  1736237439 ffacd0b85a97d-38a1c89e278sm50368055f8f.75 - gsmtp<EOL>
+25/01/07 09:10:39 >> QUIT<EOL>
+25/01/07 09:10:39 << 221 2.0.0 closing connection ffacd0b85a97d-38a1c89e278sm50368055f8f.75 - gsmtp<EOL>
+25/01/07 09:10:39 ** Disconnected.
+25/01/07 09:10:39 ** Disconnected.
+25/01/07 09:10:39 ** Disconnected.
+25/01/07 09:12:12 ** --- MESSAGE BEGIN ---
+25/01/07 09:12:12 ** To: hujber.balazs28@gmail.com
+25/01/07 09:12:12 ** Subject: Test email
+25/01/07 09:12:12 ** From: PHP Óra
+25/01/07 09:12:12 ** MIME-Version: 1.0
+25/01/07 09:12:12 ** Content-type: text/html; charset=UTF-8
+25/01/07 09:12:12 ** 
+25/01/07 09:12:12 ** <h1>Teszt email</h1>
+25/01/07 09:12:12 ** 				<a href='https://humbi.hu'>Humbi.hu</a>Katt a linkre!
+25/01/07 09:12:12 ** --- MESSAGE END ---
+25/01/07 09:12:12 ** Connecting to smtp.gmail.com:465
+25/01/07 09:12:13 ** Connected.
+25/01/07 09:12:13 << 220 smtp.gmail.com ESMTP 5b1f17b1804b1-43661200abesm587523575e9.18 - gsmtp<EOL>
+25/01/07 09:12:13 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:12:13 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:12:13 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:12:13 >> AUTH LOGIN<EOL>
+25/01/07 09:12:13 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:12:13 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:12:13 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:12:13 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:12:13 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:12:13 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:12:13 << 250 2.1.0 OK 5b1f17b1804b1-43661200abesm587523575e9.18 - gsmtp<EOL>
+25/01/07 09:12:13 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:12:13 << 250 2.1.5 OK 5b1f17b1804b1-43661200abesm587523575e9.18 - gsmtp<EOL>
+25/01/07 09:12:13 >> DATA<EOL>
+25/01/07 09:12:13 << 354 Go ahead 5b1f17b1804b1-43661200abesm587523575e9.18 - gsmtp<EOL>
+25/01/07 09:12:13 >> Date: Tue, 7 Jan 2025 09:12:13 +0100<EOL>
+25/01/07 09:12:13 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:12:13 >> Subject: Test email<EOL>
+25/01/07 09:12:13 >> From: PHP Óra<EOL>
+25/01/07 09:12:13 >> MIME-Version: 1.0<EOL>
+25/01/07 09:12:13 >> Content-type: text/html; charset=UTF-8<EOL>
+25/01/07 09:12:13 >> <EOL>
+25/01/07 09:12:13 >> <h1>Teszt email</h1><EOL>
+25/01/07 09:12:13 >> 				<a href='https://humbi.hu'>Humbi.hu</a>Katt a linkre!<EOL>
+25/01/07 09:12:13 >> .<EOL>
+25/01/07 09:12:15 << 250 2.0.0 OK  1736237535 5b1f17b1804b1-43661200abesm587523575e9.18 - gsmtp<EOL>
+25/01/07 09:12:15 >> QUIT<EOL>
+25/01/07 09:12:15 << 221 2.0.0 closing connection 5b1f17b1804b1-43661200abesm587523575e9.18 - gsmtp<EOL>
+25/01/07 09:12:15 ** Disconnected.
+25/01/07 09:12:15 ** Disconnected.
+25/01/07 09:12:15 ** Disconnected.
+25/01/07 09:12:33 ** --- MESSAGE BEGIN ---
+25/01/07 09:12:33 ** To: hujber.balazs28@gmail.com
+25/01/07 09:12:33 ** Subject: Test email
+25/01/07 09:12:33 ** From: PHP Óra
+25/01/07 09:12:33 ** MIME-Version: 1.0
+25/01/07 09:12:33 ** Content-type: text/html; charset=UTF-8
+25/01/07 09:12:33 ** 
+25/01/07 09:12:33 ** <h1>Teszt email</h1>
+25/01/07 09:12:33 ** 				<a href='https://humbi.hu'>Humbi.hu</a><br><br>Katt a linkre!
+25/01/07 09:12:33 ** --- MESSAGE END ---
+25/01/07 09:12:33 ** Connecting to smtp.gmail.com:465
+25/01/07 09:12:33 ** Connected.
+25/01/07 09:12:33 << 220 smtp.gmail.com ESMTP 5b1f17b1804b1-43656b442dasm621213385e9.42 - gsmtp<EOL>
+25/01/07 09:12:33 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:12:33 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:12:33 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:12:33 >> AUTH LOGIN<EOL>
+25/01/07 09:12:33 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:12:33 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:12:33 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:12:33 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:12:33 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:12:33 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:12:34 << 250 2.1.0 OK 5b1f17b1804b1-43656b442dasm621213385e9.42 - gsmtp<EOL>
+25/01/07 09:12:34 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:12:34 << 250 2.1.5 OK 5b1f17b1804b1-43656b442dasm621213385e9.42 - gsmtp<EOL>
+25/01/07 09:12:34 >> DATA<EOL>
+25/01/07 09:12:34 << 354 Go ahead 5b1f17b1804b1-43656b442dasm621213385e9.42 - gsmtp<EOL>
+25/01/07 09:12:34 >> Date: Tue, 7 Jan 2025 09:12:34 +0100<EOL>
+25/01/07 09:12:34 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:12:34 >> Subject: Test email<EOL>
+25/01/07 09:12:34 >> From: PHP Óra<EOL>
+25/01/07 09:12:34 >> MIME-Version: 1.0<EOL>
+25/01/07 09:12:34 >> Content-type: text/html; charset=UTF-8<EOL>
+25/01/07 09:12:34 >> <EOL>
+25/01/07 09:12:34 >> <h1>Teszt email</h1><EOL>
+25/01/07 09:12:34 >> 				<a href='https://humbi.hu'>Humbi.hu</a><br><br>Katt a linkre!<EOL>
+25/01/07 09:12:34 >> .<EOL>
+25/01/07 09:12:35 << 250 2.0.0 OK  1736237555 5b1f17b1804b1-43656b442dasm621213385e9.42 - gsmtp<EOL>
+25/01/07 09:12:35 >> QUIT<EOL>
+25/01/07 09:12:35 << 221 2.0.0 closing connection 5b1f17b1804b1-43656b442dasm621213385e9.42 - gsmtp<EOL>
+25/01/07 09:12:35 ** Disconnected.
+25/01/07 09:12:35 ** Disconnected.
+25/01/07 09:12:35 ** Disconnected.
+25/01/07 09:16:18 ** --- MESSAGE BEGIN ---
+25/01/07 09:16:18 ** To: hujber.balazs28@gmail.com
+25/01/07 09:16:18 ** Subject: Test email
+25/01/07 09:16:18 ** From: PHP Óra
+25/01/07 09:16:18 ** MIME-Version: 1.0
+25/01/07 09:16:18 ** Content-type: text/html; charset=UTF-8
+25/01/07 09:16:18 ** 
+25/01/07 09:16:18 ** <div style='padding: 20px; background: lime;'>
+25/01/07 09:16:18 ** 				
+25/01/07 09:16:18 ** 				<h1 style='text-align: center; color: white;'>Teszt email</h1>
+25/01/07 09:16:18 ** 				
+25/01/07 09:16:18 ** 			</div>
+25/01/07 09:16:18 ** 				<a href='https://humbi.hu'>Humbi.hu</a><br><br>Katt a linkre!
+25/01/07 09:16:18 ** --- MESSAGE END ---
+25/01/07 09:16:18 ** Connecting to smtp.gmail.com:465
+25/01/07 09:16:18 ** Connected.
+25/01/07 09:16:18 << 220 smtp.gmail.com ESMTP ffacd0b85a97d-38a1c832c45sm49307053f8f.32 - gsmtp<EOL>
+25/01/07 09:16:18 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:16:18 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:16:18 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:16:18 >> AUTH LOGIN<EOL>
+25/01/07 09:16:19 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:16:19 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:16:19 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:16:19 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:16:19 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:16:19 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:16:19 << 250 2.1.0 OK ffacd0b85a97d-38a1c832c45sm49307053f8f.32 - gsmtp<EOL>
+25/01/07 09:16:19 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:16:19 << 250 2.1.5 OK ffacd0b85a97d-38a1c832c45sm49307053f8f.32 - gsmtp<EOL>
+25/01/07 09:16:19 >> DATA<EOL>
+25/01/07 09:16:19 << 354 Go ahead ffacd0b85a97d-38a1c832c45sm49307053f8f.32 - gsmtp<EOL>
+25/01/07 09:16:19 >> Date: Tue, 7 Jan 2025 09:16:19 +0100<EOL>
+25/01/07 09:16:19 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:16:19 >> Subject: Test email<EOL>
+25/01/07 09:16:19 >> From: PHP Óra<EOL>
+25/01/07 09:16:19 >> MIME-Version: 1.0<EOL>
+25/01/07 09:16:19 >> Content-type: text/html; charset=UTF-8<EOL>
+25/01/07 09:16:19 >> <EOL>
+25/01/07 09:16:19 >> <div style='padding: 20px; background: lime;'><EOL>
+25/01/07 09:16:19 >> 				<EOL>
+25/01/07 09:16:19 >> 				<h1 style='text-align: center; color: white;'>Teszt email</h1><EOL>
+25/01/07 09:16:19 >> 				<EOL>
+25/01/07 09:16:19 >> 			</div><EOL>
+25/01/07 09:16:19 >> 				<a href='https://humbi.hu'>Humbi.hu</a><br><br>Katt a linkre!<EOL>
+25/01/07 09:16:19 >> .<EOL>
+25/01/07 09:16:20 << 250 2.0.0 OK  1736237780 ffacd0b85a97d-38a1c832c45sm49307053f8f.32 - gsmtp<EOL>
+25/01/07 09:16:20 >> QUIT<EOL>
+25/01/07 09:16:20 << 221 2.0.0 closing connection ffacd0b85a97d-38a1c832c45sm49307053f8f.32 - gsmtp<EOL>
+25/01/07 09:16:20 ** Disconnected.
+25/01/07 09:16:20 ** Disconnected.
+25/01/07 09:16:20 ** Disconnected.
+25/01/07 09:18:22 ** --- MESSAGE BEGIN ---
+25/01/07 09:18:22 ** To: hujber.balazs28@gmail.com
+25/01/07 09:18:22 ** Subject: Test email
+25/01/07 09:18:22 ** From: PHP Óra
+25/01/07 09:18:22 ** MIME-Version: 1.0
+25/01/07 09:18:22 ** Content-type: text/html; charset=UTF-8
+25/01/07 09:18:22 ** 
+25/01/07 09:18:22 ** <div style='padding: 10px 0; background: black;'>
+25/01/07 09:18:22 ** 				
+25/01/07 09:18:22 ** 				<h3 style='text-align: center; color: white;'>Oldal neve</h3>
+25/01/07 09:18:22 ** 				
+25/01/07 09:18:22 ** 			</div>
+25/01/07 09:18:22 ** 			
+25/01/07 09:18:22 ** 			<h1>Tisztelt Felhasználó!</h1>
+25/01/07 09:18:22 ** 			
+25/01/07 09:18:22 ** 			<p>Sikeresen regisztráltál oldalunkra. Már csak annyi a dolgod, hogy megerősítsd a regisztrációdat az alábbi linkre kattintva:</p>
+25/01/07 09:18:22 ** 				<a href='https://humbi.hu'>Humbi.hu</a><br><br>Katt!
+25/01/07 09:18:22 ** --- MESSAGE END ---
+25/01/07 09:18:22 ** Connecting to smtp.gmail.com:465
+25/01/07 09:18:23 ** Connected.
+25/01/07 09:18:23 << 220 smtp.gmail.com ESMTP ffacd0b85a97d-38a1c8474c2sm49151488f8f.55 - gsmtp<EOL>
+25/01/07 09:18:23 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:18:23 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:18:23 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:18:23 >> AUTH LOGIN<EOL>
+25/01/07 09:18:23 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:18:23 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:18:23 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:18:23 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:18:23 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:18:23 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:18:23 << 250 2.1.0 OK ffacd0b85a97d-38a1c8474c2sm49151488f8f.55 - gsmtp<EOL>
+25/01/07 09:18:23 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:18:23 << 250 2.1.5 OK ffacd0b85a97d-38a1c8474c2sm49151488f8f.55 - gsmtp<EOL>
+25/01/07 09:18:23 >> DATA<EOL>
+25/01/07 09:18:23 << 354 Go ahead ffacd0b85a97d-38a1c8474c2sm49151488f8f.55 - gsmtp<EOL>
+25/01/07 09:18:23 >> Date: Tue, 7 Jan 2025 09:18:23 +0100<EOL>
+25/01/07 09:18:23 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:18:23 >> Subject: Test email<EOL>
+25/01/07 09:18:23 >> From: PHP Óra<EOL>
+25/01/07 09:18:23 >> MIME-Version: 1.0<EOL>
+25/01/07 09:18:23 >> Content-type: text/html; charset=UTF-8<EOL>
+25/01/07 09:18:23 >> <EOL>
+25/01/07 09:18:23 >> <div style='padding: 10px 0; background: black;'><EOL>
+25/01/07 09:18:23 >> 				<EOL>
+25/01/07 09:18:23 >> 				<h3 style='text-align: center; color: white;'>Oldal neve</h3><EOL>
+25/01/07 09:18:23 >> 				<EOL>
+25/01/07 09:18:23 >> 			</div><EOL>
+25/01/07 09:18:23 >> 			<EOL>
+25/01/07 09:18:23 >> 			<h1>Tisztelt Felhasználó!</h1><EOL>
+25/01/07 09:18:23 >> 			<EOL>
+25/01/07 09:18:23 >> 			<p>Sikeresen regisztráltál oldalunkra. Már csak annyi a dolgod, hogy megerősítsd a regisztrációdat az alábbi linkre kattintva:</p><EOL>
+25/01/07 09:18:23 >> 				<a href='https://humbi.hu'>Humbi.hu</a><br><br>Katt!<EOL>
+25/01/07 09:18:23 >> .<EOL>
+25/01/07 09:18:24 << 250 2.0.0 OK  1736237904 ffacd0b85a97d-38a1c8474c2sm49151488f8f.55 - gsmtp<EOL>
+25/01/07 09:18:24 >> QUIT<EOL>
+25/01/07 09:18:24 << 221 2.0.0 closing connection ffacd0b85a97d-38a1c8474c2sm49151488f8f.55 - gsmtp<EOL>
+25/01/07 09:18:24 ** Disconnected.
+25/01/07 09:18:24 ** Disconnected.
+25/01/07 09:18:24 ** Disconnected.
+25/01/07 09:19:09 ** --- MESSAGE BEGIN ---
+25/01/07 09:19:09 ** To: hujber.balazs28@gmail.com
+25/01/07 09:19:09 ** Subject: Regisztráció
+25/01/07 09:19:09 ** From: PHP Óra
+25/01/07 09:19:09 ** MIME-Version: 1.0
+25/01/07 09:19:09 ** Content-type: text/html; charset=UTF-8
+25/01/07 09:19:09 ** 
+25/01/07 09:19:09 ** <div style='padding: 10px 0; background: black;'>
+25/01/07 09:19:09 ** 				
+25/01/07 09:19:09 ** 				<h3 style='text-align: center; color: white;'>Oldal neve</h3>
+25/01/07 09:19:09 ** 				
+25/01/07 09:19:09 ** 			</div>
+25/01/07 09:19:09 ** 			
+25/01/07 09:19:09 ** 			<h1>Tisztelt Felhasználó!</h1>
+25/01/07 09:19:09 ** 			
+25/01/07 09:19:09 ** 			<p>Sikeresen regisztráltál oldalunkra. Már csak annyi a dolgod, hogy aktiváld a fiókodat az alábbi linkre kattintva:</p>
+25/01/07 09:19:09 ** 				<a href='https://humbi.hu'>Katt!</a>
+25/01/07 09:19:09 ** --- MESSAGE END ---
+25/01/07 09:19:10 ** Connecting to smtp.gmail.com:465
+25/01/07 09:19:10 ** Connected.
+25/01/07 09:19:10 << 220 smtp.gmail.com ESMTP ffacd0b85a97d-38a1c8ace0esm49020698f8f.106 - gsmtp<EOL>
+25/01/07 09:19:10 >> EHLO smtp.gmail.com<EOL>
+25/01/07 09:19:10 << 250-smtp.gmail.com at your service, [176.77.150.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250 SMTPUTF8<EOL>
+25/01/07 09:19:10 ** Authenticating as phpora2024@gmail.com
+25/01/07 09:19:10 >> AUTH LOGIN<EOL>
+25/01/07 09:19:10 << 334 VXNlcm5hbWU6<EOL>
+25/01/07 09:19:10 >> cGhwb3JhMjAyNEBnbWFpbC5jb20=<EOL>
+25/01/07 09:19:10 << 334 UGFzc3dvcmQ6<EOL>
+25/01/07 09:19:10 >> bnh4cCB2dWx1IGJ0amIgbmVoag==<EOL>
+25/01/07 09:19:10 << 235 2.7.0 Accepted<EOL>
+25/01/07 09:19:10 >> MAIL FROM: <phpora2024@gmail.com><EOL>
+25/01/07 09:19:10 << 250 2.1.0 OK ffacd0b85a97d-38a1c8ace0esm49020698f8f.106 - gsmtp<EOL>
+25/01/07 09:19:10 >> RCPT TO: <hujber.balazs28@gmail.com><EOL>
+25/01/07 09:19:10 << 250 2.1.5 OK ffacd0b85a97d-38a1c8ace0esm49020698f8f.106 - gsmtp<EOL>
+25/01/07 09:19:10 >> DATA<EOL>
+25/01/07 09:19:11 << 354 Go ahead ffacd0b85a97d-38a1c8ace0esm49020698f8f.106 - gsmtp<EOL>
+25/01/07 09:19:11 >> Date: Tue, 7 Jan 2025 09:19:11 +0100<EOL>
+25/01/07 09:19:11 >> To: hujber.balazs28@gmail.com<EOL>
+25/01/07 09:19:11 >> Subject: Regisztráció<EOL>
+25/01/07 09:19:11 >> From: PHP Óra<EOL>
+25/01/07 09:19:11 >> MIME-Version: 1.0<EOL>
+25/01/07 09:19:11 >> Content-type: text/html; charset=UTF-8<EOL>
+25/01/07 09:19:11 >> <EOL>
+25/01/07 09:19:11 >> <div style='padding: 10px 0; background: black;'><EOL>
+25/01/07 09:19:11 >> 				<EOL>
+25/01/07 09:19:11 >> 				<h3 style='text-align: center; color: white;'>Oldal neve</h3><EOL>
+25/01/07 09:19:11 >> 				<EOL>
+25/01/07 09:19:11 >> 			</div><EOL>
+25/01/07 09:19:11 >> 			<EOL>
+25/01/07 09:19:11 >> 			<h1>Tisztelt Felhasználó!</h1><EOL>
+25/01/07 09:19:11 >> 			<EOL>
+25/01/07 09:19:11 >> 			<p>Sikeresen regisztráltál oldalunkra. Már csak annyi a dolgod, hogy aktiváld a fiókodat az alábbi linkre kattintva:</p><EOL>
+25/01/07 09:19:11 >> 				<a href='https://humbi.hu'>Katt!</a><EOL>
+25/01/07 09:19:11 >> .<EOL>
+25/01/07 09:19:11 << 250 2.0.0 OK  1736237951 ffacd0b85a97d-38a1c8ace0esm49020698f8f.106 - gsmtp<EOL>
+25/01/07 09:19:11 >> QUIT<EOL>
+25/01/07 09:19:11 << 221 2.0.0 closing connection ffacd0b85a97d-38a1c8ace0esm49020698f8f.106 - gsmtp<EOL>
+25/01/07 09:19:11 ** Disconnected.
+25/01/07 09:19:11 ** Disconnected.
+25/01/07 09:19:11 ** Disconnected.

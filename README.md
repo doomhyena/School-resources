@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # School tasks, projects, tests
 
 All teaching materials published at the *Schola Europa Academy Technical School, High School and Elementary Art School maintained by the Hungarian Methodist Church* during the years 2024-2026.
