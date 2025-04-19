@@ -1,0 +1,22 @@
+
+	1. feladat:
+
+		Az index oldalt alakítsd át úgy, hogy a bejelentkezett felhasználó tudjon posztokat írni. Ezek a posztok jelenjenek
+		is meg az indexen. A posztnak a szövegét, és az író felhasználónak a nevét is jelenítsd meg a posztban.
+		Mindig a legújabb poszt kerüljön legelőre.
+
+	2. feladat:
+
+		Bármelyik posztban a felhasználónévre kattintva navigáljon át az oldal a profil.php oldalra. Ítt írd ki, hogy kinek
+		az oldalát nézi a felhasználó, és a kiválasztott felhasználó összes posztját írd ki az oldalára. Természetesen itt is
+		mindig a legújabb legyen legelöl.
+
+	3. feladat:
+
+		Az indexen oldd meg, hogy a bejelentkezett felhasználó tudja likeolni/dislikeolni az összes posztot.
+			Még nem likeolta -> like gomb
+			Ha már likeolta -> dislike gomb
+	
+	4. feladat:
+
+		Minden poszthoz írd ki, hogy mennyi felhasználó likeolta már.
