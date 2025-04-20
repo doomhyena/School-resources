@@ -10,6 +10,7 @@ The teaching materials are sorted into folders with year numbers for each academ
 
 There are four subcategories within the school year folders:
 
+- Class Work: Usually non-graded tasks that we have to make during together.
 - Homeworks: Usually graded or non-graded projects that had to work on at home.
 - Taks: Usually non-graded tasks that we have to solve during class without a time limit.
 - Projects: Usually larger graded or non-graded projects that we are given during project weeks and had to work on at home.

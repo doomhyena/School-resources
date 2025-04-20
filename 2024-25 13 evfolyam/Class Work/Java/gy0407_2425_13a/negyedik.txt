@@ -1,0 +1,4 @@
+Lajos,7
+Aladar,9
+Anna,40
+Tomi,20
