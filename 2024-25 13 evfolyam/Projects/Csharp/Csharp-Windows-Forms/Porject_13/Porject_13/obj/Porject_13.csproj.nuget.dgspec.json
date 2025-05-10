@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Csontos Kincső\\Documents\\GitHub\\School-projects\\2024-25 13 evfolyam\\Projects\\Csharp\\Csharp-Windows-Forms\\Porject_13\\Porject_13\\Porject_13.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Csontos Kincső\\Documents\\GitHub\\School-projects\\2024-25 13 evfolyam\\Projects\\Csharp\\Csharp-Windows-Forms\\Porject_13\\Porject_13\\Porject_13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Csontos Kincső\\Documents\\GitHub\\School-projects\\2024-25 13 evfolyam\\Projects\\Csharp\\Csharp-Windows-Forms\\Porject_13\\Porject_13\\Porject_13.csproj",
+        "projectName": "Porject_13",
+        "projectPath": "C:\\Users\\Csontos Kincső\\Documents\\GitHub\\School-projects\\2024-25 13 evfolyam\\Projects\\Csharp\\Csharp-Windows-Forms\\Porject_13\\Porject_13\\Porject_13.csproj",
+        "packagesPath": "C:\\Users\\Csontos Kincső\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Csontos Kincső\\Documents\\GitHub\\School-projects\\2024-25 13 evfolyam\\Projects\\Csharp\\Csharp-Windows-Forms\\Porject_13\\Porject_13\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Csontos Kincső\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
