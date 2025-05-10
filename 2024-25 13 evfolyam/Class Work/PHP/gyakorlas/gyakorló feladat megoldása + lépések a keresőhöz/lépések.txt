@@ -1,0 +1,25 @@
+
+	Lépések
+	
+		- Kereső mező létrehozása
+		- Javascript szekció
+		- Kereső mező megkapja az id-t
+		- document.getelementById("keresoidja").addEventListener('keyup', (e) => {
+		
+			...
+		
+		});
+		
+		- kimented az adatot: var keresettadat = e.target.value(); (eventlistenerben)
+		- div a betöltéshez
+		- div id
+		- JQuery link
+		- külső fájl létrehozása egy echoval (tesztnek)
+		- eventlistenerben: $load("#divid").load("kulsofajl.php")
+		- ----> .load("kulsofajl.php?keresett"+keresettadat)
+		- külső fájlban linken belüli változó elmentése: $keresett = $_GET['keresett']
+		- lekérdezés es echo a megfelelő sorokhoz (WHERE oszlop LIKE '%keresett%')
+		
+		Süti:
+		
+		setcookie("sutineve", ertek, time() + (masodpercek), "/");
