@@ -1,0 +1,32 @@
+
+
+	Feladat:
+	
+		Készíts keresőt a 'nevek' táblából.
+		
+		Az indexen helyezz el egy szöveges keresőmezőt.
+	
+		Hozz létre egy findnev.php fájlt, ami a keresett adat alapján a nevek lekérdezéséért feleljen.
+	
+		A findnev.php fájl találatai az index-en jelenjenek meg.
+	
+		A keresőbe tudja begépelni a felhasználó az általa keresett nevet. Gépelés közben az oldal folyamatosan kérdezze le a hasonló találatok a tanult módon.
+		
+		A JQuery linket a JQuery.txt fájlban találod.
+		
+		------------------------------------------------------------------------------------------------
+		
+		Plusz pontokért (MAX 5 PONT):
+		
+			Készíts bejelentkezést a users tábla adatait használva.
+			
+			Bejelentkezéskor vizsgáld meg, hogy a felhasználó létezik-e, és hogy jó jelszó lett-e beírva.
+			
+			A jelszavak a users táblában titkosítva vannak.
+			
+			Minden fiók jelszava: 123
+			
+			Sikeres bejelentkezés esetén a felhasználó azonosítóját egy sütibe mentsd el.
+			
+			Az indexet csak bejelentkezett felhasználó lássa. Ha bejelentkezett, írd ki a felhasználó nevét az indexre.
+		

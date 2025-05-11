@@ -1,1 +1,0 @@
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYPz2oO-GAU9lJG_sT6TQa8ntuF8qQpxM&callback=initMap&loading=async" async defer></script>
