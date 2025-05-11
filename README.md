@@ -20,7 +20,6 @@ There are four subcategories within the school year folders:
 
 This is a non-programming Class where we are not programming, rather we making diagrams.
 
-=======
 # School tasks, projects, tests
 
 All teaching materials published at the *Schola Europa Academy Technical School, High School and Elementary Art School maintained by the Hungarian Methodist Church* during the years 2024-2026.
@@ -42,5 +41,4 @@ There are four subcategories within the school year folders:
 
 This is a non-programming Class where we are not programming, rather we making diagrams.
 
->>>>>>> f3cef809a2049460bafbcb11e30e921002ec8935
 *Created by: Doomhyena (Csontos Kincső)*
