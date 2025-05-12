@@ -1,0 +1,57 @@
+drop table if exists Diák;
+drop table if exists Barát;
+drop table if exists Kedvelés;
+
+create table Diák(ID int, nev text, evfolyam int);
+create table Barát(ID1 int, ID2 int);
+create table Kedvelés(ID1 int, ID2 int);
+
+insert into Diák values (1510, 'Jordan', 9);
+insert into Diák values (1689, 'Gabriel', 9);
+insert into Diák values (1381, 'Tiffany', 9);
+insert into Diák values (1709, 'Cassandra', 9);
+insert into Diák values (1101, 'Haley', 10);
+insert into Diák values (1782, 'Andrew', 10);
+insert into Diák values (1468, 'Kris', 10);
+insert into Diák values (1641, 'Brittany', 10);
+insert into Diák values (1247, 'Alexis', 11);
+insert into Diák values (1316, 'Austin', 11);
+insert into Diák values (1911, 'Gabriel', 11);
+insert into Diák values (1501, 'Jessica', 11);
+insert into Diák values (1304, 'Jordan', 12);
+insert into Diák values (1025, 'John', 12);
+insert into Diák values (1934, 'Kyle', 12);
+insert into Diák values (1661, 'Logan', 12);
+
+insert into Barát values (1510, 1381);
+insert into Barát values (1510, 1689);
+insert into Barát values (1689, 1709);
+insert into Barát values (1381, 1247);
+insert into Barát values (1709, 1247);
+insert into Barát values (1689, 1782);
+insert into Barát values (1782, 1468);
+insert into Barát values (1782, 1316);
+insert into Barát values (1782, 1304);
+insert into Barát values (1468, 1101);
+insert into Barát values (1468, 1641);
+insert into Barát values (1101, 1641);
+insert into Barát values (1247, 1911);
+insert into Barát values (1247, 1501);
+insert into Barát values (1911, 1501);
+insert into Barát values (1501, 1934);
+insert into Barát values (1316, 1934);
+insert into Barát values (1934, 1304);
+insert into Barát values (1304, 1661);
+insert into Barát values (1661, 1025);
+insert into Barát select ID2, ID1 from Barát;
+
+insert into Kedvelés values(1689, 1709);
+insert into Kedvelés values(1709, 1689);
+insert into Kedvelés values(1782, 1709);
+insert into Kedvelés values(1911, 1247);
+insert into Kedvelés values(1247, 1468);
+insert into Kedvelés values(1641, 1468);
+insert into Kedvelés values(1316, 1304);
+insert into Kedvelés values(1501, 1934);
+insert into Kedvelés values(1934, 1501);
+insert into Kedvelés values(1025, 1101);
