@@ -37,8 +37,9 @@ There are four subcategories within the school year folders:
 - Projects: Usually larger graded or non-graded projects that we are given during project weeks and had to work on at home.
 - Tests: Usually graded tests that we have to solve during class within a certain time limit.
 
-## IKT Class
+## Where the 2024-25 14 evfolyam/Wuncs folder?
 
-This is a non-programming Class where we are not programming, rather we making diagrams.
+This folder contains files what is bigger than 100mb so I uploaded in Google Drive.
+The whole folder available [here](https://drive.google.com/drive/folders/1q7gAJhEEr4ya6pDu2pxPuEf5UqwJbUMq?usp=sharing)!
 
 *Created by: Doomhyena (Csontos Kincső)*
