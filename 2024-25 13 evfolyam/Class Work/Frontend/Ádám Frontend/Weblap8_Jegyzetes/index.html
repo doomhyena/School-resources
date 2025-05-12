@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="forma.css">
+    <jcim>Jegyzetek</jcim>
+</head>
+<body>
+<div class="header">
+    <div class="container">
+        <h1 class="header__jcim">Jegyzetek</h1>
+        <h2 class="header__subjcim">Írj fel mindent</h2>
+    </div>
+</div>
+<div class="actions">
+    <div class="actions__container">
+        <input id="keresett-szoveg" type="text" class="input" placeholder="Szűrés">
+        <select name="" id="szures-mod" class="dropdown">
+            <option value="szerkAlapjan">Szerk. dátum</option>
+            <option value="letrAlapjan">Létr. dátum</option>
+            <option value="abcAlapjan">ABC sorrend</option>
+        </select>
+    </div>
+</div>
+<div class="container">
+    <div id="jegyzetlista"></div>
+    <button id="jegyzet-letrehoz" class="button">Új lap</button>    
+</div>    
+	<script src="uuid.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment-with-locales.js"></script> 
+    <script src="funkciok.js"></script>
+    <script src="alap.js"></script>
+</body>
+</html>
