@@ -1,0 +1,64 @@
+/*********
+Színek: zold: #50BC4F; kek: #0a0e36; sarga: #E7D932;
+***********/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* 16. Színváltozók */
+:root {
+    --sarga: #FFEB3B;  /* Sárga */
+    --zold: #4CAF50;   /* Zöld */
+    --kek: #2196F3;    /* Kék */
+}
+
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+
+h1, h2, h3 {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 700;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 0;
+}
+
+
+.container, header, footer {
+    background-color: var(--sarga);
+}
+
+p {
+    text-align: justify;
+}
+h1, h2, h3 {
+    color: var(--zold);
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+
+.navbar {
+    border-radius: 20px;
+    background-color: var(--kek);
+}
+
+
+strong {
+    font-weight: bold;
+    color: var(--kek);
+}
+
+
+.senna {
+    width: 200px;
+    margin: 20px auto;
+    border: 2px solid black;
+}
