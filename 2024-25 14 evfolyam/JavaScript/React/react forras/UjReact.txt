@@ -1,0 +1,8 @@
+Új react projekt létrehozása:
+    - (Node.js és Git legyen telepítve)
+    - 1. cmd nyitása üres mappában
+    - 2. npx create-react-app AppNeve
+    - 3. kód mgírása a megfelelő fájlokban
+	* az index.html a public mappában
+	* App.js, index.js és index.css az src mappában
+    - 4. npm start (projekt futtatása)

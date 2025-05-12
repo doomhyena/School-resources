@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Komplex Eseménykezelők Projekt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="fejlec">
+        <h1>Komplex Eseménykezelők Weboldal</h1>
+    </header>
+    <section class="tartalom">
+        <!-- Dinamikus lista és hozzáadó gomb -->
+        <div class="resz">
+            <button id="gombHozzaadElem">Új listaelem hozzáadása</button>
+            <ul id="dinamikusLista" class="lista">
+                <li class="listaElem">Listaelem 1</li>
+                <li class="listaElem">Listaelem 2</li>
+            </ul>
+        </div>
+
+        <!-- Szövegbeviteli mező -->
+        <div class="resz">
+            <input type="text" id="inputSzoveg" placeholder="Írj be valamit..." />
+        </div>
+
+        <!-- Interaktív div több eseménnyel -->
+        <div class="resz">
+            <div id="interaktivDivPlus" class="doboz">
+                <p>Itt kattintgatsz és interakcióba lépsz!</p>
+            </div>
+        </div>
+
+        <!-- Szülő div az eseménydelegáláshoz (capturing & bubbling) -->
+        <div class="resz">
+            <div id="szuloDiv" class="doboz">
+                <h2>Szülő elem</h2>
+                <div class="gyerekElem">
+                    Gyerek elem 1
+                </div>
+                <div class="gyerekElem">
+                    Gyerek elem 2
+                </div>
+            </div>
+        </div>
+
+        <!-- Mozgó doboz: egérmozgás figyelés throttlinggal -->
+        <div class="resz">
+            <div id="mozgoDoboz" class="doboz">
+                Mozgó doboz - Húzd az egeret felette!
+            </div>
+        </div>
+
+        <!-- Drag & Drop: Húzható elem -->
+        <div class="resz">
+            <div id="dragElem" class="doboz" style="cursor: grab; width: 150px; height: 150px;">
+                Húzható elem
+            </div>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+.note-app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+
+.note-app h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.note-app input[type="text"],
+.note-app input {
+  padding: 8px;
+  margin: 10px 0;
+  width: calc(100% - 20px);
+  box-sizing: border-box;
+}
+
+
+.note-app button {
+  padding: 8px 12px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+
+.note-app ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+.note-app li {
+  background: #f9f9f9;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.note-date {
+  font-size: 0.8em;
+  color: #666;
+  margin-left: 10px;
+}
