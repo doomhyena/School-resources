@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\bin\Debug\ProgTetelek.exe.config
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\bin\Debug\ProgTetelek.exe
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\bin\Debug\ProgTetelek.pdb
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\obj\Debug\ProgTetelek.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\obj\Debug\ProgTetelek.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\obj\Debug\ProgTetelek.exe
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ProgTetelek\obj\Debug\ProgTetelek.pdb

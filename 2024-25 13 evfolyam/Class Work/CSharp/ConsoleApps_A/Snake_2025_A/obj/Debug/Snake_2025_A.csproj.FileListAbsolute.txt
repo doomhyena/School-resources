@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\bin\Debug\Snake_2025_A.exe.config
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\bin\Debug\Snake_2025_A.exe
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\bin\Debug\Snake_2025_A.pdb
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\obj\Debug\Snake_2025_A.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\obj\Debug\Snake_2025_A.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\obj\Debug\Snake_2025_A.exe
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\Snake_2025_A\obj\Debug\Snake_2025_A.pdb
