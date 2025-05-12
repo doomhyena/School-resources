@@ -1,0 +1,12 @@
+Kérjen be 3 egész számot a felhasználótól (a,b és c néven).
+	- Írja ki melyik a legnagyobb
+	- A legkisebbet szorozza meg 3-mal
+	- Újra vizsgálja meg és írja ki a legnagyobbat.
+
+-------------------------------------------------------------
+Hozzon létre két véletlen generált egész számot (d,e)
+	- Az első szám 20 és 70 között generálódjon
+	- A második szám 50 és 100 között
+	- Határozza meg, hogy az első szám páros-e?
+	- Határozza meg, hogy a második szám otható-e öttel?
+	

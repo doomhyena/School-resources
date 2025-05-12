@@ -1,0 +1,11 @@
+Készítsen egy metódust amely beolvassa a szamok.txt
+tartalmát és eltárolja egy listában.
+Ha a fájl nem létezik, a program hozza létre.
+	szamok.txt tartalma:
+	  -számok pontosvesszővel elválasztva egymástól.
+			(10 db)
+Ha nem sikerült beolvasni a fájlt és generálni kellett.
+	- Akkor írja ki a felhasználónak, hogy a
+	fájl most jött létre.
+Ha sikerült beolvasni,
+akkor a sikeres beolvasás jelenjen meg

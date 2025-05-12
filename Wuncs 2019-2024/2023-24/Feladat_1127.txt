@@ -1,0 +1,10 @@
+Készítsen egy 5 elemű inteket tároló tömböt.
+Töltse fel 5 és 50 közötti véletlen generált
+számokkal. Írja ki a tömböt az outputra.
+
+Kérjen be a felhasználótól két olyan számot
+amely kisebb mint a tömb mérete de nagyobb mint 1.
+(Addig kérje ezeket a számokat, míg jókat nem ad)
+
+Cserélje fel a tömb ezen két helyén szereplő számokat.
+Újra írja ki a tömböt az outputra.

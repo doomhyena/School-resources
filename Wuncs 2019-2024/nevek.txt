@@ -1,0 +1,3 @@
+Ádám,Gábor,Anna,Fruzsina
+Ferenc,Béla,Lajos,Kriszta
+Gyöngyvér,István,Károly,Bence

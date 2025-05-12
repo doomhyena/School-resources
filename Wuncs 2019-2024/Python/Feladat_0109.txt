@@ -1,0 +1,4 @@
+Olvassa be a 'feladat.txt' fájlt.
+A fájl számokat tartalmaz.
+Ezeket a számokat helyezze el
+'páros' és 'páratlan' nevű listákba.

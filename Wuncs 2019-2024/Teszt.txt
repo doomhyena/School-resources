@@ -1,0 +1,10 @@
+Kérjen be számokat felhasználótól
+0 végjelig.
+	- Írja ki 
+		- a beadott számok összegét.
+		- a beadott számok átlagát. (0 ne számítson bele)
+		- a legkisebb beadott számot. (0 ne számítson bele)
+
+Hozzon létre egy 10 elemű tömböt és töltse fel
+1 és 100 közötti számokkal.
+		-Írja ki a tömb 3 legkisebb elemét.
