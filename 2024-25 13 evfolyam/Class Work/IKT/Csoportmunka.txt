@@ -1,0 +1,18 @@
+Csoportos projektmunka:
+   - 1-3 fős csapatok
+   - 15 perces prezentáció összerakása (10-15 dia)
+   - Téma: valamilyen informaikai cég működése
+   - Részletezés a prezentációban:
+	* Miről szól a cég, milyen szolgáltatásokat nyújt
+	* Céges folyamatok modellezése (minimum 4-5 darab
+	  diagram (Activity és Class diagram is) + adatbázis 
+	  modell, mellé érdemi SQL lekérdezésekkel (4-5 darab)
+   - Határidő: február 19.-i IKT óra
+
+
+
+
+
+
+
+
