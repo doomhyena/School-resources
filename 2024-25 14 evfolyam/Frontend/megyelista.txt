@@ -1,0 +1,20 @@
+1.	Budapest
+2.	Pest megye
+3.	Veszprém megye
+4.	Baranya megye
+5.	Csongrád-Csanád megye
+6.	Zala megye
+7.	Fejér megye
+8.	Győr-Moson-Sopron megye
+9.	Hajdú-Bihar megye
+10.	Borsod-Abaúj-Zemplén megye
+11.	Vas megye
+12.	Bács-Kiskun megye
+13.	Békés megye
+14.	Somogy megye
+15.	Jász-Nagykun-Szolnok megye
+16.	Szabolcs-Szatmár-Bereg megye
+17.	Komárom-Esztergom megye
+18.	Heves megye
+19.	Tolna megye
+20.	Nógrád megye
