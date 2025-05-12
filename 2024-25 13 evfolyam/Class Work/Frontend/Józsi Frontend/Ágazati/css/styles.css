@@ -1,0 +1,108 @@
+/*********
+Színek: zold: #50BC4F; kek: #0a0e36; sarga: #E7D932;
+***********/
+
+:root {
+	--zold: #50BC4F ;
+	--sarga: #E7D932;
+	--kek: #0a0e36 ;
+}
+
+@font-face {
+	font-family: Poppins-Regular; 
+	src: url("../fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+	font-family: Poppins-Bold; 
+	src: url("../fonts/Poppins-Bold.ttf");
+}
+
+body {
+	font-family: Poppins-Regular, Arial;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Poppins-Bold, Arial;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.container, footer, header {
+    padding: 20px;
+    border-left: 2px solid var(--kek);
+    border-right: 2px solid var(--kek);
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: var(--sarga);
+}
+header {
+    border-bottom: 2px dashed rgb(0, 0, 0);
+}
+
+p {
+    line-height: 150%;
+    text-indent: 30px;
+}
+
+section{
+    margin: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+tr:nth-child(odd) {
+    background-color: var(--zold);
+}
+
+th {
+    width: 50%;
+}
+
+td, th {
+    padding: 10px;
+    border: 2px solid var(--zold);
+}
+
+img {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    border: 2px solid var(--kek);
+}
+
+.nav-link {
+    color: var(--sarga);
+}
+
+.nav-link:hover {
+    color: var(--zold);
+}
+
+.bg-menu {
+	color: var(--sarga);
+    background-color: var(--kek);
+	border-radius: 20px;
+}
+
+img.senna {
+    border-radius: 20px;
+	width: 200px;
+	border: 2px solid black;
+	display: block;
+	margin: 20px auto;
+}
+
+.kiemeles {
+	color: var(--kek);
+	font-weight: bold;
+}
+
+
