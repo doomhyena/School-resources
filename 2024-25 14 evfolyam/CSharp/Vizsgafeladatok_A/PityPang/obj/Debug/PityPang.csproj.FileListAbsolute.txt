@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\bin\Debug\PityPang.exe.config
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\bin\Debug\PityPang.exe
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\bin\Debug\PityPang.pdb
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\obj\Debug\PityPang.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\obj\Debug\PityPang.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\obj\Debug\PityPang.exe
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\PityPang\obj\Debug\PityPang.pdb

@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\bin\Debug\Automata.exe.config
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\bin\Debug\Automata.exe
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\bin\Debug\Automata.pdb
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\obj\Debug\Automata.exe
+S:\Szoftver\Szoftver13\KZ\B\Vizsgafeladatok_B\Automata\obj\Debug\Automata.pdb

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\mvc_shop_2024_b\\mvc_shop_2024_b\\script\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\script\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\mvc_shop_2024_b\\api\\cartproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\api\\cartproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\mvc_shop_2024_b\\models\\cartapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\models\\cartapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\mvc_shop_2024_b\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\views\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\mvc_shop_2024_b\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\mvc_shop_2024_b\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\mvc_shop_2024_b\\models\\mvcshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52E2231-75D5-404A-B957-B13F3C3EFF2C}|MVC_SHOP_2024_B\\MVC_SHOP_2024_B.csproj|solutionrelative:mvc_shop_2024_b\\models\\mvcshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\Controllers\\ShopController.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:56:15.131Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\Models\\CartModel.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Models\\CartModel.cs",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:41:47.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Views\\Shop\\Cart.cshtml",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\Views\\Shop\\Cart.cshtml",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Views\\Shop\\Cart.cshtml",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\Views\\Shop\\Cart.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwC8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:45:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartProductController.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\API\\CartProductController.cs",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\API\\CartProductController.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\API\\CartProductController.cs",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\API\\CartProductController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:26:07.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartAPIModel.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Models\\CartAPIModel.cs",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\Models\\CartAPIModel.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Models\\CartAPIModel.cs",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\Models\\CartAPIModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:30:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cart.js",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Script\\cart.js",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\Script\\cart.js",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Script\\cart.js",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\Script\\cart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-24T10:40:25.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MVCShopModel.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Models\\MVCShopModel.cs",
+              "RelativeDocumentMoniker": "MVC_SHOP_2024_B\\Models\\MVCShopModel.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\MVC_SHOP_2024_B\\MVC_SHOP_2024_B\\Models\\MVCShopModel.cs",
+              "RelativeToolTip": "MVC_SHOP_2024_B\\Models\\MVCShopModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:53:13.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

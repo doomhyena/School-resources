@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uszoda_B", "Uszoda_B.csproj", "{52438E71-1137-4C1D-84F8-0D2F3DD7371E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automata_2024_B", "..\Automata_2024_B\Automata_2024_B.csproj", "{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52438E71-1137-4C1D-84F8-0D2F3DD7371E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52438E71-1137-4C1D-84F8-0D2F3DD7371E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52438E71-1137-4C1D-84F8-0D2F3DD7371E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52438E71-1137-4C1D-84F8-0D2F3DD7371E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70721122-5576-499F-88B9-43E83D96FC4D}
+	EndGlobalSection
+EndGlobal

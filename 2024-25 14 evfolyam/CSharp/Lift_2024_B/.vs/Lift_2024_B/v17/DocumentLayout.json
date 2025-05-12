@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\lift_2024_b\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\lift_2024_b\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA03196-619E-4CCC-872C-DF8D0C58F0C6}|Lift_2024_B.csproj|solutionrelative:models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:16:12.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:33:09.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:23:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Elevator.cs",
+              "RelativeDocumentMoniker": "Models\\Elevator.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Elevator.cs",
+              "RelativeToolTip": "Models\\Elevator.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAA6wIsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:23:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Level.cs",
+              "RelativeDocumentMoniker": "Models\\Level.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Level.cs",
+              "RelativeToolTip": "Models\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:22:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Building.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "Models\\Building.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Models\\Building.cs",
+              "RelativeToolTip": "Models\\Building.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD8vxEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:22:44.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Simulator.cs",
+              "RelativeDocumentMoniker": "Simulator.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Simulator.cs",
+              "RelativeToolTip": "Simulator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:22:12.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Lift_2024_B\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:07:10.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

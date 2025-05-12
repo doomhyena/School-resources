@@ -1,0 +1,14 @@
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\bin\Debug\CégesAutók.exe.config
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\bin\Debug\CégesAutók.exe
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\bin\Debug\CégesAutók.pdb
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.exe
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.pdb
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\bin\Debug\CégesAutók.exe.config
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\bin\Debug\CégesAutók.exe
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\bin\Debug\CégesAutók.pdb
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.exe
+S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\CégesAutók\obj\Debug\CégesAutók.pdb

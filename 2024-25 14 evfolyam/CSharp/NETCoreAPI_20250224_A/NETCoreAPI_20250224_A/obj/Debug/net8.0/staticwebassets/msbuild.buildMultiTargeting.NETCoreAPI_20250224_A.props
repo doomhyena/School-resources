@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NETCoreAPI_20250224_A.props" />
+</Project>

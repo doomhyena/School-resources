@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}|..\\Automata_2024_B\\Automata_2024_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\automata_2024_b\\models\\automata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\uszoda_b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\uszoda_b\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\models\\uszoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52438E71-1137-4C1D-84F8-0D2F3DD7371E}|Uszoda_B.csproj|solutionrelative:models\\uszoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06E46BB-E297-4B4A-A528-C4E9FFA586FC}|..\\Automata_2024_B\\Automata_2024_B.csproj|s:\\szoftver\\szoftver14\\kz\\b\\automata_2024_b\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Automata_2024_B\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Automata_2024_B\\Models\\Product.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Automata_2024_B\\Models\\Product.cs",
+              "RelativeToolTip": "..\\Automata_2024_B\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:09:34.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:01:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automata.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Automata_2024_B\\Models\\Automata.cs",
+              "RelativeDocumentMoniker": "..\\Automata_2024_B\\Models\\Automata.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Automata_2024_B\\Models\\Automata.cs",
+              "RelativeToolTip": "..\\Automata_2024_B\\Models\\Automata.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:16:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uszoda.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Models\\Uszoda.cs",
+              "RelativeDocumentMoniker": "Models\\Uszoda.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Models\\Uszoda.cs",
+              "RelativeToolTip": "Models\\Uszoda.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:15:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwG4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:15:11.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\B\\Uszoda_B\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:04:08.711Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

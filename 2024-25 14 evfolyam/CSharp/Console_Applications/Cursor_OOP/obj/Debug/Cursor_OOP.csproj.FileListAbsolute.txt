@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\bin\Debug\Cursor_OOP.exe.config
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\bin\Debug\Cursor_OOP.exe
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\bin\Debug\Cursor_OOP.pdb
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\obj\Debug\Cursor_OOP.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\obj\Debug\Cursor_OOP.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\obj\Debug\Cursor_OOP.exe
+S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Cursor_OOP\obj\Debug\Cursor_OOP.pdb

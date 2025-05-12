@@ -1,0 +1,12 @@
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\bin\Debug\net8.0\DataBase.deps.json
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\bin\Debug\net8.0\DataBase.dll
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\bin\Debug\net8.0\DataBase.pdb
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfoInputs.cache
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfo.cs
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.dll
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\refint\DataBase.dll
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\DataBase.pdb
+S:\Szoftver\Szoftver14\KZ\A\Web_API_Demo\DataBase\obj\Debug\net8.0\ref\DataBase.dll

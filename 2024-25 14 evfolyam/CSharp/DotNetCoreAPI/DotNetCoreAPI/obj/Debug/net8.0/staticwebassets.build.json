@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lwvPN+fmecErd9jIpPAcPiu7ds95QdUBXTphpxXDMW4=",
+  "Source": "DotNetCoreAPI",
+  "BasePath": "_content/DotNetCoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

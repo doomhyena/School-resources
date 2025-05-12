@@ -1,0 +1,16 @@
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\AppData\NorthWind.mdf
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\AppData\NorthWind_log.ldf
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\NorthWind.mdf
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\NorthWind_log.ldf
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EF_20240522_A.exe.config
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EF_20240522_A.exe
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EF_20240522_A.pdb
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EntityFramework.dll
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EntityFramework.SqlServer.dll
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EntityFramework.xml
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\bin\Debug\EntityFramework.SqlServer.xml
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\obj\Debug\EF_20240522_A.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\obj\Debug\EF_20240522_A.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\obj\Debug\EF_20240522_A.exe
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\obj\Debug\EF_20240522_A.pdb
+S:\Szoftver\Szoftver13\KZ\A\EF_20240522_A\obj\Debug\EF_20240522_A.csproj.CopyComplete

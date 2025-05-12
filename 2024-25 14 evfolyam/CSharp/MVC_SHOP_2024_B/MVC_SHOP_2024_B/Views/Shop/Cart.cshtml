@@ -1,0 +1,107 @@
+﻿@model MVC_SHOP_2024_B.Models.MVCShopModel
+@{
+	int quantity = 0;
+	decimal totalPrice = 0;
+}
+
+
+@section style{
+	<link href="~/css/cart.css" rel="stylesheet" />
+}
+<div class="cart-wrap">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="main-heading">Shopping Cart</div>
+				<div class="table-cart">
+					<table>
+						<thead>
+							<tr>
+								<th>Product</th>
+								<th>Quantity</th>
+								<th>Total</th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (Product p in Model.CartModel.Products)
+							{
+								quantity = @Model.SessionData.Cart[p.ProductID];
+								totalPrice += quantity * p.UnitPrice ?? 0;
+								<tr id="productRow_@p.ProductID">
+									<td>
+										<div class="display-flex align-center">
+											<div class="img-product">
+												<img src="https://via.placeholder.com/700x400" alt="" class="mCS_img_loaded">
+											</div>
+											<div class="name-product">
+												@p.ProductName
+											</div>
+											<div class="price">
+												@String.Format($"${p.UnitPrice:N}")
+											</div>
+										</div>
+									</td>
+									<td class="product-count">
+										<div action="#" class="count-inlineflex">
+											<div id="productDec_@p.ProductID" class="qtyminus productDec">-</div>
+											<input type="text" name="quantity" value="@quantity" id="productQty_@p.ProductID" class="qty productDirect">
+											<div id="productInc_@p.ProductID" class="qtyplus productInc">+</div>
+										</div>
+									</td>
+									<td>
+										<div id="prodTotal_@p.ProductID" class="total">
+											@String.Format($"${p.UnitPrice * quantity:N}")
+										</div>
+									</td>
+									<td>										
+											<svg id="delProduct_@p.ProductID" class="delProduct" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="height:1.2em"><path d="M135.2 17.7L128 32 32 32C14.3 32 0 46.3 0 64S14.3 96 32 96l384 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-96 0-7.2-14.3C307.4 6.8 296.3 0 284.2 0L163.8 0c-12.1 0-23.2 6.8-28.6 17.7zM416 128L32 128 53.2 467c1.6 25.3 22.6 45 47.9 45l245.8 0c25.3 0 46.3-19.7 47.9-45L416 128z" /></svg>
+									</td>
+								</tr>
+							}
+
+
+						</tbody>
+					</table>
+
+				</div>
+				<!-- /.table-cart -->
+			</div>
+			<!-- /.col-lg-8 -->
+			<div class="col-lg-4">
+				<div class="cart-totals">
+					<h3>Cart Totals</h3>
+					<form action="#" method="get" accept-charset="utf-8">
+						<table>
+							<tbody>
+								<tr>
+									<td>Subtotal</td>
+									<td class="subtotal">@string.Format($"${totalPrice:N}")</td>
+								</tr>
+								<tr>
+									<td>Shipping</td>
+									<td class="free-shipping">Free Shipping</td>
+								</tr>
+								<tr class="total-row">
+									<td>Total</td>
+									<td id="totalPrice" class="price-total">@string.Format($"${totalPrice:N}")</td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="btn-cart-totals">
+							<a href="#" class="update round-black-btn" title="">Update Cart</a>
+							<a href="#" class="checkout round-black-btn" title="">Proceed to Checkout</a>
+						</div>
+						<!-- /.btn-cart-totals -->
+					</form>
+					<!-- /form -->
+				</div>
+				<!-- /.cart-totals -->
+			</div>
+			<!-- /.col-lg-4 -->
+		</div>
+	</div>
+</div>
+@section script{
+	<script src="~/Script/cart.js"></script>
+}

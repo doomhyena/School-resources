@@ -1,0 +1,10 @@
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\bin\Debug\WindowsFormsApp_B_20240529.exe.config
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\bin\Debug\WindowsFormsApp_B_20240529.exe
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\bin\Debug\WindowsFormsApp_B_20240529.pdb
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.Form1.resources
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.Properties.Resources.resources
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.csproj.GenerateResource.cache
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.exe
+S:\Szoftver\Szoftver13\KZ\B\WindowsFormsApp_B_20240529\obj\Debug\WindowsFormsApp_B_20240529.pdb

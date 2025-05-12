@@ -1,0 +1,12 @@
+C:\Users\kizo7\Desktop\Automata_DLL\bin\Debug\Automata_DLL.dll
+C:\Users\kizo7\Desktop\Automata_DLL\bin\Debug\Automata_DLL.pdb
+C:\Users\kizo7\Desktop\Automata_DLL\obj\Debug\Automata_DLL.csproj.AssemblyReference.cache
+C:\Users\kizo7\Desktop\Automata_DLL\obj\Debug\Automata_DLL.csproj.CoreCompileInputs.cache
+C:\Users\kizo7\Desktop\Automata_DLL\obj\Debug\Automata_DLL.dll
+C:\Users\kizo7\Desktop\Automata_DLL\obj\Debug\Automata_DLL.pdb
+C:\Users\kiss.zoltan\Desktop\Automata_DLL\bin\Debug\Automata_DLL.dll
+C:\Users\kiss.zoltan\Desktop\Automata_DLL\bin\Debug\Automata_DLL.pdb
+C:\Users\kiss.zoltan\Desktop\Automata_DLL\obj\Debug\Automata_DLL.csproj.AssemblyReference.cache
+C:\Users\kiss.zoltan\Desktop\Automata_DLL\obj\Debug\Automata_DLL.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zoltan\Desktop\Automata_DLL\obj\Debug\Automata_DLL.dll
+C:\Users\kiss.zoltan\Desktop\Automata_DLL\obj\Debug\Automata_DLL.pdb

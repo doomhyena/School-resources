@@ -1,0 +1,14 @@
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\bin\Debug\Robot.exe.config
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\bin\Debug\Robot.exe
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\bin\Debug\Robot.pdb
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\obj\Debug\Robot.exe
+S:\Szoftver\Szoftver13\KZ\A\Vizsgafeladatok_A\Robot\obj\Debug\Robot.pdb
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\bin\Debug\Robot.exe.config
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\bin\Debug\Robot.exe
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\bin\Debug\Robot.pdb
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\obj\Debug\Robot.exe
+C:\Users\kiss.zoltan\Desktop\Vizsgafeladatok_A\Robot\obj\Debug\Robot.pdb

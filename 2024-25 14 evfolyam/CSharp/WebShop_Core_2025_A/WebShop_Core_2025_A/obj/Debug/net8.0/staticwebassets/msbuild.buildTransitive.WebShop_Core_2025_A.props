@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebShop_Core_2025_A.props" />
+</Project>

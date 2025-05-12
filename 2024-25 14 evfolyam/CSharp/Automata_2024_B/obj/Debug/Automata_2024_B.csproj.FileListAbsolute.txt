@@ -1,0 +1,14 @@
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\bin\Debug\Automata_2024_B.exe.config
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\bin\Debug\Automata_2024_B.exe
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\bin\Debug\Automata_2024_B.pdb
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\obj\Debug\Automata_2024_B.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\obj\Debug\Automata_2024_B.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\obj\Debug\Automata_2024_B.exe
+S:\Szoftver\Szoftver14\KZ\B\Automata_2024_B\obj\Debug\Automata_2024_B.pdb
+C:\Users\kizo7\Desktop\Automata_2024_B\bin\Debug\Automata_2024_B.exe.config
+C:\Users\kizo7\Desktop\Automata_2024_B\bin\Debug\Automata_2024_B.exe
+C:\Users\kizo7\Desktop\Automata_2024_B\bin\Debug\Automata_2024_B.pdb
+C:\Users\kizo7\Desktop\Automata_2024_B\obj\Debug\Automata_2024_B.csproj.AssemblyReference.cache
+C:\Users\kizo7\Desktop\Automata_2024_B\obj\Debug\Automata_2024_B.csproj.CoreCompileInputs.cache
+C:\Users\kizo7\Desktop\Automata_2024_B\obj\Debug\Automata_2024_B.exe
+C:\Users\kizo7\Desktop\Automata_2024_B\obj\Debug\Automata_2024_B.pdb

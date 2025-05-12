@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\bin\Debug\PacMan_A.exe
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\bin\Debug\PacMan_A.pdb
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\bin\Debug\PacMan_A.exe.config
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\obj\Debug\PacMan_A.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\obj\Debug\PacMan_A.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\obj\Debug\PacMan_A.exe
+S:\Szoftver\Szoftver13\KZ\A\ConsoleApplication\PacMan_A\obj\Debug\PacMan_A.pdb

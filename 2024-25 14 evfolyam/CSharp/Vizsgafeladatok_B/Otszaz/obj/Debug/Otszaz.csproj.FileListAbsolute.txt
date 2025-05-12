@@ -1,0 +1,7 @@
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\bin\Debug\Otszaz.exe.config
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\bin\Debug\Otszaz.exe
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\bin\Debug\Otszaz.pdb
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\obj\Debug\Otszaz.csproj.AssemblyReference.cache
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\obj\Debug\Otszaz.csproj.CoreCompileInputs.cache
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\obj\Debug\Otszaz.exe
+S:\Szoftver\Szoftver14\KZ\B\Vizsgafeladatok_B\Otszaz\obj\Debug\Otszaz.pdb
