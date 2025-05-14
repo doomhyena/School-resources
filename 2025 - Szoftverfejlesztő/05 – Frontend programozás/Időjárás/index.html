@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Időjárás</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container my-5">
+      <h1 class="text-center title">Milyen idő van:</h1>
+      <form class="kereses-mezo">
+        <input
+          type="text"
+          name="varos"
+          placeholder="Város neve"
+          autocomplete="off"
+          class="form-control text-muted kerekitett p-4 shadow-sm"
+        />
+      </form>
+
+      <div class="card rounded my-3 shadow-lg d-none mogottes-resz">
+        <div class="csucs-resz text-center">
+          <div class="varos-nev my-3">
+            <p>Abuja</p>
+            <span>...</span>
+          </div>
+          <img src="kepek/ejjel.svg" alt="" class="card-img-top time" />
+        </div>
+
+        <div class="torzs-resz">
+          <div class="doboz-kozep row">
+            <div class="col-8 text-center temp">
+              <span>30&deg;C</span>
+            </div>
+            <div class="col-4 condition-temp">
+              <p class="leiras">Thunder Storm</p>
+              <p class="high">30&deg;C</p>
+              <p class="low">27&deg;C</p>
+            </div>
+          </div>
+
+          <div class="ikon-helye card shadow mx-auto">
+            <img src="kepek/felho.svg" alt="" />
+          </div>
+          <div class="doboz-also px-5 py-4 row">
+            <div class="col text-center">
+              <p>30&deg;C</p>
+              <span>Érzésre</span>
+            </div>
+            <div class="col text-center">
+              <p>55%</p>
+              <span>Páratartalom</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
