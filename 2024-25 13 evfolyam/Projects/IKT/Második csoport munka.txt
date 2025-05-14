@@ -1,0 +1,9 @@
+Második csoportmunka:
+	- 1-2 fős csapatok
+	- Egy informatikai jellegű cég működésével kapcsolatos folyamatok
+	- Lehet a korábbi folytatása, új részleggel vagy ilyesmi
+	- Legalább 15 dia
+	- 4 diagram (Use és Szekvencia diagramok)
+	- +1 db Activity vagy Osztály diagram
+	- Bemutatás: május 21.
+	- Adatbűzis (JOIN-k használata is)
