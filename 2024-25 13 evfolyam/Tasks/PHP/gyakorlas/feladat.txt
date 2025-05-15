@@ -1,0 +1,8 @@
+
+	A csatolt sql fájlt importált be egy adatbázisba.
+	
+	Készíts keresőt az adatbázishoz a tanult módon!
+	
+	A kereső minden hasonló találatot írjon ki. 
+	
+	Ha kitörlünk mindent a mezőből, akkor ne jelenjen meg semmi.
