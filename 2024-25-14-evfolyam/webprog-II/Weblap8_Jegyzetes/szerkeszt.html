@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="forma.css">
+    <jcim>Szerkeszt</jcim>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1 class="header__jcim">Jegyzet</h1>
+            <h2 class="header__subjcim">...</h2>
+        </div>
+    </div>
+    <div class="action">
+        <div class="actions__container actions__container--spaced">
+            <a href="./index.html">Főoldal</a><span id="ido-belyeg"></span>
+        </div>
+    </div>
+    <div class="container">
+        <input type="text" id="jegyzet-cim" class="jcim-input" placeholder="Cím">
+        <textarea name="" id="jegyzet-body" class="body-input" cols="30" rows="10" placeholder="Írj valamit..."></textarea>
+        <button id="jegyzet-torlese" class="button button--secondary">Töröl</button>
+    </div>
+
+
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment-with-locales.js"></script> 
+
+<script src="funkciok.js"></script>
+    <script src="szerkeszt.js"></script>
+</html>

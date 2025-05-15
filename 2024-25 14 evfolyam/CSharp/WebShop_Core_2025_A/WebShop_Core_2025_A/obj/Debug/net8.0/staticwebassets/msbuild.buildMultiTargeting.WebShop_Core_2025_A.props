@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\WebShop_Core_2025_A.props" />
-</Project>

@@ -1,6 +1,0 @@
-	1	1
-	2	1
-	3	kevés a csoki
-	4	1
-	5	kevés a csoki
-	6	kevés a csoki

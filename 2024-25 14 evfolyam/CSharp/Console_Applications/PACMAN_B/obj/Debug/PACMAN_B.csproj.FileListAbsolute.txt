@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\bin\Debug\PACMAN_B.exe.config
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\bin\Debug\PACMAN_B.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\bin\Debug\PACMAN_B.pdb
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\obj\Debug\PACMAN_B.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\obj\Debug\PACMAN_B.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\obj\Debug\PACMAN_B.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\PACMAN_B\obj\Debug\PACMAN_B.pdb

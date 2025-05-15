@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\bin\Debug\Utepites.exe.config
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\bin\Debug\Utepites.exe
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\bin\Debug\Utepites.pdb
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\obj\Debug\Utepites.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\obj\Debug\Utepites.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\obj\Debug\Utepites.exe
-S:\Szoftver\Szoftver14\KZ\A\Utepites\Utepites\obj\Debug\Utepites.pdb

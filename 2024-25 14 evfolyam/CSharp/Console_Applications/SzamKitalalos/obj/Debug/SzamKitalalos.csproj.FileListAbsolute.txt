@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\bin\Debug\SzamKitalalos.exe.config
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\bin\Debug\SzamKitalalos.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\bin\Debug\SzamKitalalos.pdb
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\obj\Debug\SzamKitalalos.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\obj\Debug\SzamKitalalos.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\obj\Debug\SzamKitalalos.pdb
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzamKitalalos\obj\Debug\SzamKitalalos.csproj.AssemblyReference.cache

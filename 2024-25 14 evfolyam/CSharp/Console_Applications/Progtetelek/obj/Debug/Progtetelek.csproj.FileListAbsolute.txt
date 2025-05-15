@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\bin\Debug\Progtetelek.exe.config
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\bin\Debug\Progtetelek.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\bin\Debug\Progtetelek.pdb
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\obj\Debug\Progtetelek.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\obj\Debug\Progtetelek.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\obj\Debug\Progtetelek.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\Progtetelek\obj\Debug\Progtetelek.pdb

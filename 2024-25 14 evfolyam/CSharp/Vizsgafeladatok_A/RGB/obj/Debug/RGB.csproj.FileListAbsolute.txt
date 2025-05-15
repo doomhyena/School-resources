@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\bin\Debug\RGB.exe.config
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\bin\Debug\RGB.exe
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\bin\Debug\RGB.pdb
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\obj\Debug\RGB.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\obj\Debug\RGB.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\obj\Debug\RGB.exe
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok_A\RGB\obj\Debug\RGB.pdb

@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\bin\Debug\SzoKitalalo.exe.config
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\bin\Debug\SzoKitalalo.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\bin\Debug\SzoKitalalo.pdb
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\obj\Debug\SzoKitalalo.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\obj\Debug\SzoKitalalo.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\obj\Debug\SzoKitalalo.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\SzoKitalalo\obj\Debug\SzoKitalalo.pdb

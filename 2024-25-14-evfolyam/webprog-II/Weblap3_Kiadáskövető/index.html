@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kiadások követése</title>
+    <link rel="stylesheet" href="forma.css" />
+    <script defer src="./javascript.js"></script>
+  </head>
+  <body>
+    <section class="heroSection">
+      <div class="container">
+        <header>
+          <div class="title">
+            <h1>Kiadások követése:</h1>
+            <div class="underline"></div>
+          </div>
+        </header>
+        <div class="dashboard">
+          <div class="dashboardTop">
+            <div class="dashbordTopLeft">
+              <p>Összeg</p>
+              <h1 id="egyenleg">HUF0.00</h1>
+            </div>
+            <div class="dashbordTopRight">
+              <div class="icon">
+                <ion-icon name="information-circle"></ion-icon>
+              </div>
+            </div>
+          </div>
+          <div class="dashboardBottom">
+            <div class="dashbordBottomLeft">
+              <p>Bevétel</p>
+              <h1 id="moneyPlus">HUF0.00</h1>
+            </div>
+            <div class="dashbordBottomRight">
+              <p>Kiadás</p>
+              <h1 id="moneyMinus">HUF0.00</h1>
+            </div>
+          </div>
+        </div>
+        <div class="userInputCont">
+          <form class="form" id="form">
+            <input
+              type="text"
+              id="userText"
+              placeholder="Miből származott ez a bevétel?"
+              autocomplete="off"
+            />
+            <input
+              type="number"
+              name="userInput"
+              id="bevetel"
+              placeholder="Mi volt ezen bevétel összege?"
+              autocomplete="off"
+            />
+            <button type="submit">Hozzáad</button>
+          </form>
+        </div>
+        <div class="expenseIncomeCont">
+          <p>Tranzakciók</p>
+          <ul id="list"></ul>
+        </div>
+      </div>
+    </section>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+  </body>
+</html>

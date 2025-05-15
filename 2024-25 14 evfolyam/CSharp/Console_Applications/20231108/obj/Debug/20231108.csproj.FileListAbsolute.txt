@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\bin\Debug\20231108.exe.config
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\bin\Debug\20231108.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\bin\Debug\20231108.pdb
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\obj\Debug\20231108.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\obj\Debug\20231108.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\obj\Debug\20231108.exe
-S:\Szoftver\Szoftver13\KZ\B\Console_Applications\20231108\obj\Debug\20231108.pdb
