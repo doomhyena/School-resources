@@ -54,3 +54,56 @@ uploads/
 *.pem
 *.sqlite
 *.db
+
+# === Unity általános ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# === VS/JetBrains környezetek ===
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# === Platform-specifikus ===
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# === Meta + cache ===
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.sln*
+*.unityproj
+*.tmproj
+*.log
+
+# === Átmeneti fájlok, backupok ===
+*.tmp
+*.bak
+*.old
+*.orig
+
+#  === Nagyobb fájltípusok kizárása ===
+*.mp4
+*.wav
+*.ogg
+*.psd
+*.tif
+*.tga
+
+# === Build output ===
+Build/
+Builds/
