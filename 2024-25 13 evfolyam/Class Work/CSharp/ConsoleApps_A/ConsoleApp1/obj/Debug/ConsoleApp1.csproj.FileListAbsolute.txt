@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

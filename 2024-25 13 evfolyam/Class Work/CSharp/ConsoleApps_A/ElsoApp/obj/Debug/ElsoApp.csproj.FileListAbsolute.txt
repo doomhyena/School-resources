@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\bin\Debug\ElsoApp.exe.config
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\bin\Debug\ElsoApp.exe
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\bin\Debug\ElsoApp.pdb
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\obj\Debug\ElsoApp.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\obj\Debug\ElsoApp.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\obj\Debug\ElsoApp.exe
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\ElsoApp\obj\Debug\ElsoApp.pdb

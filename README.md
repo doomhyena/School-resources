@@ -1,45 +1,79 @@
-# School tasks, projects, tests
+# 🎓 Szakmai év – Iskolai feladatgyűjtemény
 
-All teaching materials published at the *Schola Europa Academy Technical School, High School and Elementary Art School maintained by the Hungarian Methodist Church* during the years 2024-2026.
+Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk.
 
-I created the repository for archiving purposes.
+---
 
-## Folder naming scheme
+## 📁 Mappastruktúra és tantárgyak
 
-The teaching materials are sorted into folders with year numbers for each academic year.
+```
+/adatbazis/                 # SQL lekérdezések, táblák, adatmodellek
+/asztali-alkalmazasok-I-info-alapok-II/    # PHP projektek, űrlapkezelés, adatbázis
+/asztali-alkalmazasok-II/   # Java alkalmazások (pl. konzolos, GUI)
+/ikt-I/                     # Diagramok (pl. hálózati topológia, folyamatábrák)
+/info-alapok-I/             # Általános IT jegyzetek, definíciók
+/info-alapok-III-webprog-I/ # HTML, CSS, Bootstrap frontend projektek
+/prog-alapok-I/             # Python és C# alapok, kisebb programok
+/szakmai-angol/             # Angol szakszókincs, fordítások, szövegek
+/szoftverteszteles/         # C#
+/webprog-II/                # JavaScript feladatok, DOM-kezelés, JS appok
+```
 
-There are four subcategories within the school year folders:
+---
 
-- Class Work: Usually non-graded tasks that we have to make during together.
-- Homeworks: Usually graded or non-graded projects that had to work on at home.
-- Taks: Usually non-graded tasks that we have to solve during class without a time limit.
-- Projects: Usually larger graded or non-graded projects that we are given during project weeks and had to work on at home.
-- Tests: Usually graded tests that we have to solve during class within a certain time limit.
+## 🛠️ Használt technológiák
 
-## IKT Class
+- **Programozási nyelvek:** Python, C#, Java, PHP, JavaScript, SQL
+- **Webfejlesztés:** HTML, CSS, Bootstrap
+- **Egyéb:** Visual Paradigm, PDF, Markdown
 
-This is a non-programming Class where we are not programming, rather we making diagrams.
+---
 
-# School tasks, projects, tests
+## ⚙️ Futtatási útmutató
 
-All teaching materials published at the *Schola Europa Academy Technical School, High School and Elementary Art School maintained by the Hungarian Methodist Church* during the years 2024-2026.
+- **Python**: `python3 fajlnev.py`
+- **C#**: `dotnet run` vagy Visual Studio projektként
+- **Java**: `javac Fajl.java` majd `java Fajl`
+- **PHP**: `php -S localhost:8000` vagy XAMPP segítségével
+- **HTML/JS/CSS**: nyisd meg `index.html`-t böngészőben
+- **SQL**: töltsd be a `.sql` fájlokat MySQL-ben vagy SQLite-ben
 
-I created the repository for archiving purposes.
+---
 
-## Folder naming scheme
+## 📌 Megjegyzések
 
-The teaching materials are sorted into folders with year numbers for each academic year.
+- Minden feladat itt a tanárok/saját munkám, tanulási céllal készült.
+- A projektek nem minden esetben teljes értékű alkalmazások, egyesek csak részfeladatokat valósítanak meg.
+- A fájlok mappánként rendszerezettek, és `README.md` fájlok is segítik az eligazodást, ahol szükséges.
 
-There are four subcategories within the school year folders:
+---
 
-- Homeworks: Usually graded or non-graded projects that had to work on at home.
-- Taks: Usually non-graded tasks that we have to solve during class without a time limit.
-- Projects: Usually larger graded or non-graded projects that we are given during project weeks and had to work on at home.
-- Tests: Usually graded tests that we have to solve during class within a certain time limit.
+## Hol wan a 2024-25-14-evfolyam/Wuncs mappa?
 
-## Where the 2024-25 14 evfolyam/Wuncs folder?
+Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba töltöttem fel. A teljes mappa elérhető [itt](https://drive.google.com/drive/folders/1q7gAJhEEr4ya6pDu2pxPuEf5UqwJbUMq?usp=sharing)!
 
-This folder contains files what is bigger than 100mb so I uploaded in Google Drive.
-The whole folder available [here](https://drive.google.com/drive/folders/1q7gAJhEEr4ya6pDu2pxPuEf5UqwJbUMq?usp=sharing)!
 
-*Created by: Doomhyena (Csontos Kincső)*
+### 👨‍🏫 Oktatók
+
+| Tantárgy                              | Tanár neve     |
+| ------------------------------------- | -------------- |
+| Adatbázis                             | Kiss Ádám      |
+| Asztali Alkalmazások I.               | Hujber Balázs  |
+| Asztali Alkalmazások II.              | Wuncs Dávid    |
+| IKT I.                                | Kiss Ádám      |
+| Informatikai és Távközlési Alapok I   | Kumpera Ferenc |
+| Informatikai és Távközlési Alapok II  | Hujber Balázs  |
+| Informatikai és Távközlési Alapok III | Varga József   |
+| Programozási Alapok I.                | Kovács Péter   |
+| Szakmai Angol                         | Kövesdiné Lám Zsuzsánna      |
+| Szoftvertesztelés                     | Kiss Zoltán    |
+| Webprogramozás I                   	| Varga József   |
+| Webprogramozás II                   	| Kiss Ádám   	 |
+
+## 📄 Licenc
+
+Ez a repó tanulási célokat szolgál. Szabadon másolható, módosítható, de kérlek, ne add be másként, mint saját munkád.
+
+---
+
+*Készítette: Doomhyena (Csontos Kincső)*

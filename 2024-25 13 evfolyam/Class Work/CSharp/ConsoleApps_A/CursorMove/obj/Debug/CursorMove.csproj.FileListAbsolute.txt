@@ -1,7 +1,0 @@
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\bin\Debug\CursorMove.exe.config
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\bin\Debug\CursorMove.exe
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\bin\Debug\CursorMove.pdb
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\obj\Debug\CursorMove.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\obj\Debug\CursorMove.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\obj\Debug\CursorMove.exe
-S:\Szoftver\Szoftver13\KZ\A\ConsoleApps_A\CursorMove\obj\Debug\CursorMove.pdb
