@@ -6,4 +6,4 @@ Második csoportmunka:
 	- 4 diagram (Use és Szekvencia diagramok)
 	- +1 db Activity vagy Osztály diagram
 	- Bemutatás: május 21.
-	- Adatbűzis (JOIN-k használata is)
+	- Adatbázis (JOIN-k használata is)
