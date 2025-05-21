@@ -1,0 +1,8 @@
+Diákkezelő rendszer:
+	- Regisztrációs lap: belépő kód, veznév, kernév, email, jelszó, jelszó megerősítés kell
+	- Bejelentkezés lap: belépő kód és jelszó alapján történik a login
+	Adatlap: 
+		- Login után ide jut a diák
+		- Teljes név kiírása a tetején
+		- lehetőség van megadni az évvégi jegyeket matematikából, magyarból, történelemből, angolból és informatikából.
+		  A program ebből kiszámolja és kiírja lent az évvégi átlagot.
