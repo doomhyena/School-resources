@@ -64,7 +64,7 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Informatikai és Távközlési Alapok I   | Kumpera Ferenc |
 | Informatikai és Távközlési Alapok II  | Hujber Balázs  |
 | Informatikai és Távközlési Alapok III | Varga József   |
-| Programozási Alapok I.                | Kovács Péter   |
+| Programozási Alapok I.                | Kiss Ádám		 |
 | Szakmai Angol                         | Kövesdiné Lám Zsuzsánna      |
 | Szoftvertesztelés                     | Kiss Zoltán    |
 | Webprogramozás I                   	| Varga József   |
