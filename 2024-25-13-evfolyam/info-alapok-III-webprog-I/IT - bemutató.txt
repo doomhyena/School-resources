@@ -1,0 +1,12 @@
+Feladatleírás:
+
+	- Prezentáció létrehozása mesterséges intelligencia témakörében. Bármit választhattok a chatgpt-n kívül.
+	- Legyenek benne képek, rövid szövegek/gondolatok.
+	- Első dia: Név, osztály, cím (teszt címe). 
+	- 10 perces felelet lesz belőle. Diaszám minimum 12, max 15 dia.
+
+Értékelési szempontok:
+
+	- Jó olvashatóság, szövegkiemelés, képek stb.
+	- Tartalom mennyisége. Ne legyen se túl ömlengős se túl kevés. A ppt lényege, hogy segítse a szóbeli előadást. 
+	- Design
