@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+   <head>
+       <title>Jegyzetes App</title>
+       <meta charset='UTF-8'>
+       <meta name='description' content='Jegyzetes App - Egyszerű jegyzetelés Vue.js segítségével'>
+       <meta name='keywords' content='jegyzet, app, Vue.js, egyszerű, használható'>
+       <meta name='author' content='Csontos Kincső'>
+       <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+       <link rel="stylesheet" href="assets/css/style.css">
+       <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+   </head>
+   <body>
+    <div id="app" class="note-app">
+      <h1>Jegyzetes App</h1>
+      <input v-model="newNote" placeholder="Gépelj ide" type="text">
+      <button @click="addNote">Hozzáad</button>
+      <ul>
+        <li v-for="(note, index) in notes" :key="note.id">
+          <div v-if="editingIndex === index">
+            <label>Szerkesztés:</label>
+            <input v-model ="editingText" type="text">
+            <button @click="saveEdit(index)">Mentés</button>
+            <button @click="cancelEdit">Mégse</button>
+          </div>
+          <div v-else>
+            {{ note.text }}
+          <button @click="editNote(index)">Szerkeszt</button>
+          <button @click="deleteNote(index)">Törlés</button>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <script src="assets/js/app.js"></script>
+   </body>
+</html>
