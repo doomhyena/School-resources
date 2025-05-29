@@ -13,8 +13,7 @@ namespace Diákkezelő
 
         private void regbtn_Click(object sender, EventArgs e)
         {
-            try
-            {
+            try {
                 var conn = Program.DbConnection;
                 if (conn.State != System.Data.ConnectionState.Open)
                     conn.Open();
@@ -31,9 +30,7 @@ namespace Diákkezelő
                 }
 
                 MessageBox.Show("Sikeres regisztráció!");
-            }
-            catch (Exception ex)
-            {
+            } catch (Exception ex) {
                 MessageBox.Show("Hiba: " + ex.Message);
             }
         }

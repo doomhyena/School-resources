@@ -29,8 +29,7 @@ namespace Diákkezelő
 
         private void btnSzamol_Click(object sender, EventArgs e)
         {
-            try
-            {
+            try {
                 double matek = Convert.ToDouble(txtMatematika.Text);
                 double magyar = Convert.ToDouble(txtMagyar.Text);
                 double tori = Convert.ToDouble(txtTori.Text);
@@ -39,9 +38,7 @@ namespace Diákkezelő
 
                 double atlag = (matek + magyar + tori + angol + info) / 5;
                 labelAtlag.Text = $"Átlag: {atlag:F2}";
-            }
-            catch
-            {
+            } catch {
                 MessageBox.Show("Kérlek csak számokat adj meg 1 és 5 között!", "Hibás adat", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }

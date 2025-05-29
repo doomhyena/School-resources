@@ -13,8 +13,7 @@ namespace Diákkezelő
 
         private void loginbtn_Click(object sender, EventArgs e)
         {
-            try
-            {
+            try {
                 var conn = Program.DbConnection;
                 if (conn.State != System.Data.ConnectionState.Open)
                     conn.Open();
@@ -27,8 +26,7 @@ namespace Diákkezelő
 
                     using (var reader = cmd.ExecuteReader())
                     {
-                        if (reader.Read())
-                        {
+                        if (reader.Read()) {
                             string firstname = reader["firstname"].ToString();
                             string lastname = reader["lastname"].ToString();
                             string teljesNev = firstname + " " + lastname;
@@ -39,16 +37,12 @@ namespace Diákkezelő
                             var avgForm = new Average(teljesNev);
                             avgForm.ShowDialog();
                             this.Show();
-                        }
-                        else
-                        {
+                        } else {
                             MessageBox.Show("Hibás kód vagy jelszó!");
                         }
                     }
                 }
-            }
-            catch (Exception ex)
-            {
+            } catch (Exception ex) {
                 MessageBox.Show("Hiba: " + ex.Message);
             }
         }
