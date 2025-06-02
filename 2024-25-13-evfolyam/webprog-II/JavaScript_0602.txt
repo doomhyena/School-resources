@@ -1,0 +1,50 @@
+/*1. feladat: Függvény, amely egybefűz 2 adott számtömböt.
+Pl.: console.log(osszefuz([1, 3, 5], [2, 4, 6])); --> [ 1, 2, 3, 4, 5, 6 ]	*/
+______________________________________________________________________________
+/*2. feladat: A függvény megvizsgál egy számtömböt és kiírja azok összes lehetséges variációját.
+Pl.: console.log(variaciok([1, 2, 3])); --> 
+[
+  [ 1, 2, 3 ],
+  [ 1, 3, 2 ],
+  [ 2, 1, 3 ],
+  [ 2, 3, 1 ],
+  [ 3, 1, 2 ],
+  [ 3, 2, 1 ]
+]
+*/
+______________________________________________________________________________
+/*Feladat3: egy karaktersorban hány betűből áll a leghosszabb szegmens, amelyben nincsenek ismétlődő karakterek?
+Pl.: console.log(leghosszabbEgyedi("abcabcbb")); --> 3	*/
+______________________________________________________________________________
+/*Feladat4: Egészítsd ki ezt a függvényt, hogy képes legyen összeszorozni 2 azonos méretű mátrixot. Eltérő mátrixok esetén szóljon rá a felhasználóra. 
+Pl.:
+const matrixA = [
+  [1, 2],
+  [3, 4]
+];
+const matrixB = [
+  [5, 6],
+  [7, 8]
+];
+console.log(matrixSzorzas(matrixA, matrixB)); --> [[19,22],[43,50]]
+*/
+function matrixSzorzas(A, B) {
+  const sorok1 = A.length, oszlopok1 = A[0].length;
+  const sorok2 = B.length, oszlopok2 = B[0].length;
+  
+  if (oszlopok1 !== sorok2) {
+    throw new Error("Ezek így nem szorozhatók össze");
+  }
+  
+  const eredmeny = Array.from({ length: sorok1 }, () => Array(oszlopok2).fill(0));
+	...//kiegészítés
+
+const matrixA = [
+  [1, 2],
+  [3, 4]
+];
+const matrixB = [
+  [5, 6],
+  [7, 8]
+];
+console.log(matrixSzorzas(matrixA, matrixB));

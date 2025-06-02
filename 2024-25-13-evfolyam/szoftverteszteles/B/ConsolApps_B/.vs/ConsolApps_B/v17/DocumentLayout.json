@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5D338-0D97-438A-B1DA-19B6F4E7F1AF}|SwimmingPool_B\\SwimmingPool_B.csproj|s:\\szoftver\\szoftver13\\kz\\b\\consolapps_b\\swimmingpool_b\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5D338-0D97-438A-B1DA-19B6F4E7F1AF}|SwimmingPool_B\\SwimmingPool_B.csproj|solutionrelative:swimmingpool_b\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5D338-0D97-438A-B1DA-19B6F4E7F1AF}|SwimmingPool_B\\SwimmingPool_B.csproj|s:\\szoftver\\szoftver13\\kz\\b\\consolapps_b\\swimmingpool_b\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5D338-0D97-438A-B1DA-19B6F4E7F1AF}|SwimmingPool_B\\SwimmingPool_B.csproj|solutionrelative:swimmingpool_b\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B5D338-0D97-438A-B1DA-19B6F4E7F1AF}|SwimmingPool_B\\SwimmingPool_B.csproj|s:\\szoftver\\szoftver13\\kz\\b\\consolapps_b\\swimmingpool_b\\swimmingpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B5D338-0D97-438A-B1DA-19B6F4E7F1AF}|SwimmingPool_B\\SwimmingPool_B.csproj|solutionrelative:swimmingpool_b\\swimmingpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43E4AE7-5BF7-4FFB-B8CE-C8DAB1A54C30}|Automata_2025_B\\Automata_2025_B.csproj|s:\\szoftver\\szoftver13\\kz\\b\\consolapps_b\\automata_2025_b\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43E4AE7-5BF7-4FFB-B8CE-C8DAB1A54C30}|Automata_2025_B\\Automata_2025_B.csproj|solutionrelative:automata_2025_b\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43E4AE7-5BF7-4FFB-B8CE-C8DAB1A54C30}|Automata_2025_B\\Automata_2025_B.csproj|s:\\szoftver\\szoftver13\\kz\\b\\consolapps_b\\automata_2025_b\\automata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43E4AE7-5BF7-4FFB-B8CE-C8DAB1A54C30}|Automata_2025_B\\Automata_2025_B.csproj|solutionrelative:automata_2025_b\\automata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43E4AE7-5BF7-4FFB-B8CE-C8DAB1A54C30}|Automata_2025_B\\Automata_2025_B.csproj|s:\\szoftver\\szoftver13\\kz\\b\\consolapps_b\\automata_2025_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43E4AE7-5BF7-4FFB-B8CE-C8DAB1A54C30}|Automata_2025_B\\Automata_2025_B.csproj|solutionrelative:automata_2025_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\SwimmingPool_B\\Person.cs",
+              "RelativeDocumentMoniker": "SwimmingPool_B\\Person.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\SwimmingPool_B\\Person.cs",
+              "RelativeToolTip": "SwimmingPool_B\\Person.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3YAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:25:40.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\SwimmingPool_B\\Simulator.cs",
+              "RelativeDocumentMoniker": "SwimmingPool_B\\Simulator.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\SwimmingPool_B\\Simulator.cs",
+              "RelativeToolTip": "SwimmingPool_B\\Simulator.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1oAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:18:15.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwimmingPool.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\SwimmingPool_B\\SwimmingPool.cs",
+              "RelativeDocumentMoniker": "SwimmingPool_B\\SwimmingPool.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\SwimmingPool_B\\SwimmingPool.cs",
+              "RelativeToolTip": "SwimmingPool_B\\SwimmingPool.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:49:49.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 23,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\Automata_2025_B\\Wallet.cs",
+              "RelativeDocumentMoniker": "Automata_2025_B\\Wallet.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\Automata_2025_B\\Wallet.cs",
+              "RelativeToolTip": "Automata_2025_B\\Wallet.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:56:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\Automata_2025_B\\Program.cs",
+              "RelativeDocumentMoniker": "Automata_2025_B\\Program.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\Automata_2025_B\\Program.cs",
+              "RelativeToolTip": "Automata_2025_B\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:05:04.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Automata.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\Automata_2025_B\\Automata.cs",
+              "RelativeDocumentMoniker": "Automata_2025_B\\Automata.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver13\\KZ\\B\\ConsolApps_B\\Automata_2025_B\\Automata.cs",
+              "RelativeToolTip": "Automata_2025_B\\Automata.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:47:49.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
