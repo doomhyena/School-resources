@@ -1,0 +1,17 @@
+.kap-container{
+    margin: 15%;
+    border: 2px black solid;
+    padding: 25px;
+    border-radius: 20px;
+}
+textarea {
+    height: 150px;
+    box-sizing: border-box;
+    font-size: 16px;
+    resize: none;
+}
+
+.btn{
+    border-radius: 15px !important;
+    width: 50%;
+}

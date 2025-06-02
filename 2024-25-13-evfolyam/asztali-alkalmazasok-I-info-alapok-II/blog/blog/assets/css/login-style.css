@@ -1,0 +1,17 @@
+.login-container{
+    margin: 20%;
+    border: 2px black solid;
+    padding: 25px;
+    border-radius: 20px;
+
+}
+
+.log-btn{
+    border-radius: 15px;
+    background-color: rgb(199, 3, 3);
+    color: white;
+}
+
+.log-btn:hover{
+    background-color: rgb(165, 2, 2);
+}

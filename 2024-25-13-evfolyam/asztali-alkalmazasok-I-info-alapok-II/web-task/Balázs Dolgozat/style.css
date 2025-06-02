@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background: #999;
+}
+
+.box {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #dedede;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #666;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h3 {
+    text-align: center;
+}
