@@ -31,24 +31,19 @@ console.log(variaciok([1, 2, 3]));
 
 function leghosszabbegydi(s) {
     let maxHossz = 0, start = 0;
-    const indexek = [];
+    const indexek = {};
     for (let i = 0; i < s.length; i++) {
-        if (s.indexOf(s[i]) === i) {
-            let j = i;
-            while (j < s.length && s.indexOf(s[j]) === i) {
-                j++;
-            }
-            if (j - i > maxHossz) {
-                maxHossz = j - i;
-                start = i;
-            }
+        if (indexek[s[i]] !== undefined && indexek[s[i]] >= start) {
+            start = indexek[s[i]] + 1;
         }
+        indexek[s[i]] = i;
+        maxHossz = Math.max(maxHossz, i - start + 1);
     }
-    for (let i = start; i < start + maxHossz; i++) {
-        indexek.push(i);
-    }
-    return indexek;
-}
+    return maxHossz;
+} 
+
+console.log("--- 3.feladat ---");
+console.log(leghosszabbegydi("abcabcbb"));
 
 // 4.feladat:
 
