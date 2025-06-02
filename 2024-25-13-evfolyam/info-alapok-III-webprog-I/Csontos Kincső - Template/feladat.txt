@@ -1,0 +1,21 @@
+Egy ingyenes template átalakítása a következő témakörök egyikében:
+
+    Kerékpár márka 
+    Autómárka
+    Egy zenekar bemutatása
+    Egy film vagy sorozat bemutatása
+
+Templatet bárhonnan leszedhettek de segítségnek itt vannak jóféle ingyenesek: 
+    https://html5up.net/
+    https://themewagon.com/theme-price/free/
+
+Feladat paraméterei: 
+
+    A választott template színeinek, betűtípusainak, képeinek cseréje
+    Legalább 1db szerkezeti változtatás
+    Felesleges elemek törölni
+    Kódot magyarítani
+    Tartalmat feltölteni, rendes tartalommal
+    Képeket releváns képekre cserélni
+
+Vezetéknév Keresztnév - Template.zip

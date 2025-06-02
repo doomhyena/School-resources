@@ -1,0 +1,28 @@
+1. Név szerint rendezve jelenjenek meg a 10. C-s diákok.
+
+2. Listázd azon tanárok nevét és szakkörét, amelyek tartalmazzák a 
+	"programoz" vagy "robotika" szövegrészeket.
+
+3. Jelenítsd meg azon szakkörök nevét, az azt tartó tanárt és az azokra 
+	jelentkező diákok számát, ahol legalább 10-en jelentkeztek. 
+
+4. Jelenjenek meg azon osztályok (év, betű), amelyeket a Matematika 
+	munkaközösség hirdetett meg. 
+	- egy osztály csak egyszer szerepeljen
+	- rendezés évfolyam, aztán betűjel szerint
+
+5. Mit tesz az alábbi lekérdezés:
+	SELECT diak1.nev, szakkor.nev 
+	FROM diak AS diak1, jelentkezes AS jelentkezes1, 
+	 szakkor, diak AS diak2, jelentkezes AS jelentkezes2 
+	WHERE diak1.azon = jelentkezes1.diakazon 
+	 AND diak2.azon = jelentkezes2.diakazon 
+	 AND szakkor.azon = jelentkezes2.szakazon 
+	 AND diak2.evfolyam = diak1.evfolyam 
+	 AND jelentkezes1.szakazon = szakkor.azon 
+	 AND diak2.nev="Beke Fanni" 
+	 AND diak1.nev<>"Beke Fanni";
+
+6. Jelenjenek meg a "2. idegen nyelv" munkaközösség 
+	által hirdetett szakkörök. Kérdezd le a kapcsolódó tanárok 
+	és diákok nevét és osztályát.
