@@ -1,0 +1,17 @@
+Órai feladat leírása:
+
+	 Modulációs eljárások
+		Értelmezd az alábbi fogalmakat:
+			amplitúdó moduláció
+			frekvencia moduláció
+			fázismoduláció
+
+Órai feladatod megoldásának szövege:
+
+	Amplitúdómoduláció (AM): Ennél a modulációs típusnál a vivőhullám hangerőssége (amplitúdója) változik attól függően, hogy milyen 	jelet küldünk rá (például beszéd vagy zene). A frekvenciája és fázisa viszont nem változik. Ezt használják például az AM 	rádióadásoknál.
+
+	Frekvenciamoduláció (FM): Itt a vivőhullám sebessége (frekvenciája) változik a küldött jel szerint, de az amplitúdója és fázisa 	ugyanaz marad. Az FM rádió ilyen elven működik, és azért népszerűbb, mert kevésbé zavarja a zaj.
+
+	Fázismoduláció (PM): Ebben az esetben a vivőhullám időzítése (fázisa) változik a jel hatására, míg a többi tulajdonsága nem 	módosul. Ezt főleg digitális adatátvitelre használják, például a QPSK nevű technológiában.
+
+

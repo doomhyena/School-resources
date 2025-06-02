@@ -1,0 +1,8 @@
+Órai Feladat leírása:
+
+	Írd le saját szavaiddal az analóg és a digitális fogalmak jelentését, tartalmát
+
+Órai feladatod megoldásának szövege:
+
+	Analóg: olyan folyamatos jel, amelyben a jel ideje egy valós idő pontos leképezése. 
+	Digitális: valamely változó jelenségnek, vagy fizikai mennyiségnek, megszámlálhatóan felaprózott, s így számokkal meghatározható, 	felírható értékeinek halmaza.

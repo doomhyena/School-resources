@@ -1,0 +1,37 @@
+Órai feladat leírása:
+
+	Dolgozd fel röviden az alábbi forrást, írj magyarázó vázlatot belőle
+		https://centroszet.hu/tananyag/szervezes%20JO/513_multimdia_rendszerek.html
+
+Órai feladatod megoldásának szövege:
+
+	A multimédia rendszerek olyan számítógép-vezérelt rendszerek, amelyek különböző típusú információk előállítását, feldolgozását, bemutatását, tárolását és továbbítását végzik. A rendszerek tartalmaznak legalább egy időfüggő (folyamatos) és egy időfüggetlen (diszkrét) médiumot.
+A multimédia fogalma:
+
+A multimédia egy olyan rendszer, amely különböző adatokat – mint kép, grafika, hang, mozgókép, szöveg, és egyéb fájlok – digitálisan tárol, kezel és jelenít meg. Ezek az adatok nem feltétlenül egy adatbázisban találhatók, hanem interaktív módon elérhetők, és folyamatosan bővíthetők. A multimédia alkalmazások különböző médiumok egyidejű (szinkron) vagy egymást követő (aszinkron) megjelenítését teszik lehetővé.
+A médiumok csoportosítása:
+
+    Felfogásmédiumok: Az emberi érzékelés alapján osztályozzuk őket. Két fő típust különböztetünk meg:
+        Auditív: Hangokat, például beszédet, zenét, zajokat jelent.
+        Vizuális: Képeket, ábrákat, állóképeket, szövegeket jelenít meg.
+    Képviseletmédiumok: A különböző típusú információk kódolásáról van szó, például:
+        Szöveg: ASCII kód.
+        Hang: PCM vagy ADPCM kódolás.
+        Állóképek: BMP, GIF, JPEG.
+        Mozgóképek: AVI, MPEG kódolás.
+    Bemutatás-médiumok: Ezek az eszközök és rendszerek, amelyek segítségével az információt megjelenítjük, például a billentyűzet, mikrofon (input médiumok) vagy képernyő, hangszóró (output médiumok). A bemutatás tér lehet egy vagy több dimenziós, például képernyőn 2D, míg hang esetén mono vagy sztereó.
+    Tárolásmédiumok: Az információ tárolásának módja, például a számítógépen vagy központi szerveren. Ilyenek a mágneses, optikai vagy vegyi tárolók, például CD, DVD vagy merevlemezek.
+    Átvitelmédiumok: Az információ továbbításának módja, ami lehet vezetékes (pl. koaxiális kábel, üvegszál) vagy vezeték nélküli (pl. Wi-Fi). Az adatok elektromos jelekként vagy fényimpulzusokként továbbítódnak.
+    Információcsere-médiumok: Az információ és a médium kapcsolata lehet direkt (amikor az információ közvetlenül átmegy a médiumon) vagy indirekt (amikor a médium és az információ nem elválaszthatóak egymástól).
+
+Két fő médium típus:
+
+    Diszkrét médiumok: Időfüggetlenek, például szöveg vagy ábra. Az ilyen típusú adatokat nem befolyásolja az idő, mivel ezek érzékelése és értelmezése nem függ időbeli feltételektől.
+    Folyamatos médiumok: Időfüggőek, például videó vagy hang. Az információ nemcsak tartalmától, hanem annak rendelkezésre állási idejétől is függ. Például egy késlekedett hangmintát csak később lehet hallani.
+
+A multimédia rendszerek jellemzői:
+
+    Kombinálják a diszkrét és folytonos médiumokat.
+    A médiumok elkülönítve tárolhatók, ami rugalmas felhasználást tesz lehetővé.
+    A rendszer elemei közötti kapcsolatokat számítógépek és programok biztosítják.
+    A hálózatok segítségével az információ könnyen továbbítható és megosztható másokkal.

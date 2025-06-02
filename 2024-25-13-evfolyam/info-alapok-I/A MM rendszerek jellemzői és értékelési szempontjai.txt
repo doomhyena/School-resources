@@ -1,0 +1,19 @@
+Órai feladat leírása:
+	magyarázd meg szoftveres vonatkozásban az alábbi fogalmakat:
+
+		ergonómia
+		esztétika
+		navigáció
+		interaktivitás
+		hypertext
+		hypermédia
+		tipográfia
+
+Órai feladatod megoldásának szövege:
+
+	1. Ergonómia: Azt jelenti, hogy egy szoftver mennyire kényelmes és könnyen használható. Például ha egy gomb ott van, ahol számítasz rá, vagy a program gyorsan reagál, az 	ergonómikusnak számít. Cél: ne kelljen gondolkodni azon, hogyan kell használni. 
+	2. Esztétika: Ez a szoftver vagy a weboldal kinézetére utal. Színek, formák, elrendezés, képek – minden, amitől „jól néz ki” az egész. Ha egy app szép, akkor szívesebben használjuk. 	3. Navigáció: Ez azt mutatja meg, mennyire egyszerű egyik részről a másikra jutni egy programban vagy weboldalon. Jó navigáció például az, ha van egy jól átlátható menü, és nem kell 	keresgélni a funkciókat. 
+	4. Interaktivitás: Amikor a felhasználó csinál valamit, és a szoftver válaszol rá. Például kattintasz egy gombra, és megjelenik egy új ablak. Minél több ilyen kapcsolat van, annál 	„élőbbnek” érződik az alkalmazás. 
+	5. Hypertext: Ez simán csak szöveg, amiben hivatkozások (linkek) vannak. Például egy weboldalon rákattintasz egy szóra, és az átvisz egy másik oldalra – ez hypertext. 
+	6. Hypermédia: Ez a hypertext kibővítve – nem csak szövegre vonatkozik, hanem képekre, videókra, hangokra is. Például egy oktató weboldalon a szöveg mellett videóra kattinthatsz – ez 	már hypermédia. 
+	7. Tipográfia: A szövegek megjelenésének stílusa: betűtípus, méret, sortávolság stb. Fontos, mert ha egy szöveg nehezen olvasható, az rontja a felhasználói élményt. Jó tipográfiával 	kényelmes olvasni egy oldalt vagy appot.
