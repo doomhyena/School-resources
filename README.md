@@ -76,4 +76,4 @@ Ez a repó tanulási célokat szolgál. Szabadon másolható, módosítható, de
 
 ---
 
-*Készítette: Doomhyena (Csontos Kincső)*
+*Maintained by: Csontos Kincső (doomhyena) "Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola*
