@@ -67,13 +67,13 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Programozási Alapok I.                | Kiss Ádám		 |
 | Szakmai Angol                         | Kövesdiné Lám Zsuzsánna      |
 | Szoftvertesztelés                     | Kiss Zoltán    |
-| Webprogramozás I                   	| Varga József   |
-| Webprogramozás II                   	| Kiss Ádám   	 |
+| Webprogramozás I.                   	| Varga József   |
+| Webprogramozás II.                   	| Kiss Ádám   	 |
 
 ## 📄 Licenc
 
-Ez a repó tanulási célokat szolgál. Szabadon másolható, módosítható, de kérlek, ne add be másként, mint saját munkád.
+Ez a repó tanulási célokat szolgál. Szabadon másolható de kérlek, ne add be másként, mint saját munkád.
 
 ---
 
-*Maintained by: Csontos Kincső (doomhyena) "Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola*
+*Maintained by: Csontos Kincső (doomhyena) "[Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/)*
