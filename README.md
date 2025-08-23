@@ -53,7 +53,7 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba töltöttem fel. A teljes mappa elérhető [itt](https://drive.google.com/drive/folders/1q7gAJhEEr4ya6pDu2pxPuEf5UqwJbUMq?usp=sharing)!
 
 
-### 👨‍🏫 Oktatók
+### 👨‍🏫 Oktatók 2024/25 tanév
 
 | Tantárgy                              | Tanár neve     |
 | ------------------------------------- | -------------- |
@@ -69,6 +69,19 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Szoftvertesztelés                     | Kiss Zoltán    |
 | Webprogramozás I.                   	| Varga József   |
 | Webprogramozás II.                   	| Kiss Ádám   	 |
+
+### 👨‍🏫 Oktatók 2025/26 tanév
+
+| Tantárgy                              | Tanár neve     |
+| ------------------------------------- | -------------- |
+| Adatbázis II.                         |      ???       |
+| Angol Nyelv                           |      ???       |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése  |      ???       |
+| Backend programozás és tesztelés      |      ???       |
+| Frontend programozás és tesztelés     |      ???       |
+| IKT II                                |      ???       |
+| Munkavállalói Idegen Nyelv            |      ???       |
+| Szoftvertesztelés                     |      ???       |
 
 ## 📄 Licenc
 
