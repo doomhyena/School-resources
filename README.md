@@ -79,7 +79,7 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Asztali és mobil alkalmazások fejlesztése és tesztelése  |      ???       |
 | Backend programozás és tesztelés      |      ???       |
 | Frontend programozás és tesztelés     |      ???       |
-| IKT II                                |      ???       |
+| IKT II.                                |      ???       |
 | Munkavállalói Idegen Nyelv            |      ???       |
 | Szoftvertesztelés                     |      ???       |
 
