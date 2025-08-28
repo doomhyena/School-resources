@@ -4,19 +4,34 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 
 ---
 
-## 📁 Mappastruktúra és tantárgyak
+## 📁 Mappastruktúra és tantárgyak 2024/25
 
 ```
 /adatbazis/                 # SQL lekérdezések, táblák, adatmodellek
 /asztali-alkalmazasok-I-info-alapok-II/    # PHP projektek, űrlapkezelés, adatbázis
-/asztali-alkalmazasok-II/   # Java alkalmazások (pl. konzolos, GUI)
+/asztali-alkalmazasok-II/   # Java alkalmazások (konzolos)
 /ikt-I/                     # Diagramok (pl. hálózati topológia, folyamatábrák)
 /info-alapok-I/             # Általános IT jegyzetek, definíciók
 /info-alapok-III-webprog-I/ # HTML, CSS, Bootstrap frontend projektek
 /prog-alapok-I/             # Python és C# alapok, kisebb programok
 /szakmai-angol/             # Angol szakszókincs, fordítások, szövegek
-/szoftverteszteles/         # C#
+/szoftverteszteles/         # C# alapok, kisebb programok
 /webprog-II/                # JavaScript feladatok, DOM-kezelés, JS appok
+```
+
+## 📁 Mappastruktúra és tantárgyak 2025/26
+
+```
+/adatbazis-ii/            # SQL lekérdezések, táblák, adatmodellek
+/asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese/kiss                 # C# alapok, kisebb programok
+/asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese/wuncs                 # Java alkalmazások (konzolos, GUI), Játékfejlesztés 
+/backend-programozas-es-teszteles/                 # C# alapok, kisebb programok
+/frontend-bprogramozas-es-teszteles/kiss                 # C# alapok, kisebb programok
+/frontend-bprogramozas-es-teszteles/varga                 # HTML, CSS, Bootstrap frontend projektek
+/ikt-ii/                 # PHP projektek, űrlapkezelés, adatbázis 
+/munakvallaloi-idegen-nyelv/                 # Angol szakszókincs, fordítások, szövegek
+/szakmai-angol/         # Angol szakszókincs, fordítások, szövegek
+
 ```
 
 ---
@@ -64,7 +79,7 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Informatikai és Távközlési Alapok I   | Kumpera Ferenc |
 | Informatikai és Távközlési Alapok II  | Hujber Balázs  |
 | Informatikai és Távközlési Alapok III | Varga József   |
-| Programozási Alapok I.                | Kiss Ádám		 |
+| Programozási Alapok I.                | Kiss Ádám		   |
 | Szakmai Angol                         | Kövesdiné Lám Zsuzsánna      |
 | Szoftvertesztelés                     | Kiss Zoltán    |
 | Webprogramozás I.                   	| Varga József   |
@@ -74,14 +89,13 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 
 | Tantárgy                              | Tanár neve     |
 | ------------------------------------- | -------------- |
-| Adatbázis II.                         |      ???       |
-| Angol Nyelv                           |      ???       |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése  |      ???       |
-| Backend programozás és tesztelés      |      ???       |
-| Frontend programozás és tesztelés     |      ???       |
-| IKT II.                                |      ???       |
-| Munkavállalói Idegen Nyelv            |      ???       |
-| Szoftvertesztelés                     |      ???       |
+| Adatbázis II.                         | Kiss Ádám      |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése  |Kiss Zoltán,  Wuncs Dávid |
+| Backend programozás és tesztelés      | Kiss Zoltán    |
+| Frontend programozás és tesztelés     | Kiss Zoltán, Varga József |
+| IKT II.                               | Hujber Balázs  |
+| Munkavállalói Idegen Nyelv            | Kövesdiné Lám Zsuzsánna |
+| Szakmai Angol                         | Kiss Ádám      |
 
 ## 📄 Licenc
 
@@ -89,4 +103,4 @@ Ez a repó tanulási célokat szolgál. Szabadon másolható de kérlek, ne add 
 
 ---
 
-*Maintained by: Csontos Kincső (doomhyena) "[Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/)*
+*Maintained by: Csontos Kincső (doomhyena) ["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/)*
