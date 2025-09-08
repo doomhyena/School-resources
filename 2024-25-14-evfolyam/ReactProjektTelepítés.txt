@@ -10,15 +10,18 @@ Meglévő react projekt telepítése/futtatása:
 	- A gépre előzetesen legyen telepítve a Node.js és a Git
 		* Enélkül nem fogja felismerni az npm parancsokat
 	- A projekt mappán belül cmd nyitása
-	- Első parancs a cmd-ben: npm i
+	- Első parancs a cmd-ben: npm create vite@latest my-app
 		* ez telepíti a projekt futásához szükséges modulokat
 		* létrehoz egy node_modules mappát a gyökérkönyvtárban
 		* (a mögöttes instrukciók a package.json fájlban vannak)
 		* Jelentés: npm --> Node.js beépített parancs, i --> install
-	- Második parancs: npm audit fix
+	- Második parancs: npm audit fix (Ez opcionális)
 		* Ez az esetleges sebezhetőségek automatikus javítására kell
 		* Sablon eljárás, a biztonság kedvéért
-	- Haramadik parancs: npm start
+	- Harmadik parancs: cd my-app
+		* Ezzel be navigál
+	- npm install
+	- Hatodik parancs: npm run dev
 		* Ez lesz a projekt futtatása 
 		* A localhost-on található az elérés
 ___________________________________________________
