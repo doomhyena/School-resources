@@ -1,0 +1,3 @@
+Feladat:
+    Készíts egy külön oldalt a szöveg feltöltéséhez
+    Az index folyamatosan jelenítse meg az új szöveget magától!

@@ -1,0 +1,11 @@
+Feladat: Készíts bejelentkezést és regisztrációt jleszó titkosítással és adatbázissal<u>Ez a szöveg aláhúzott</u>
+
+Regisztráció:
+    - email cím 
+    - felhasználónév
+    - jelszó
+    - jelszó újra
+    - jelszavak vizsgálatata, minden email csak egyszer lehessen regisztrálni
+
+Bejelentkezés:
+    - email cím és jelszó

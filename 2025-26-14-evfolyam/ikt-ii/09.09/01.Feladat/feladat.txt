@@ -1,0 +1,14 @@
+Feladat:
+
+    Készits egy oldalt egy könyvtárnak.
+    A főoldalon jelenjen meg minden könyv, amit ki lehet venni.
+    A könyvek sorában jelenjen meg a könyv cime, egy text input, egy select meno és
+    egy gomb. A select menüben legyen két opció:
+        könyvtárban
+        kölcsönzés
+    Ha a kölcsönzés mező van kijelölve, akkor a textboxba beirt nevet és a könyvet
+    mentse el az adatbázis.
+    A kölcsönzéseket dåtummal mentsd el.
+    Ha a könyvtárban opció van kiválasztva, akkor állitódjon át a könyv státusza.
+    A kölcsönzőkhöz mentsd el, hogy melyik könyvet mettől meddig vették ki(elég csak
+    a dátum, nem kell a pontos idő)
