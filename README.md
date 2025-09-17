@@ -7,16 +7,16 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 ## 📁 Mappastruktúra és tantárgyak 2024/25
 
 ```
-/adatbazis/                 # SQL lekérdezések, táblák, adatmodellek
+/adatbazis/                                # SQL lekérdezések, táblák, adatmodellek
 /asztali-alkalmazasok-I-info-alapok-II/    # PHP projektek, űrlapkezelés, adatbázis
-/asztali-alkalmazasok-II/   # Java alkalmazások (konzolos)
-/ikt-I/                     # Diagramok (pl. hálózati topológia, folyamatábrák)
-/info-alapok-I/             # Általános IT jegyzetek, definíciók
-/info-alapok-III-webprog-I/ # HTML, CSS, Bootstrap frontend projektek
-/prog-alapok-I/             # Python és C# alapok, kisebb programok
-/szakmai-angol/             # Angol szakszókincs, fordítások, szövegek
-/szoftverteszteles/         # C# alapok, kisebb programok
-/webprog-II/                # JavaScript feladatok, DOM-kezelés, JS appok
+/asztali-alkalmazasok-II/                  # Java alkalmazások (konzolos)
+/ikt-I/                                    # Diagramok (pl. hálózati topológia, folyamatábrák)
+/info-alapok-I/                            # Általános IT jegyzetek, definíciók
+/info-alapok-III-webprog-I/                # HTML, CSS, Bootstrap frontend projektek
+/prog-alapok-I/                            # Python és C# alapok, kisebb programok
+/szakmai-angol/                            # Angol szakszókincs, fordítások, szövegek
+/szoftverteszteles/                        # C# alapok, kisebb programok
+/webprog-II/                               # JavaScript feladatok, DOM-kezelés, JS appok
 ```
 
 ## 📁 Mappastruktúra és tantárgyak 2025/26
