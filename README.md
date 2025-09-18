@@ -75,9 +75,9 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Asztali Alkalmazások I.               | Hujber Balázs  |
 | Asztali Alkalmazások II.              | Wuncs Dávid    |
 | IKT I.                                | Kiss Ádám      |
-| Informatikai és Távközlési Alapok I   | Kumpera Ferenc |
-| Informatikai és Távközlési Alapok II  | Hujber Balázs  |
-| Informatikai és Távközlési Alapok III | Varga József   |
+| Informatikai és Távközlési Alapok I.  | Kumpera Ferenc |
+| Informatikai és Távközlési Alapok II. | Hujber Balázs  |
+| Informatikai és Távközlési Alapok III.| Varga József   |
 | Programozási Alapok I.                | Kiss Ádám		   |
 | Szakmai Angol                         | Kövesdiné Lám Zsuzsánna      |
 | Szoftvertesztelés                     | Kiss Zoltán    |
@@ -89,7 +89,7 @@ Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba tö
 | Tantárgy                              | Tanár neve     |
 | ------------------------------------- | -------------- |
 | Adatbázis II.                         | Kiss Ádám      |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése  |Kiss Zoltán,  Wuncs Dávid |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése  | Kiss Zoltán,  Wuncs Dávid |
 | Backend programozás és tesztelés      | Kiss Zoltán    |
 | Frontend programozás és tesztelés     | Kiss Zoltán, Varga József |
 | IKT II.                               | Hujber Balázs  |
