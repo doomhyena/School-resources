@@ -1,5 +1,9 @@
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
@@ -50,12 +54,11 @@ public class Main {
 
         @Override
         public String toString() {
-            return "Zene{" +
-                    "band='" + band + '\'' +
-                    ", song='" + song + '\'' +
-                    ", year=" + year +
-                    ", streams=" + streams +
-                    '}';
+            return
+                    band + '\'' +
+                    ", " + song + '\'' +
+                    ", " + year +
+                    ", " + streams;
         }
     }
 
@@ -94,12 +97,42 @@ public class Main {
             }
         }
         if (max != null) {
-            System.out.println("\t A Linkin Park legtöbbet streamelt száma: + max.getSong() + \" (\" + max.getStreams() + \" stream)\");
+            System.out.println("6. feladat: ");
+            System.out.println("A Linkin Park legtöbbet streamelt száma: " + max.getSong() + " " + (  + max.getStreams()));
         } else {
-            System.out.println("6. feladat: A Linkin Park nincs az adatbázisban.");
+            System.out.println("6. feladat: ");
+            System.out.println("A Linkin Park nincs az adatbázisban.");
         }
     }
 
+    private static void osszesStreameles() {
+        System.out.println("7.feladat:");
+        Map<String, Integer> streamelesek = new HashMap<>();
+
+        for (Zene n : zenek) {
+            if (!streamelesek.containsKey(n.getBand())) {
+                streamelesek.put(n.getBand(), (int) n.getStreams());
+            } else {
+                streamelesek.put(n.getBand(), streamelesek.get(n.getBand()) + (int) n.getStreams());
+            }
+            // System.out.println(streamelesek);
+
+            for (String k : streamelesek.keySet()) {
+                System.out.println(k + " : " + streamelesek.get(k));
+            }
+        }
+    }
+    private static void fajlstreamek() {
+        try {
+            FileWriter fw = new FileWriter("streamek.txt");
+            for (Zene zene : zenek) {
+                fw.write(zene+ "\n");
+            }
+            fw.close();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
     public static void main(String[] args) {
         feltolt();
 
@@ -107,5 +140,7 @@ public class Main {
             System.out.println(n);
         }
         linkinParkMax();
+        osszesStreameles();
+        fajlstreamek();
     }
 }

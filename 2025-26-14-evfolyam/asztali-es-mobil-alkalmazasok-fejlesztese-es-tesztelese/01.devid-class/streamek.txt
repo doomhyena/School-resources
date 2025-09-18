@@ -1,0 +1,19 @@
+Michael Jackson', Bad', 1987, 397692
+The Beatles', Hey Jude', 1968, 655910
+Linkin Park', Lost', 2023, 251237
+Michael Jackson', Earth Song', 1995, 164812
+Hannah Montana', Ordinary Girl', 2010, 110759
+Linkin Park', Waiting for the End', 2010, 196513
+The Beatles', While My Guitar Gently Weeps', 1968, 304472
+Michael Jackson', Beat It', 1982, 1360915
+Hannah Montana', One In a Million', 2007, 33360
+Linkin Park', Leave Out All The Rest', 2007, 330052
+Hannah Montana', The Best of Both Worlds', 2006, 118183
+The Beatles', Now And Then', 1973, 89026
+Michael Jackson', Thriller', 1982, 709079
+Linkin Park', One More Light', 2017, 446300
+The Beatles', And I Love Her', 1964, 261848
+Hannah Montana', Supergirl', 2009, 12070
+The Beatles', Yesterday', 1965, 796539
+Hannah Montana', Que Sera', 2010, 8496
+Michael Jackson', Remember the Time', 1992, 383033
