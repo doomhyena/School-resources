@@ -1,0 +1,37 @@
+Beadandó Licencfeltételek (VLL) 1.0
+
+A jelen licencfeltételek a repository teljes tartalmára vonatkoznak, beleértve a forráskódot, dokumentációt, képeket, ábrákat, adatstruktúrákat, fájlokat és minden egyéb kapcsolódó anyagot. A licenc kizárólag a beadandó projekt ellenőrzéséhez és értékeléséhez szükséges megtekintést engedélyezi; minden más felhasználás kizárólag a szerző előzetes, írásbeli engedélyével lehetséges.
+
+1. Engedélyezett tevékenységek
+A licenc korlátozott, nem átruházható és nem kizárólagos jogot biztosít az alábbiakra:
+
+- A forráskód és dokumentáció megtekintése kizárólag a beadandó projekt ellenőrzése és előkészítése során.
+- Hozzáférés biztosítása a beadandó értékelője számára.
+
+2. Tiltott tevékenységek
+Az alábbi tevékenységek csak a szerző előzetes, írásos engedélyével végezhetők, ennek hiányában tilosak:
+
+- A forráskód, dokumentáció vagy bármely részének másolása, letöltése, terjesztése, nyilvánosságra hozatala vagy archiválása.
+- A tartalom módosítása, átdolgozása, fordítása vagy bármilyen származtatott mű készítése.
+- A forráskód vagy dokumentáció újrafelhasználása, beleértve más projektekben való alkalmazást.
+- Kereskedelmi célú felhasználás, például értékesítés, szolgáltatásként való kínálás, vagy oktatási/licenc díjért történő használat.
+- A tartalom felhasználása mesterséges intelligencia, nyelvi modellek vagy gépi tanulás céljából.
+- A tartalom feltöltése nyilvános, nyílt forráskódú vagy egyéb tárolórendszerekbe (pl. GitHub, GitLab, Bitbucket stb.).
+
+3. Szellemi tulajdonjogok
+- A repository teljes tartalma Csontos Kincső Anasztázia kizárólagos szellemi tulajdonát képezi.
+- A szerző fenntart minden szerzői, iparjogvédelmi és egyéb jogot a tartalomhoz, beleértve a forráskódot, eljárásokat, struktúrákat, algoritmusokat és dokumentációt.
+- A licenc nem ruház át semmilyen tulajdonjogot a felhasználóra.
+
+4. Felelősség és jogkövetkezmények
+- A licenc megsértése jogsértésnek minősül, és polgári vagy büntetőjogi felelősséget vonhat maga után.
+- A szerző jogosult jogi lépéseket tenni, beleértve a kártérítés érvényesítését, azonnali hozzáférés megszüntetését, valamint hivatalos bejelentést az érintett oktatási vagy szakmai szervezetnél.
+- A jogsértésből eredő károkért a jogsértő teljes felelősséggel tartozik.
+
+5. Egyéb rendelkezések
+- A licenc a közzététel napjától érvényes.
+- A licenc érvényessége a szerző döntése alapján visszavonható.
+- A licenc magyar joghatóság alá tartozik, jogviták esetén a szerző székhelye szerinti bíróság illetékes.
+
+Készítette: Csontos Kincső Anasztázia  
+Dátum: 2025-08-17

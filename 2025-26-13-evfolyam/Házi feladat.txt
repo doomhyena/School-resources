@@ -1,0 +1,13 @@
+1. Feladat:
+
+Hozz létre egy listát. A lista létrehozásakor add meg 1-től 15-ig a számokat.
+KÓDDAL add hozzá a listához a 16-os számot!
+Írd ki a listát és a lista hosszát!
+
+2. Feladat:
+
+Hozz létre egy ötvenszer lefutó for ciklus. Minden lefutáskor vizsgálja meg, hogy $i értéke mennyi maradékot ad hárommal elosztva!
+
+3. Feladat:
+
+Hozz létre egy hússzor lefutó for ciklust. Minden lefutáskor adjon hozzá egy 1 és 50 közötti random számot az első feladatban létrehozott listádhoz!
