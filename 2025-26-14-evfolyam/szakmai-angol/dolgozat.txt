@@ -1,0 +1,12 @@
+Eljárásmód - Procedure
+Egységbe zárás - Unification
+Meghívás - Call
+Egyéni szegmensek - Individual segments
+Beágyazott -Embedded
+Végrehajt -Execution
+Elszigetelés - Isolation
+Követelmémyek - Requirements
+Kiterjedés - Scope
+Élesítés - Activation
+
+  2025/09/29
