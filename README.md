@@ -25,8 +25,8 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 /adatbazis-ii/                                            # SQL lekérdezések, táblák, adatmodellek
 /asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese  # Java alkalmazások (konzolos, GUI), Játékfejlesztés 
 /backend-programozas-es-teszteles/                        # C# alapok, kisebb programok
-/frontend-bprogramozas-es-teszteles/kiss                  # C# alapok, kisebb programok
-/frontend-bprogramozas-es-teszteles/varga                 # HTML, CSS, Bootstrap frontend projektek
+/frontend-programozas-es-teszteles/kiss                   # C# alapok, kisebb programok
+/frontend-programozas-es-teszteles/varga                  # HTML, CSS, Bootstrap frontend projektek
 /ikt-ii/                                                  # PHP projektek, űrlapkezelés, adatbázis 
 /munakvallaloi-idegen-nyelv/                              # Angol szakszókincs, fordítások, szövegek
 /szakmai-angol/                                           # Angol szakszókincs, fordítások, szövegek
