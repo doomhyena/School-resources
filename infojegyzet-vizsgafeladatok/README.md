@@ -7,13 +7,8 @@ A cél: **felkészülni a vizsgára**, közben pedig **gyakorolni a Java program
 
 ## Használat
 
-1. Klónozd a repót:
-
-   ```bash
-   git clone https://github.com/doomhyena/infojegyzet-vizsgafeladatok.git
-   ```
-2. Nyisd meg **IntelliJ IDEA-ban** vagy más IDE-ben.
-3. Futtasd az egyes `Main.java` fájlokat a mappákon belül.
+1. Nyisd meg **IntelliJ IDEA-ban** vagy más IDE-ben.
+2. Futtasd az egyes `Main.java` fájlokat a mappákon belül.
 
 ---
 
