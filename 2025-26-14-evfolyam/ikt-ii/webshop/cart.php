@@ -2,63 +2,93 @@
 
 	require "config.php";
 	
+	require "functions.php";
+	
 	session_start();
 	
 	if(!isset($_SESSION['kosar'])){
 		$_SESSION['kosar'] = [];
 	}
 	
-	echo "<a href='index.php'>Főoldal</a> ";
-	echo "<a href='cart.php'>Kosár ".count($_SESSION['kosar'])." </a>";
-	echo "<br><br>";
-	
-	if(empty($_SESSION['kosar'])) {
-		echo "<h2>Kosár üres</h2>";
-	} else {
-		$osszeg = 0;
-		echo "<h2>Kosár tartalma:</h2>";
-		for ($i = 0; $i < count($_SESSION['kosar']); $i++) {
-			$termek_id = $termek['id'];
-			$termekszam = $termek['darabszam'];
-
-			$lekerdezes = "SELECT * FROM termeks WHERE id = $termek_id";
-			$eredmeny = $conn->query($lekerdezes);
-            if ($eredmeny->num_rows > 0) {
-                $termek = $eredmeny->fetch_assoc();
-                $ar = ($termek['sale_ar'] > 0) ? $termek['sale_ar'] : $termek['ar'];
-                $reszosszeg = $ar * $darabszam;
-                $osszeg += $reszosszeg;
-
-                echo "<div>";
-                echo "  <h3>" . $termek['name'] . "</h3>";
-                echo "  <p>Mennyiség: " . $darabszam . "</p>";
-                echo "  <p>Egységár: " . $ar . " Ft</p>";
-                echo "  <p>Részösszeg: " . $reszossszeg . " Ft</p>";
-                echo "</div><br>";
-            }
-		
-        }
-        echo "<h3>Összesen: " . $osszeg . " Ft</h3>";	
-	}
-
-	if (isset($_SESSION['del-btn'])) {
+	// Kosár törlése
+	if(isset($_POST['del-btn'])){
 		$_SESSION['kosar'] = [];
 	}
+	
+	// rendelés
+	if(isset($_POST['order-btn'])){
+		
+		$rendeles = "";
+		
+		$rendeles = $_SESSION['kosar'][0]['id']."-".$_SESSION['kosar'][0]['db'];
+		
+		if(count($_SESSION['kosar']) > 1){
+			
+			for($i=1;$i<count($_SESSION['kosar']);$i++){
+			
+				$rendeles .= ";";
+				
+				$termek = $_SESSION['kosar'][$i]['id']."-".$_SESSION['kosar'][$i]['db'];
+				
+				$rendeles .= $termek;
+			
+			}
+		}
+		
+		$code = codeGenerator();
+		
+		$conn->query("INSERT INTO orders VALUES(id, '$rendeles', '$code')");
+		
+		$_SESSION['kosar'] = [];
+		
+		echo "<script>alert('A rendelésed azonosítója: $code')</script>";
+		
+	}
+	
+	echo "<a href='index.php'>Főoldal</a> ";
+	echo "<a href='cart.php'>Kosár ".count($_SESSION['kosar'])." </a> ";
+	echo "<a href='order.php'>Rendelés követése</a>";
+	echo "<br><br>";
+	
+	$vegosszeg = 0;
+	
+	if(count($_SESSION['kosar']) > 0){
+	
+		for($i=0;$i<count($_SESSION['kosar']);$i++){
+			
+			$id = $_SESSION['kosar'][$i]['id'];
+			
+			$lekerdezes = "SELECT * FROM products WHERE id = $id";
+			$talalt = $conn->query($lekerdezes);
+			$termek = $talalt->fetch_assoc();
+			
+			echo $termek['name']." ";
+			
+			if($termek['sale_price'] == 0){
+				echo $termek['price']*$_SESSION['kosar'][$i]['db']." Ft<br>";
+				$vegosszeg += $termek['price']*$_SESSION['kosar'][$i]['db'];
+			}
+			else{
+				echo $termek['sale_price']*$_SESSION['kosar'][$i]['db']." Ft<br>";
+				$vegosszeg += $termek['sale_price']*$_SESSION['kosar'][$i]['db'];
+			}   
+			
+		}
+		
+		echo "Végösszeg: ".$vegosszeg." Ft";
+	
+	}else{
+		echo "A kosár üres.";
+	}
+	
+	echo "<br><br>";
+	
+	
+	if(count($_SESSION['kosar']) > 0){
 ?>
-<!DOCTYPE html>
-<html>
-   <head>
-	   <title>Kosár</title>
-	   <meta charset='UTF-8'>
-	   <meta name='description' content='Rövid leírás az oldal tartalmáról'>
-	   <meta name='keywords' content='Keresést, Segítő, Szavak, Vesszővel, Elválasztva'>
-	   <meta name='author' content='Csontos Kincső'>
-	   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-   </head>
-   <body>
-	<form method="post">
-		<input type="submit" name="del-btn" value="Kosár törlése">
-		<input type="submit" name="order-btn" value="Megrendelés">
-	</form>
-   </body>
-</html>
+<form method="post">
+	<input type="submit" name="order-btn" value="Megrendelés">
+	<input type="submit" name="del-btn" value="Kosár törlése">
+</form>
+
+<?php } ?>

@@ -9,7 +9,8 @@
 	}
 	
 	echo "<a href='index.php'>Főoldal</a> ";
-	echo "<a href='cart.php'>Kosár ".count($_SESSION['kosar'])." </a>";
+	echo "<a href='cart.php'>Kosár ".count($_SESSION['kosar'])." </a> ";
+	echo "<a href='order.php'>Rendelés követése</a>";
 	echo "<br><br>";
 	
 	$rendezes = "default";
@@ -19,54 +20,41 @@
 	}
 
 ?>
-<!DOCTYPE html>
-<html lang="hu">
-   <head>
-	   <title>Főoldal</title>
-	   <meta charset='UTF-8'>
-	   <meta name='description' content='Rövid leírás az oldal tartalmáról'>
-	   <meta name='keywords' content='Keresést, Segítő, Szavak, Vesszővel, Elválasztva'>
-	   <meta name='author' content='Csontos Kincső'>
-	   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-   </head>
-   <body>
-		<form method="post">
-			<label>Rendezés: </label>
-			<select name="sorter" selected="selected" onchange="this.form.submit()">
-				<option value="default"
-				<?php 
-					if($rendezes == "default"){
-						echo " selected";
-					}
-				?>>-</option>
-				<option value="name"
-				<?php 
-					if($rendezes == "name"){
-						echo " selected";
-					}
-				?>>Név szerint</option>
-				<option value="cheap"
-				<?php 
-					if($rendezes == "cheap"){
-						echo " selected";
-					}
-				?>>Olcsók elől</option>
-				<option value="exp"
-				<?php 
-					if($rendezes == "exp"){
-						echo " selected";
-					}
-				?>>Drágák elől</option>
-				<option value="ordered"
-				<?php 
-					if($rendezes == "ordered"){
-						echo " selected";
-					}
-				?>>Nepszerűség szerint</option>
-			</select>
-		</form>
-   </body>
-</html>
+<form method="post">
+	<label>Rendezés: </label>
+	<select name="sorter" selected="selected" onchange="this.form.submit()">
+		<option value="default"
+		<?php 
+			if($rendezes == "default"){
+				echo " selected";
+			}
+		?>>-</option>
+		<option value="name"
+		<?php 
+			if($rendezes == "name"){
+				echo " selected";
+			}
+		?>>Név szerint</option>
+		<option value="cheap"
+		<?php 
+			if($rendezes == "cheap"){
+				echo " selected";
+			}
+		?>>Olcsók elől</option>
+		<option value="exp"
+		<?php 
+			if($rendezes == "exp"){
+				echo " selected";
+			}
+		?>>Drágák elől</option>
+		<option value="ordered"
+		<?php 
+			if($rendezes == "ordered"){
+				echo " selected";
+			}
+		?>>Nepszerűség szerint</option>
+	</select>
+</form>
 <?php 
 
 	if($rendezes == "default"){
@@ -77,9 +65,11 @@
 	}
 	else if($rendezes == "cheap"){
 		$lekerdezes = "SELECT * FROM products ORDER BY price";
-	} else if($rendezes == "exp") {
+	}
+	else if($rendezes == "exp"){
 		$lekerdezes = "SELECT * FROM products ORDER BY price DESC";
-	} else {
+	}
+	else{
 		$lekerdezes = "SELECT * FROM products ORDER BY sold DESC";
 	}
 	$talalt = $conn->query($lekerdezes);
