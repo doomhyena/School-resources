@@ -29,8 +29,8 @@ public class Main {
     static List<Versenyzo> rovidprogram = new ArrayList<>();
     static List<Versenyzo> donto = new ArrayList<>();
 
-    static void feladat(int szam) {
-        System.out.println("\n" + szam + ". feladat:");
+    static void feladat(int n) {
+        System.out.println(n + ". feladat:");
     }
 
     static void beolvas(String fajlnev, List<Versenyzo> lista) {
