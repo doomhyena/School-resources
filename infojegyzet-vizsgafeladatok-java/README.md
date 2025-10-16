@@ -40,10 +40,3 @@ Cél, hogy ez egy **közösségi tudásbázis** legyen a vizsgára készülőkne
 *Schola Európa Akadémia*
 
 > “A jó kód nem csak működik - tanít is.” 
-
----
-
-## Tipp
-
-Ha tetszik a repó vagy segített a tanulásban,
-adj neki egy csillagot!
