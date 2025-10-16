@@ -77,11 +77,9 @@
 	}
 	else if($rendezes == "cheap"){
 		$lekerdezes = "SELECT * FROM products ORDER BY price";
-	}
-	else if($rendezes == "exp"){
+	} else if($rendezes == "exp") {
 		$lekerdezes = "SELECT * FROM products ORDER BY price DESC";
-	}
-	else{
+	} else {
 		$lekerdezes = "SELECT * FROM products ORDER BY sold DESC";
 	}
 	$talalt = $conn->query($lekerdezes);

@@ -7,31 +7,34 @@
 	if(!isset($_SESSION['kosar'])){
 		$_SESSION['kosar'] = [];
 	}
+
+	$lekerdezes = "SELECT * FROM products WHERE id=$_GET[id]";
+	$talalt = $conn->query($lekerdezes);
+	$termek = $talalt->fetch_assoc();
+
+	if(isset($_POST['cart-btn'])){
+		
+
+		if($termek['sale_price'] == 0) {
+			$uj_termek = ["id" => $termek['id'], "db" => $_POST['db'], "price" => $termek['price']];
+		} else {
+			$uj_termek = ["id" => $termek['id'], "db" => $_POST['db'], "price" => $termek['sale_price']];
+		}
+		array_push($_SESSION['kosar'], $uj_termek);
+		
+	}
 	
 	echo "<a href='index.php'>Főoldal</a> ";
 	echo "<a href='cart.php'>Kosár ".count($_SESSION['kosar'])." </a>";
 	echo "<br><br>";
 	
-	// termék lekérdezése
-	$lekerdezes = "SELECT * FROM products WHERE id=$_GET[id]";
-	$talalt = $conn->query($lekerdezes);
-	$termek = $talalt->fetch_assoc();
-	
-	// termék elhelyezése a kosárba
-	if(isset($_POST['cart-btn'])){
-		
-		$uj_termek = ["id" => $termek['id'], "db" => $_POST['db']];
-		
-		array_push($_SESSION['kosar'], $uj_termek);
-		
-	}
+
 	
 	echo $termek['name']."<br>";
 	
 	if($termek['sale_price'] == 0){
 		echo $termek['price']." Ft<br>";
-	}
-	else{
+	} else {
 		echo "<del>".$termek['price']." Ft</del><br>".$termek['sale_price']." Ft<br>";
 	}
 	
