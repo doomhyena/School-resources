@@ -1,0 +1,45 @@
+﻿-- 1. feladat:
+
+SELECT 
+    s.CompanyName AS Supplier,
+    COUNT(p.ProductID) AS ProductCount,
+    AVG(p.UnitPrice) AS AverageUnitPrice
+FROM Products p
+JOIN Suppliers s ON p.SupplierID = s.SupplierID
+GROUP BY s.CompanyName
+ORDER BY s.CompanyName;
+
+-- 2. feladat:
+
+SELECT 
+    c.Country,
+    SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalOrderValue
+FROM Orders o
+JOIN Customers c ON o.CustomerID = c.CustomerID
+JOIN [Order Details] od ON o.OrderID = od.OrderID
+WHERE YEAR(o.OrderDate) = 1998
+GROUP BY c.Country
+ORDER BY TotalOrderValue DESC;
+
+-- 3. feladat:
+
+SELECT 
+    e.LastName + ' ' + e.FirstName AS Employee,
+    COUNT(o.OrderID) AS OrdersProcessed
+FROM Orders o
+JOIN Employees e ON o.EmployeeID = e.EmployeeID
+WHERE YEAR(o.OrderDate) = 1997
+GROUP BY e.LastName, e.FirstName
+ORDER BY OrdersProcessed DESC;
+
+-- 4. feladat: 
+
+SELECT 
+    c.CompanyName,
+    SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) / COUNT(DISTINCT o.OrderID) AS AvgOrderValue
+FROM Orders o
+JOIN Customers c ON o.CustomerID = c.CustomerID
+JOIN [Order Details] od ON o.OrderID = od.OrderID
+GROUP BY c.CompanyName
+HAVING SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) / COUNT(DISTINCT o.OrderID) > 5000
+ORDER BY AvgOrderValue DESC;
