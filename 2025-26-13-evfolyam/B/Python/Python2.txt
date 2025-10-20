@@ -1,0 +1,122 @@
+'''
+Futtatás:
+    Szoftver: PyCharm
+    Webes: programiz.com --> Python compiler
+'''
+# Egysoros komment
+'''Többsoros kommentelés'''
+
+a = 5
+b = 6
+c = 7
+d = a + b #Tartalom 11 lesz
+e = min(a, b, c) #A legkisebbet tárolja el közülük
+f = max(a, b, c) #A legnagyobbat tárolja el közülük
+#-----------------------------------
+#Feladat 1: 3 tetszőleges szám összeadása és a legnagyobb kivonása az összegből.
+a = 5
+b = 6
+c = 7
+d = a + b + c
+print(d - max(a, b, c))
+#-----------------------------------
+#Feladat 2: Vegyünk 2 tetszőleges számot. Végezzünk el velük 6 különböző
+    #matematikai műveletet, ezek eredményeit adjuk össze egy végső megoldásba.
+a = 2
+b = 3
+c = (a + b) + (a - b) + (a * b) + (a / b) + (a % b) + (a // b)
+print(c)
+#-----------------------------------
+#Felfelé kerekítés (matematikai modul használatával):
+import math     #matematikai modul importálása
+n = 50
+o = math.ceil(n / 6)    #modulnév.parancs()
+#50-et osztottuk 6-tal, de az eredményt felfelé kerekítettük (kerekítési szabályoktól függetlenül).
+#-----------------------------------
+#Logikai műveletek eredményei is tárolhatók a változókban:
+a = 12
+b = 3
+#Tároljuk el, hogy igaz-e az, hogy a/b nagyobb, mint b/a?
+c = (a / b) > (b / a)
+print(c) #Az eredmény True (igaz) lesz
+#Igaz-hamis értékeknél nagybetűvel írjuk a szót
+#-----------------------------------
+'''
+Feladat 3: Vegyük az 1. feladat tartalmát.
+           Az összeg osztva a 3 szám legnagyobbjával az nagyobb-e, mint a 3 szám legkisebbike?
+'''
+a = 5
+b = 6
+c = 7
+d = a + b + c
+e = d / (max(a, b, c))
+f = e > min(a, b, c)
+print(f)
+#-----------------------------------
+'''
+Feladat 4: 2 tetszőleges változó. Az egyiket négyzetre, a másikat köbre emeljük.
+           Összadjuk az eredményt és elosztjuk 3-mal, ezt pedig felfelé kerekítjük.
+'''
+a = 6
+b = 7
+a = a ** 2
+b = b ** 3
+c = a + b
+d = math.ceil(c / 3)
+print(c)
+#-----------------------------------
+#Gyökvonás:
+a = 100
+b = a ** (1/2) #a gyök 2
+print(b)
+#Egész szám-e egy változó tartalma?
+print(b.is_integer()) #VáltozóNeve.is_integer()
+math.pow(2,3) # 2 a 3.-on
+math.sqrt(4) #négyzetgyök vonás
+#-----------------------------------
+'''
+Feladat 5: Vegyünk 2 tetszőleges számot. Az egyiknek vegyük a 3. a másiknak meg a 4. gyökét.
+           A 2 új eredmény különbsége az egész szám-e?
+'''
+a = 7
+b = 8
+a = a ** (1/3)
+b = b ** (1/4)
+c = a - b
+print(c.is_integer())
+#-----------------------------------
+'''
+if-else ágak:
+2 számnak ha vesszük az összegét és a szorzatát, akkor nézzük meg, hogy a 2 kapott érték egyezik-e.
+Ha igen, akkor a válasz az, hogy "Egyeznek", ha nem, akkor a különbségüet írjuk ki.
+'''
+a = 2
+b = 3
+if a + b == a * b:  #Egyenlőségvizsgálatnál dupla '=' jel kell
+    print("Egyeznek")    #Az alá tartozó dolgok betabulátorozzuk (megfelelő struktúra kell)
+else:
+    print(abs(a-b))
+    #abs(): abszulútérték (leveszi az esetleges negatív előjelet)
+
+'''
+Általános if-else séma:
+
+if LogikaiFeltétel:
+    Kód, hogy mi történjen, ha teljeseül a feltétel...
+else:
+    Kód, hogy mi történjen minden más esetben...
+'''
+#-----------------------------------
+'''
+Feladat 6:
+    Kell 3 szám. Adjuk össze őket. Ha az összeg nagyobb, mint az első 2 szám szorzata, akkor írjuk ki az összeget.
+    Ha nem nagyobb, akkor osszuk el az összeget a szorzattal és felfelé kerekítve írjuk ki az eredményt.
+'''
+a = 2
+b = 3
+c = 4
+if a+b+c > a*b:
+    print(a+b+c)
+else:
+    d = (a + b + c) / a * b
+    print(math.ceil(d))
