@@ -4,7 +4,7 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 
 ---
 
-## 📁 Mappastruktúra és tantárgyak 2024/25
+## 📁 Mappastruktúra és tantárgyak 2024-25-13-evfolyam
 
 ```
 /adatbazis/                                # SQL lekérdezések, táblák, adatmodellek
@@ -19,7 +19,7 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 /webprog-II/                               # JavaScript feladatok, DOM-kezelés, JS appok
 ```
 
-## 📁 Mappastruktúra és tantárgyak 2025/26
+## 📁 Mappastruktúra és tantárgyak 2025-26-14-evfolyam
 
 ```
 /adatbazis-ii/                                            # SQL lekérdezések, táblák, adatmodellek
