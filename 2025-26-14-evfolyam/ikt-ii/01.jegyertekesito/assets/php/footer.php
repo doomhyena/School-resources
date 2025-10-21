@@ -3,8 +3,8 @@
 	<footer>
 		<div>
             <p>Fejlesztő: Csontos Kincső</p>
-            <a href="https://github.com/doomhyena">GitHub</a>
-            <p>&copy; 2025 Jegyértékesítő Oldal</p>
+            <a href="https://doomhyena.hu/">Weboldal</a>
+            <p>&copy; 2025 Webshop</p>
 		</div>
 	</footer>
     ';
