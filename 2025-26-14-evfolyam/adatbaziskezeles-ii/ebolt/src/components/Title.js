@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { ThemeContext } from './context/ThemeContexts';
-//"Title" osztály létrehozása (amely a Component osztályból öröklődik):
+
 class Title extends Component {
   static contextType = ThemeContext;
 
@@ -32,5 +32,5 @@ class Title extends Component {
     );
   }
 }
-//Ezen kód elérhetővé tétele "Title" néven a többi fájl számára:
+
 export default Title;

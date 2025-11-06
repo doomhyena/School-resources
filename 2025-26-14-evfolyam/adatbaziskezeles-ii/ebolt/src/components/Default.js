@@ -1,9 +1,8 @@
-//Alap hibaoldal arra az esetre, ha nem sikerült betölteni a dolgokat
 import React, { Component } from 'react'
-//"Default" osztály létrehozása és elérhetővé tétele (amely a Component osztályból öröklődik):
+
 export default class Default extends Component {
     render() {
-        console.log(this.props);//Mögöttes ellenőrzéshez
+        console.log(this.props);
         return (
             <div className="container">
                 <div className="row">

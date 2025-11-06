@@ -5,7 +5,6 @@ import {ButtonContainer} from './Button';
 import {Link} from 'react-router-dom';
 import { ThemeConsumer } from './context/ThemeContexts';
 
-//"Modal" osztály létrehozása és elérhetővé tétele (amely a Component osztályból öröklődik):
 export default class Modal extends Component {
     render() {
         return (
@@ -28,7 +27,7 @@ export default class Modal extends Component {
                                     <h5 className={theme && "text-white" }>item added to the cart</h5>
                                     <img src={img} className="img-fluid" alt="product" />
                                     <h5 className={theme && "text-light" }>{title}</h5>
-                                    <h5 className={theme ? "text-light" : "text-muted"}>Ár : $ {price}</h5>
+                                    <h5 className={theme ? "text-light" : "text-muted"}>price : $ {price}</h5>
                                     <Link to='/'>
                                     <ButtonContainer onClick={()=>closeModal()}>
                                         vásárlás folytatása
@@ -36,7 +35,7 @@ export default class Modal extends Component {
                                     </Link>
                                     <Link to='/cart'>
                                     <ButtonContainer cart onClick={() => closeModal()}>
-                                         a kosárhoz
+                                         go to cart
                                     </ButtonContainer>
                                     </Link>
                                     </div>
@@ -53,7 +52,6 @@ export default class Modal extends Component {
         );
     }
 }
-//Formázás:
 const ModalContainer =styled.div`
 position:fixed;
 top:0;

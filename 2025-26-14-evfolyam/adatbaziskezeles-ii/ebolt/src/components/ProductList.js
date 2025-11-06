@@ -3,7 +3,7 @@ import Product from './Product';
 import Title from './Title';
 import { ProductConsumer } from '../context';
 import { ThemeConsumer } from './context/ThemeContexts';
-//"ProductList" osztály létrehozása és elérhetővé tétele (amely a React Component osztályából öröklődik):
+
 class ProductList extends React.Component {
   render() {
     return (
@@ -11,7 +11,7 @@ class ProductList extends React.Component {
         {({ theme }) => (
           <ProductConsumer>
             {(value) => (
-              value.products.length > 0 ?	//Ha van termék-találat
+              value.products.length > 0 ?
                 <div className={theme ? 'py-5 bg-slate-900' : 'py-5 bg-slate-200'}>
                   <div className="container">
                     <div>
@@ -24,7 +24,7 @@ class ProductList extends React.Component {
                     </div>
                   </div>
                 </div>
-                :	//Ha nincs terméktalálat, akkor mást írjon ki
+                :
                 <div className={theme ? 'py-5 bg-slate-900' : 'py-5 bg-slate-200'}>
                   <div className="row">
                     <div className="col-10 mx-auto text-center text-title text-primary">
@@ -48,5 +48,5 @@ class ProductList extends React.Component {
     );
   }
 }
-//Ezen kód elérhetővé tétele a többi fájl számára "ProductList" néven:
+
 export default ProductList;

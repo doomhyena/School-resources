@@ -9,7 +9,7 @@ import { ThemeProvider } from './components/context/ThemeContexts';
 
 
 
-//Ez a metódus felel az egész tartalom megjelenítéséért:
+
 ReactDOM.render(
    
  <ProductProvider>

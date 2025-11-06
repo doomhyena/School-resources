@@ -1,5 +1,3 @@
-//A projekt központi JS fájlja.
-//Beimportáljuk a szükséges React modulokat és fájlok kódját:
 import React from 'react';
 import {Switch,Route} from "react-router-dom";
 import './App.css';
@@ -11,7 +9,7 @@ import Cart from "./components/Cart";
 import Default from "./components/Default";
 import Modal from './components/Modal';
 import { ThemeConsumer } from './components/context/ThemeContexts'
-//Megjelenítés és elérhetőség a látogató számára:
+
 function App() {
   return (
     <ThemeConsumer>
@@ -33,5 +31,5 @@ function App() {
        </ThemeConsumer>
   );
 }
-//Elérhetővé tesszük ezt a fájlt "App" néven a többi fájl kódjának:
+
 export default App;
