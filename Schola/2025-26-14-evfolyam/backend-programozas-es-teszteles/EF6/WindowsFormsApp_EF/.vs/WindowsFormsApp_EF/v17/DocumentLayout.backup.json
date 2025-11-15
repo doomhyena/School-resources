@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\edit_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29312C62-51F5-4EED-966B-669DA7DDB168}|..\\DATA_NW\\DATA_NW.csproj|c:\\users\\kizo7\\desktop\\ef6\\data_nw\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\edit_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\DATA_NW\\DAL.cs",
+              "RelativeDocumentMoniker": "..\\DATA_NW\\DAL.cs",
+              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\DATA_NW\\DAL.cs",
+              "RelativeToolTip": "..\\DATA_NW\\DAL.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIAkwG4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:02:16.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit_Form.cs",
+              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Edit_Form.cs",
+              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Edit_Form.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAfwDIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:33:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Edit_Form.cs",
+              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Edit_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:33:41.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIAxwGwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:32:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:32:27.614Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

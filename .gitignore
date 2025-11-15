@@ -46,7 +46,6 @@ package-lock.json
 
 # === Weboldal feltöltések, ha vannak ===
 uploads/
-*.zip
 
 # === Személyes fájlok, jelszavak stb. (ha lenne ilyen) ===
 .env

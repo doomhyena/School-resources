@@ -1,0 +1,31 @@
+Víz
+
+A víz, vagyis a dihidrogén-monoxid (latinul: aqua) a hidrogén és az oxigén vegyülete, kémiai képlete H2O. Színtelen, szagtalan, íztelen, folyékony kémiai anyag, melynek mikroorganizmusoktól mentes állapotban olvadáspontja 0 °C, forráspontja 100 °C 101,3 kPa nyomáson. Egészen -48 Celsius-fokig túlhűthető.
+
+A „víz” megnevezés általában a szobahőmérsékleten folyékony állapotra vonatkozik, szilárd halmazállapotban jégnek, légnemű halmazállapotban gőznek nevezik. Dipólusmolekulák alkotják. A víz egy amfoter vegyület, ami azt jelenti, hogy viselkedhet savként és bázisként is.
+
+A víz élettani, gazdasági és ipari szempontból is kiemelkedően fontos. A vízi úton történő szállítás a kereskedelem és gazdaság gerincét képezi.
+
+A vendéglátásban a vezetékes és palackozott ivóvízzel, a forrásvízzel, a szikvízzel, az ásványi anyaggal dúsított ivóvízzel, az ízesített vízzel, a természetes ásványvízzel és a gyógyvízzel találkozhatunk. Napjainkban az ivóvizet már előállítják, kitermelik, és csővezetékeken keresztül juttatják el a felhasználókig. Régen főleg kútból/gémeskútból húzták fel a vizet, bár még most is vannak ilyen kutak.
+
+Előfordulása a Földön
+
+A víz a Föld felületén megtalálható egyik leggyakoribb anyag, a földi élet alapfeltétele.
+
+A Föld felületének 71%-át víz borítja, ennek kb. 2,5%-a édesvíz, a többi sós víz, melyek a tengerekben, illetve óceánokban helyezkednek el. Az édesvízkészlet gleccserek és állandó hótakaró formájában található részét nem számítva az édesvíz 98%-a felszín alatti víz, ezért különösen fontos a felszín alatti vizek védelme. Magyarország ivóvízellátásának több mint 95%-a felszín alatti vizeken alapszik. Kanada rendelkezik a legnagyobb édesvíz-tartalékokkal, a források 25%-ával.
+
+Élettani jelentősége
+
+Biológiai jelentősége óriási, a földi élet elképzelhetetlen nélküle, a sejt- és testnedvek legnagyobb részét víz alkotja. A vér ozmózisnyomásának normál szinten tartásában is jelentős szerepe van. Ajánlott a napi legalább 1,5-2 liter folyadék elfogyasztása, ez alapvető igénye szervezetünknek. Két-három napnál tovább az orvostudomány mai állása szerint az ember nem élheti túl a vízhiányt.
+
+A víz rendkívül fontos szerepet betöltő kémiai anyag, a Föld vízburkát alkotja, kitölti a világ óceánjait és tengereit, az ásványok és kőzetek alkotórésze, a növényi és állati szervezetek pótolhatatlan része. Nagyon fontos az iparban, a mezőgazdaságban, a háztartásokban, a laboratóriumokban stb.
+
+A vizekben élő állatok számára nélkülözhetetlen. Az oldott oxigént lélegzik kopoltyújukkal, másrészt télen, mivel 4 °C-on a legsűrűbb, a 4 °C-os víz a vizek aljára süllyed, és ezek után nem érintkezik a hideg levegővel, ezért nem fagy meg. Így az állatok áttelelhetnek megfagyás nélkül a tavak alsó részeiben.
+
+A víz sűrűségmaximuma
+
+A víz sűrűségmaximuma a fagyáspont felett van (4 °C). A sűrűség és a hőmérséklet közötti összefüggés
+
+D=1-6,63*10-6*(t-4)2, de némi hiba van benne. Az összefüggés nem lineáris.
+
+Forrás: https://hu.wikipedia.org/wiki/Víz

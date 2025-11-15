@@ -1,10 +1,62 @@
 # 🎓 Szakmai év – Iskolai feladatgyűjtemény
 
-Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk.
+Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk. Illetve a 2025/26-s szakmai év
 
 ---
 
-## 📁 Mappastruktúra és tantárgyak 2024-25-13-evfolyam
+## BLáthy
+
+### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
+
+```
+Még nem elérhető
+```
+
+---
+
+### 🛠️ Használt technológiák
+
+- **Programozási nyelvek:** Még nem elérhető
+- **Webfejlesztés:** Még nem elérhető
+- **Egyéb:** Még nem elérhető
+
+---
+
+### ⚙️ Futtatási útmutató
+
+- Még nem elérhető
+
+---
+
+### 📌 Megjegyzések
+
+- Minden feladat itt a tanárok/saját munkám, tanulási céllal készült.
+- A projektek nem minden esetben teljes értékű alkalmazások, egyesek csak részfeladatokat valósítanak meg.
+- A fájlok mappánként rendszerezettek, és `README.md` fájlok is segítik az eligazodást, ahol szükséges.
+
+---
+
+#### 👨‍🏫 Oktatók 2025/26 1.félév
+
+| Tantárgy                              | Tanár neve  |
+| ------------------------------------- | ----------- |
+| Munkavállalói ismeretek               |             |
+| Munkavállalói idegen nyelv            |             |
+| Informatikai és távközlési alapok I.  |             |
+| Informatikai és távközlési alapok II. |             |
+| Programozási alapok                   |             |
+| IKT projektmunka I.                   | Duffka Erik |
+| IKT projektmunka II.                  |             |
+| Hálózatok I.                          |             |
+| Hálózatok II.                         |             |
+| Hálózat programozása és Iot           |             |
+| Szerverek és felhőszolgáltatások      |             |
+| Adatbázis-kezelés I.                  |             |
+| Szakmai Angol                         |             |
+
+## Schola
+
+### 📁 Mappastruktúra és tantárgyak 2024-25-13-evfolyam
 
 ```
 /adatbazis/                                # SQL lekérdezések, táblák, adatmodellek
@@ -19,15 +71,15 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 /webprog-II/                               # JavaScript feladatok, DOM-kezelés, JS appok
 ```
 
-## 📁 Mappastruktúra és tantárgyak 2025-26-14-evfolyam
+### 📁 Mappastruktúra és tantárgyak 2025-26-14-evfolyam
 
 ```
 /adatbazis-ii/                                            # SQL lekérdezések, táblák, adatmodellek
-/asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese  # Java alkalmazások (konzolos, GUI), Játékfejlesztés 
+/asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese  # Java alkalmazások (konzolos, GUI), Játékfejlesztés
 /backend-programozas-es-teszteles/                        # C# alapok, kisebb programok
 /frontend-programozas-es-teszteles/kiss                   # C# alapok, kisebb programok
 /frontend-programozas-es-teszteles/varga                  # HTML, CSS, Bootstrap frontend projektek
-/ikt-ii/                                                  # PHP projektek, űrlapkezelés, adatbázis 
+/ikt-ii/                                                  # PHP projektek, űrlapkezelés, adatbázis
 /munakvallaloi-idegen-nyelv/                              # Angol szakszókincs, fordítások, szövegek
 /szakmai-angol/                                           # Angol szakszókincs, fordítások, szövegek
 
@@ -35,7 +87,7 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 
 ---
 
-## 🛠️ Használt technológiák
+### 🛠️ Használt technológiák
 
 - **Programozási nyelvek:** Python, C#, Java, PHP, JavaScript, SQL
 - **Webfejlesztés:** HTML, CSS, Bootstrap
@@ -43,7 +95,7 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 
 ---
 
-## ⚙️ Futtatási útmutató
+### ⚙️ Futtatási útmutató
 
 - **Python**: `python3 fajlnev.py`
 - **C#**: `dotnet run` vagy Visual Studio projektként
@@ -54,7 +106,7 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 
 ---
 
-## 📌 Megjegyzések
+### 📌 Megjegyzések
 
 - Minden feladat itt a tanárok/saját munkám, tanulási céllal készült.
 - A projektek nem minden esetben teljes értékű alkalmazások, egyesek csak részfeladatokat valósítanak meg.
@@ -62,39 +114,34 @@ Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandóka
 
 ---
 
-## Hol wan a 2024-25-14-evfolyam/Wuncs mappa?
+#### 👨‍🏫 Oktatók 2024/25 tanév
 
-Ez a mappa 100 MB-nál nagyobb fájlokat tartalmaz, ezért a Google Drive-ba töltöttem fel. A teljes mappa elérhető [itt](https://drive.google.com/drive/folders/1q7gAJhEEr4ya6pDu2pxPuEf5UqwJbUMq?usp=sharing)!
+| Tantárgy                               | Tanár neve              |
+| -------------------------------------- | ----------------------- |
+| Adatbázis                              | Kiss Ádám               |
+| Asztali Alkalmazások I.                | Hujber Balázs           |
+| Asztali Alkalmazások II.               | Wuncs Dávid             |
+| IKT I.                                 | Kiss Ádám               |
+| Informatikai és Távközlési Alapok I.   | Kumpera Ferenc          |
+| Informatikai és Távközlési Alapok II.  | Hujber Balázs           |
+| Informatikai és Távközlési Alapok III. | Varga József            |
+| Programozási Alapok I.                 | Kiss Ádám               |
+| Szakmai Angol                          | Kövesdiné Lám Zsuzsánna |
+| Szoftvertesztelés                      | Kiss Zoltán             |
+| Webprogramozás I.                      | Varga József            |
+| Webprogramozás II.                     | Kiss Ádám               |
 
+#### 👨‍🏫 Oktatók 2025/26 tanév
 
-### 👨‍🏫 Oktatók 2024/25 tanév
-
-| Tantárgy                              | Tanár neve     |
-| ------------------------------------- | -------------- |
-| Adatbázis                             | Kiss Ádám      |
-| Asztali Alkalmazások I.               | Hujber Balázs  |
-| Asztali Alkalmazások II.              | Wuncs Dávid    |
-| IKT I.                                | Kiss Ádám      |
-| Informatikai és Távközlési Alapok I.  | Kumpera Ferenc |
-| Informatikai és Távközlési Alapok II. | Hujber Balázs  |
-| Informatikai és Távközlési Alapok III.| Varga József   |
-| Programozási Alapok I.                | Kiss Ádám		   |
-| Szakmai Angol                         | Kövesdiné Lám Zsuzsánna      |
-| Szoftvertesztelés                     | Kiss Zoltán    |
-| Webprogramozás I.                   	| Varga József   |
-| Webprogramozás II.                   	| Kiss Ádám   	 |
-
-### 👨‍🏫 Oktatók 2025/26 tanév
-
-| Tantárgy                              | Tanár neve     |
-| ------------------------------------- | -------------- |
-| Adatbázis II.                         | Kiss Ádám      |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése  | Kiss Zoltán,  Wuncs Dávid |
-| Backend programozás és tesztelés      | Kiss Zoltán    |
-| Frontend programozás és tesztelés     | Kiss Zoltán, Varga József |
-| IKT II.                               | Hujber Balázs  |
-| Munkavállalói Idegen Nyelv            | Kövesdiné Lám Zsuzsánna |
-| Szakmai Angol                         | Kiss Ádám      |
+| Tantárgy                                                | Tanár neve                |
+| ------------------------------------------------------- | ------------------------- |
+| Adatbázis II.                                           | Kiss Ádám                 |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése | Kiss Zoltán, Wuncs Dávid  |
+| Backend programozás és tesztelés                        | Kiss Zoltán               |
+| Frontend programozás és tesztelés                       | Kiss Zoltán, Varga József |
+| IKT II.                                                 | Hujber Balázs             |
+| Munkavállalói Idegen Nyelv                              | Kövesdiné Lám Zsuzsánna   |
+| Szakmai Angol                                           | Kiss Ádám                 |
 
 ## 📄 Licenc
 
@@ -102,4 +149,4 @@ Ez a repó tanulási célokat szolgál. Szabadon másolható de kérlek, ne add 
 
 ---
 
-*Maintained by: Csontos Kincső (doomhyena) ["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/)*
+_Maintained by: Csontos Kincső (doomhyena) ["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/) & [Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)_

@@ -1,0 +1,8 @@
+
+	Új mappába és új fájlokkal dolgozz!
+	
+	Az index oldalon hozz létre egy listát a sessionben úgy, hogy ne törlődjön belőle az adat az oldal újratöltésekor.
+	
+	készíts egy formot egy text inputtal és egy gombbal. A formba-beírt adatok kerüljenek bele a listába a form elküldése után.
+	
+	
