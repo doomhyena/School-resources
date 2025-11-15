@@ -38,21 +38,21 @@ Még nem elérhető
 
 #### 👨‍🏫 Oktatók 2025/26 1.félév
 
-| Tantárgy                              | Tanár neve  |
-| ------------------------------------- | ----------- |
-| Munkavállalói ismeretek               |             |
-| Munkavállalói idegen nyelv            |             |
-| Informatikai és távközlési alapok I.  |             |
-| Informatikai és távközlési alapok II. |             |
-| Programozási alapok                   |             |
-| IKT projektmunka I.                   | Duffka Erik |
-| IKT projektmunka II.                  |             |
-| Hálózatok I.                          |             |
-| Hálózatok II.                         |             |
-| Hálózat programozása és Iot           |             |
-| Szerverek és felhőszolgáltatások      |             |
-| Adatbázis-kezelés I.                  |             |
-| Szakmai Angol                         |             |
+| Tantárgy                              | Tanár neve         |
+| ------------------------------------- | ------------------ |
+| Munkavállalói ismeretek               |                    |
+| Munkavállalói idegen nyelv            |                    |
+| Informatikai és távközlési alapok I.  |                    |
+| Informatikai és távközlési alapok II. |                    |
+| Programozási alapok                   |                    |
+| IKT projektmunka I.                   | Duffka Erik Martin |
+| IKT projektmunka II.                  |                    |
+| Hálózatok I.                          |                    |
+| Hálózatok II.                         |                    |
+| Hálózat programozása és Iot           |                    |
+| Szerverek és felhőszolgáltatások      |                    |
+| Adatbázis-kezelés I.                  |                    |
+| Szakmai Angol                         |                    |
 
 ## Schola
 
