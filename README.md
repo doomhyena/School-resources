@@ -1,6 +1,6 @@
-# 🎓 Szakmai év – Iskolai feladatgyűjtemény
+# 🎓 Szakmai évek
 
-Ez a repó a 2024/2026-ös szakmai év során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk. Illetve a 2025/26-s szakmai év
+Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk. Illetve a 2025/26-s szakmai év
 
 ---
 
