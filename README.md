@@ -9,7 +9,7 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 ### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
 
 ```
-Még nem elérhető
+/ikt-i/ # Frontend alapok
 ```
 
 ---
@@ -118,14 +118,14 @@ Még nem elérhető
 
 | Tantárgy                               | Tanár neve              |
 | -------------------------------------- | ----------------------- |
-| Adatbázis                              | Kiss Ádám               |
+| Adatbázis-kezelés I.                   | Kiss Ádám               |
 | Asztali Alkalmazások I.                | Hujber Balázs           |
 | Asztali Alkalmazások II.               | Wuncs Dávid             |
-| IKT I.                                 | Kiss Ádám               |
+| IKT projektmunka I.                    | Kiss Ádám               |
 | Informatikai és Távközlési Alapok I.   | Kumpera Ferenc          |
 | Informatikai és Távközlési Alapok II.  | Hujber Balázs           |
 | Informatikai és Távközlési Alapok III. | Varga József            |
-| Programozási Alapok I.                 | Kiss Ádám               |
+| Programozási Alapok                    | Kiss Ádám               |
 | Szakmai Angol                          | Kövesdiné Lám Zsuzsánna |
 | Szoftvertesztelés                      | Kiss Zoltán             |
 | Webprogramozás I.                      | Varga József            |
@@ -133,15 +133,17 @@ Még nem elérhető
 
 #### 👨‍🏫 Oktatók 2025/26 tanév
 
-| Tantárgy                                                | Tanár neve                |
-| ------------------------------------------------------- | ------------------------- |
-| Adatbázis II.                                           | Kiss Ádám                 |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése | Kiss Zoltán, Wuncs Dávid  |
-| Backend programozás és tesztelés                        | Kiss Zoltán               |
-| Frontend programozás és tesztelés                       | Kiss Zoltán, Varga József |
-| IKT II.                                                 | Hujber Balázs             |
-| Munkavállalói Idegen Nyelv                              | Kövesdiné Lám Zsuzsánna   |
-| Szakmai Angol                                           | Kiss Ádám                 |
+| Tantárgy                                                    | Tanár neve                |
+| ----------------------------------------------------------- | ------------------------- |
+| Adatbázis-kezelés I.                                        | Kiss Ádám                 |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése     | Wuncs Dávid               |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése II. | Kiss Zoltán               |
+| Backend programozás és tesztelés                            | Kiss Zoltán               |
+| Frontend programozás és tesztelés II.                       | Varga József              |
+| Frontend programozás és tesztelés I.                        | Varga József              |
+| IKT projektmunka II.                                        | Hujber Balázs             |
+| Munkavállalói Idegen Nyelv                                  | Kövesdiné Lám Zsuzsánna   |
+| Szakmai Angol                                               | Kiss Ádám                 |
 
 ## 📄 Licenc
 
