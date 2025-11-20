@@ -9,7 +9,20 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 ### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
 
 ```
-/ikt-i/ # Frontend alapok
+/adatbazis-kezeles-I/               #
+/halozatok-I/                       #
+/halozatok-II/                      #
+/halozatok-programozasa-es-iot/     #
+/ikt-projektmunka-I/                # Frontend alapok
+/ikt-projektmunka-II/               #
+/info-alapok-I/                     #
+/info-alapok-II/                    #
+/munkavallaloi-idegen-nyelv/        #
+/munkavallaloi-ismeretek/           #
+/prog-alapok/                       #
+/szakmai-angol/                     #
+/szerverek-es-felhoszolgaltatasok/  #
+
 ```
 
 ---
@@ -59,13 +72,13 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 ### 📁 Mappastruktúra és tantárgyak 2024-25-13-evfolyam
 
 ```
-/adatbazis/                                # SQL lekérdezések, táblák, adatmodellek
+/adatbaziskezeles-I/                                # SQL lekérdezések, táblák, adatmodellek
 /asztali-alkalmazasok-I-info-alapok-II/    # PHP projektek, űrlapkezelés, adatbázis
 /asztali-alkalmazasok-II/                  # Java alkalmazások (konzolos)
-/ikt-I/                                    # Diagramok (pl. hálózati topológia, folyamatábrák)
+/ikt-projektmunka-II/                                    # Diagramok (pl. hálózati topológia, folyamatábrák)
 /info-alapok-I/                            # Általános IT jegyzetek, definíciók
 /info-alapok-III-webprog-I/                # HTML, CSS, Bootstrap frontend projektek
-/prog-alapok-I/                            # Python és C# alapok, kisebb programok
+/prog-alapok/                            # Python és C# alapok, kisebb programok
 /szakmai-angol/                            # Angol szakszókincs, fordítások, szövegek
 /szoftverteszteles/                        # C# alapok, kisebb programok
 /webprog-II/                               # JavaScript feladatok, DOM-kezelés, JS appok
@@ -74,12 +87,12 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 ### 📁 Mappastruktúra és tantárgyak 2025-26-14-evfolyam
 
 ```
-/adatbazis-ii/                                            # SQL lekérdezések, táblák, adatmodellek
+/adatbaziskezeles-I/                                            # SQL lekérdezések, táblák, adatmodellek
 /asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese  # Java alkalmazások (konzolos, GUI), Játékfejlesztés
 /backend-programozas-es-teszteles/                        # C# alapok, kisebb programok
 /frontend-programozas-es-teszteles/kiss                   # C# alapok, kisebb programok
 /frontend-programozas-es-teszteles/varga                  # HTML, CSS, Bootstrap frontend projektek
-/ikt-ii/                                                  # PHP projektek, űrlapkezelés, adatbázis
+/ikt-projektmunka-II/                                                  # PHP projektek, űrlapkezelés, adatbázis
 /munakvallaloi-idegen-nyelv/                              # Angol szakszókincs, fordítások, szövegek
 /szakmai-angol/                                           # Angol szakszókincs, fordítások, szövegek
 
