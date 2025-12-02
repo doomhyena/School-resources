@@ -1,0 +1,32 @@
+Új, üres React projekt létrehozása:
+	- Git és Node.js szükségesek
+	- Navigálunk egy üres mappába a C: meghajtón
+	- Parancssor nyitása (cmd)
+	- Beír: npx create-react-app projekt-neve
+		* Ha kéri, akkor leokézzuk (y)
+		* Eltarthat egy pár percig
+	- Navigáció: cd MappNeve
+	- Futtatás: npm start
+	- Esetleges hibák:
+		* old lockfile vagy deprecated nem gond
+		* ne hálózati meghajtóra hozzuk létre 
+------------------------------
+Meglévő react projekt futtatása:
+	- projektmappán belül cmd nyitása
+	- npm install
+		* ez telepíti az adott projekt szükséges moduljait
+		* megjelenik a node_modules mappa
+		* a package.json alapján telepít
+		* ez csak a projekt 1. futtatása előtt kell	
+	- npm audit fix
+		* azért, hogy elkerüljük az esetleges hibákat
+		* ezt is csak egyszer kell
+	- npm start
+------------------------------
+React projekt felépítése:
+	- a sémát (mapprandszer) maga létrehozza
+	- node_modules mappa: az npm install hozza 
+		létre a szükséges modulok tárolására
+	- package.json: telepítési infók
+	- public mappa: index és egyéb segédikonok
+	- az érdemi rész az src mappában van

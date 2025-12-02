@@ -112,5 +112,23 @@ namespace DATA_NW
 
 			}
 		}
+
+		public static List<Customer> Get_Customers()
+		{
+			List<Customer> result=new List<Customer>();
+			try
+			{
+				using (NWEntities db=new NWEntities())
+				{
+					result = db.Customers.ToList();
+				}
+			}
+			catch (Exception)
+			{
+
+				throw;
+			}
+			return result;
+		}
 	}
 }

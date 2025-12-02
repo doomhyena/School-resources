@@ -1,21 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp_EF\\",
+  "WorkspaceRootPath": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\edit_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29312C62-51F5-4EED-966B-669DA7DDB168}|..\\DATA_NW\\DATA_NW.csproj|s:\\szoftver\\szoftver14\\kz\\a\\ef6\\data_nw\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29312C62-51F5-4EED-966B-669DA7DDB168}|..\\DATA_NW\\DATA_NW.csproj|c:\\users\\kizo7\\desktop\\ef6\\data_nw\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F32B4CC1-C15A-47B9-88D9-1391EF60B5F5}|CustomerOrders\\CustomerOrders.csproj|s:\\szoftver\\szoftver14\\kz\\a\\ef6\\windowsformsapp_ef\\customerorders\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32B4CC1-C15A-47B9-88D9-1391EF60B5F5}|CustomerOrders\\CustomerOrders.csproj|solutionrelative:customerorders\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\edit_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F32B4CC1-C15A-47B9-88D9-1391EF60B5F5}|CustomerOrders\\CustomerOrders.csproj|s:\\szoftver\\szoftver14\\kz\\a\\ef6\\windowsformsapp_ef\\customerorders\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F32B4CC1-C15A-47B9-88D9-1391EF60B5F5}|CustomerOrders\\CustomerOrders.csproj|solutionrelative:customerorders\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kizo7\\desktop\\ef6\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{82D0DD13-2B41-46F4-916C-2DEB826BF530}|..\\WindowsFormsApp1\\WindowsFormsApp1.csproj|s:\\szoftver\\szoftver14\\kz\\a\\ef6\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,70 +23,63 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 18,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\DATA_NW\\DAL.cs",
-              "RelativeDocumentMoniker": "..\\DATA_NW\\DAL.cs",
-              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\DATA_NW\\DAL.cs",
-              "RelativeToolTip": "..\\DATA_NW\\DAL.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAIAkwG4AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T09:02:16.995Z",
+              "WhenOpened": "2025-10-20T12:32:11.591Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 382,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\DATA_NW\\DAL.cs",
+              "RelativeDocumentMoniker": "..\\DATA_NW\\DAL.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\DATA_NW\\DAL.cs",
+              "RelativeToolTip": "..\\DATA_NW\\DAL.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwHoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:41:38.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit_Form.cs",
-              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs",
-              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Edit_Form.cs",
-              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs",
-              "RelativeToolTip": "..\\WindowsFormsApp1\\Edit_Form.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAfwDIAAABTAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp_EF\\CustomerOrders\\Form1.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Form1.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp_EF\\CustomerOrders\\Form1.cs",
+              "RelativeToolTip": "CustomerOrders\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:33:49.45Z",
+              "WhenOpened": "2025-10-20T12:36:43.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit_Form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs",
-              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Edit_Form.cs",
-              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Edit_Form.cs [Design]",
-              "RelativeToolTip": "..\\WindowsFormsApp1\\Edit_Form.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:33:41.675Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs",
-              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAIAxwGwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:32:50.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\kizo7\\Desktop\\EF6\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1.cs [Design]",
+              "DocumentMoniker": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp_EF\\CustomerOrders\\Form1.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Form1.cs",
+              "ToolTip": "S:\\Szoftver\\Szoftver14\\KZ\\A\\EF6\\WindowsFormsApp_EF\\CustomerOrders\\Form1.cs [Design]",
+              "RelativeToolTip": "CustomerOrders\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:32:27.614Z",
+              "WhenOpened": "2025-10-20T12:31:17.965Z",
               "EditorCaption": " [Design]"
             }
           ]
