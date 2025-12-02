@@ -72,13 +72,13 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 ### 📁 Mappastruktúra és tantárgyak 2024-25-13-evfolyam
 
 ```
-/adatbaziskezeles-I/                                # SQL lekérdezések, táblák, adatmodellek
+/adatbaziskezeles-I/                       # SQL lekérdezések, táblák, adatmodellek
 /asztali-alkalmazasok-I-info-alapok-II/    # PHP projektek, űrlapkezelés, adatbázis
 /asztali-alkalmazasok-II/                  # Java alkalmazások (konzolos)
-/ikt-projektmunka-II/                                    # Diagramok (pl. hálózati topológia, folyamatábrák)
+/ikt-projektmunka-II/                      # Diagramok (pl. hálózati topológia, folyamatábrák)
 /info-alapok-I/                            # Általános IT jegyzetek, definíciók
 /info-alapok-III-webprog-I/                # HTML, CSS, Bootstrap frontend projektek
-/prog-alapok/                            # Python és C# alapok, kisebb programok
+/prog-alapok/                              # Python és C# alapok, kisebb programok
 /szakmai-angol/                            # Angol szakszókincs, fordítások, szövegek
 /szoftverteszteles/                        # C# alapok, kisebb programok
 /webprog-II/                               # JavaScript feladatok, DOM-kezelés, JS appok
@@ -88,13 +88,13 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 
 ```
 /adatbaziskezeles-I/                                            # SQL lekérdezések, táblák, adatmodellek
-/asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese  # Java alkalmazások (konzolos, GUI), Játékfejlesztés
-/backend-programozas-es-teszteles/                        # C# alapok, kisebb programok
-/frontend-programozas-es-teszteles/kiss                   # C# alapok, kisebb programok
-/frontend-programozas-es-teszteles/varga                  # HTML, CSS, Bootstrap frontend projektek
-/ikt-projektmunka-II/                                                  # PHP projektek, űrlapkezelés, adatbázis
-/munakvallaloi-idegen-nyelv/                              # Angol szakszókincs, fordítások, szövegek
-/szakmai-angol/                                           # Angol szakszókincs, fordítások, szövegek
+/asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese        # Java alkalmazások (konzolos, GUI), Játékfejlesztés
+/backend-programozas-es-teszteles/                              # C# alapok, kisebb programok
+/frontend-programozas-es-teszteles/kiss                         # C# alapok, kisebb programok
+/frontend-programozas-es-teszteles/varga                        # HTML, CSS, Bootstrap frontend projektek
+/ikt-projektmunka-II/                                           # PHP projektek, űrlapkezelés, adatbázis
+/munakvallaloi-idegen-nyelv/                                    # Angol szakszókincs, fordítások, szövegek
+/szakmai-angol/                                                 # Angol szakszókincs, fordítások, szövegek
 
 ```
 
@@ -164,4 +164,4 @@ Ez a repó tanulási célokat szolgál. Szabadon másolható de kérlek, ne add 
 
 ---
 
-_Maintained by: Csontos Kincső (doomhyena) ["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/) & [Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)_
+_Maintained by: Csontos Kincső Anasztázia (doomhyena) ["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/) & [Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)_
