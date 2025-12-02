@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+nav{
+	overflow: hidden;
+	background: red;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+a.menu-left{
+	float: left;
+}
+
+a.menu-right{
+	float: right;
+}
+
+nav ul li a{
+	float: left;
+	color: white;
+	font-weight: bold;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+#reg{
+	padding: 4rem 0;
+}
+
+form{
+	max-width: 300px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0px 0px 10px #dedede;
+	text-align: center;
+}
+
+form label.form-header{
+	display: block;text-align: center;
+	margin-bottom: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	color: red;
+}
+
+input[type=email], input[type=text], input[type=password]{
+	display: block;
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 5px;
+	border: 1px solid #555;
+	border-radius: 5px;
+}
+
+input[type=submit]{
+	width: 100%;
+	padding: 9px;
+	border: none;
+	border-radius: 5px;
+	background: red;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+
+form label.form-link2 a{
+	color: red;
+}
+
+label.forgot-pass a{
+	display: block !important;
+	margin-bottom: 20px !important;
+	color: red;
+}
