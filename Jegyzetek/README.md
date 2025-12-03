@@ -1,4 +1,4 @@
-# Sulis Jegyzetek — [ Informatikából ]
+# Sulis Jegyzetek
 
 > Egy rendezett, közösségi GitHub-repozitórium a sulihoz: jegyzetek, példák, feladatok és rövid megoldások. Használd, bővítsd, és ne félj PR-t küldeni — mindenki jobban tanul együtt.
 
@@ -7,7 +7,6 @@
 ## Tartalomjegyzék
 1. [Leírás](#leírás)  
 2. [Mappa struktúra](#mappa-struktúra)  
-3. [Használat — gyorsan](#használat---gyorsan)  
 4. [Hozzájárulás (Contributing)](#hozzájárulás-contributing)  
 5. [Szabályok a jegyzetekhez](#szabályok-a-jegyzetekhez)  
 6. [Licenc](#licenc)  
@@ -44,28 +43,9 @@ Ajánlott struktúra — igazítsd a saját tantárgyaidhoz:
 │ ├─ 14/
 │ ├─ Kövesdiné/
 │ ├─ Projekt/
-├─ [[Homepage]]
 ├─ LINCESE
 └─ Readme
 
----
-
-## Használat — gyorsan
-Kliens oldalon (git telepítve):
-```bash
-# klónozás
-git clone https://github.com/doomhyena/lesson-notes.git
-
-# új tartalom hozzáadása (lokálisan)
-git checkout -b feat/uj-jegyzet
-# szerkesztés...
-git add .
-git commit -m "Hozzáadva: 03_feladatok.md a Tantárgy-X-hez"
-git push origin feat/uj-jegyzet
-# majd nyiss PR-t a GitHubon
-
-Markdown szabályok: használj `#` headingeket, rövid bekezdéseket, és kódblokkoknál ` ```lang ` jelölést.
-```
 ---
 
 ## Hozzájárulás (Contributing)
@@ -92,14 +72,7 @@ Kérjük, kerüld a nagy, mindent egyszerre megváltoztató PR-eket — inkább 
 
 Ha kérdésed van, vagy szeretnéd, hogy segítsek integrálni CI-t / automatikus formázást / README személyre szabását:
 
-- E-mail: `[doomhyena.contact@proton.me](mailto:doomhyena.contact@proton.me)`
+- E-mail: [csontoskincso@doomhyena.hu](mailto:csontoskincso@doomhyena.hu)
 - GitHub profil: `https://github.com/doomhyena
 
 ---
-
-## Roadmap / Tervek
-
--  Több tantárgy hozzáadása
--  Kvíz/gyakorló feladatok (automata értékeléssel)
--  Összefoglalók vizsgára (1-oldalas cheat sheet-ek)
--  Offline PDF exportálás minden tantárgyról
