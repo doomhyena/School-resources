@@ -1,4 +1,4 @@
-# Sulis Jegyzetek — [ Informatikából, Magyarból, Történelemből és Angolból ]
+# Sulis Jegyzetek — [ Informatikából ]
 
 > Egy rendezett, közösségi GitHub-repozitórium a sulihoz: jegyzetek, példák, feladatok és rövid megoldások. Használd, bővítsd, és ne félj PR-t küldeni — mindenki jobban tanul együtt.
 
@@ -24,18 +24,26 @@ Ez a repo a A teljes Szoftverfejlesztő és -Tesztelő szakmában használt jegy
 ## Mappa struktúra
 Ajánlott struktúra — igazítsd a saját tantárgyaidhoz:
 
-/ lesson-notes
-├─ Angol/  
-│ ├─ Anyagok/
-│ ├─ Angol
-│ └─ Dictionary
-├─ Informatika/  
+/ Jegyzetek
+├─ Bláthy/  
+│ ├─ adatbazis-kezeles-I/
+│ ├─ halozatok-I/
+│ ├─ /halozatok-II/
+│ ├─ halozatok-programozasa-es-iot/
+│ ├─ ikt-projektmunka-I/
+│ ├─ ikt-projektmunka-II/
+│ ├─ info-alapok-I/
+│ ├─ info-alapok-II/
+│ ├─ munkavallaloi-idegen-nyelv/
+│ ├─ munkavallaloi-ismeretek/
+│ ├─ prog-alapok/
+│ ├─ szakmai-angol/
+│ └─ szerverek-es-felhoszolgaltatasok/
+├─ Schola/  
 │ ├─ 13/
 │ ├─ 14/
-│ ├─ Elmélet/
-│ ├─ Informatika
-│ ├─ Probavizsga Kerdessor
-│ └─ Probavizsga Valasszor
+│ ├─ Kövesdiné/
+│ ├─ Projekt/
 ├─ [[Homepage]]
 ├─ LINCESE
 └─ Readme
