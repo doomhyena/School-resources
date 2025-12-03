@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Wasp",
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "blathy-card",
+    "schola-card",
+    "section-card"
+  ]
+}

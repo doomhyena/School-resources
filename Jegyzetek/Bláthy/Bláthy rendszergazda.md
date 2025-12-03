@@ -1,0 +1,8 @@
+[[Hálózat programozása és IoT]]
+[[Hálózatok I.]]
+[[Hálózatok II.]]
+[[IKT Projektmunka I.]]
+[[IKT Projektmunka II.]]
+[[Munkavállalói Ismeretek]]
+[[Bláthy/Szakmai angol|Szakmai angol]]
+[[Szerverek és felhőszolgáltatások]]
