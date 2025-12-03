@@ -23,6 +23,7 @@ Ez a repo a A teljes Szoftverfejlesztő és -Tesztelő szakmában használt jegy
 ## Mappa struktúra
 Ajánlott struktúra — igazítsd a saját tantárgyaidhoz:
 
+```
 / Jegyzetek
 ├─ Bláthy/  
 │ ├─ adatbazis-kezeles-I/
@@ -45,6 +46,7 @@ Ajánlott struktúra — igazítsd a saját tantárgyaidhoz:
 │ ├─ Projekt/
 ├─ LINCESE
 └─ Readme
+```
 
 ---
 
