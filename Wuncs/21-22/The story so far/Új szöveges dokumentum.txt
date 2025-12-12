@@ -1,0 +1,16 @@
+Mp3 player Bugfix
+
+Keressen hibákat az mp3 lejátszó programjában.
+Ezeket a hibákat, pontatlanságokat dokumentálja egy word
+dokumentumban.
+
+Találjon megoldást a hibára és javítsa ki.
+A javítást is dokumentálni kell, olyan módon, hogy melyik sorba
+vagy metódusba milyen módosítást alkalmazott.
+
+Emellett alkalmazhat változtatást a program felületében
+és bővítheti újabb funkciókkal is.
+Ezen változtatásoakt is írja le.
+
+
+(A program jelenleg legalább 10-15 apróbb hibát tartalmaz)

@@ -1,0 +1,13 @@
+Készítsen egy grafikus alkalmazást.
+	Alakítsa ki a formot mely tartalmazzon:
+		- Egy comboboxot
+		- Egy labelt
+		- Egy gombot
+	Olvassa be a movies.csv fájlt.
+		- Az adatokat tárolja el egy listában
+			- Az adatok tárolásához osztályt hozzon létre
+		- A franchise oszlop elemeit helyezze el a 
+		comboboxban úgy, hogy minden franchise csak egyszer
+		szerepeljen.
+	A gomb lenyomására a labelen jelenjen meg, hogy a comboboxban
+	kiválasztott franchiseból hány darab van a listában

@@ -1,0 +1,38 @@
+Készítsen egy metódust amely beolvassa a szamok.txt
+tartalmát és eltárolja egy listában.
+Ha a fájl nem létezik, a program hozza létre.
+	szamok.txt tartalma:
+	  -számok pontosvesszővel elválasztva egymástól.
+			(10 db random szám)
+Ha nem sikerült beolvasni a fájlt és generálni kellett.
+	- Akkor írja ki a felhasználónak, hogy a
+	fájl most jött létre.
+	- Ezt követően készítse el a feltöltést sikeresen.
+Ha sikerült beolvasni,
+akkor a sikeres beolvasás jelenjen meg
+
+Készítsen egy metódust amely kiírja, hogy hány számot tárol a lista.
+
+Készítsen egy metódust amely meghatározza a számok átlagát.
+
+Készítsen egy metódust amely meghatározza, hogy az egyes számok
+hányszor szerepelnek a listában. Minden szám csak egyszer
+jelenjen meg.
+
+Készítsen egy metódust bovit néven, amely
+bekér a felhasználótól egy egész számot.
+Ezt követően ennyi random generált
+pontosvesszővel elválasztott számmal
+bővíti a szamok.txt-t.
+
+
+
+
+
+
+
+
+
+
+
+

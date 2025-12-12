@@ -1,0 +1,18 @@
+Készítsen grafikus alkalmazást.
+A formon helyezzen el 3 gombot.
+A gombok felirata sorrendben
+(beolvas,kiír, töröl)
+	Beolvas:
+		- Lenyomásra olvassa be a fiuk.csv
+		állományt és tárolja el egy
+		megfelelő adatszerkezetben.
+		- Ha a felhasználó úgy nyomja le,
+		hogy a fájl már be van olvasva,
+		akkor kapjon egy hibaüzenetet,
+		hogy a beolvasás már megtörtént.
+	Kiír:
+		- Lenyomásra írja ki a beolvasott
+		állomány tartalmát.
+	Töröl:
+		- Lenyomásra törölje az adatszerkezet
+		összes elemét.

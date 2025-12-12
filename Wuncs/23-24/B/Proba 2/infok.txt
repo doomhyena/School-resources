@@ -1,0 +1,7 @@
+Ad
+	-Latlong (x,y) [2]
+	-Floors [3]
+	-Area [4]
+	-Free of Charge [6]
+	-Seller name [10]
+ 

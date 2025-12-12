@@ -1,0 +1,8 @@
+Név;Kor(hónap);Kép;Foglalt
+Aibo;1;Aibo.jpg;Nem
+Gombi;3;Gombi.jpg;Nem
+Lord;5;Lord.jpg;Nem
+Mirci;1;Mirci.jpg;Nem
+Nico;1;Nico.jpg;Nem
+Sutyi;2;Sutyi.jpg;Nem
+Szuszi;2;Szuszi.jpg;Nem

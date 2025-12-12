@@ -1,0 +1,16 @@
+Állítsa be úgy a labelSong feliratát, hogy ne tartalmazza a kiterjesztést.
+
+
+Scene Builder segítségével hozzon létre egy Radio Buttont.
+Ha ez a radio button be van kapcsolva,
+akkor a next gomb lenyomására 
+a következő szám véletlenszerűen legyen kiválasztva a listából
+(rbRandom.isSelected --> be van-e kapcsolva a radio button)
+
+
+Alakítsa ki úgy a felhasználói felületet, hogy a play és a pause gomb
+egymásra legyen illesztve. Amikor a play gomb lenyomásra kerül akkor
+tűnjön el és jelenjen meg helyette a pause gomb.
+
+
+
