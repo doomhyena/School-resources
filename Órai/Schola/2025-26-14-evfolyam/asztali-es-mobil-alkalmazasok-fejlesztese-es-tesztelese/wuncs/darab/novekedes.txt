@@ -1,0 +1,12 @@
+Rómeó és Júlia, Q1: 755, Q2: 2162, Q3: 1257, Q4: 1991
+Dzsungel könyve, Q1: 797, Q2: 708, Q3: 715, Q4: 2780
+Pál utcai fiúk, Q1: 1661, Q2: 757, Q3: 2851, Q4: 2844
+István, a király, Q1: 2481, Q2: 2750, Q3: 1914, Q4: 1400
+Hair, Q1: 611, Q2: 1194, Q3: 2079, Q4: 1335
+Jézus Krisztus szupersztár, Q1: 1061, Q2: 1416, Q3: 1030, Q4: 2258
+Rómeó és Júlia, Q1: 2678, Q2: 1989, Q3: 2024, Q4: 1253
+Dzsungel könyve, Q1: 522, Q2: 1382, Q3: 628, Q4: 1470
+Pál utcai fiúk, Q1: 2348, Q2: 1566, Q3: 2819, Q4: 2187
+István, a király, Q1: 808, Q2: 1000, Q3: 1617, Q4: 2378
+Hair, Q1: 2930, Q2: 1222, Q3: 1498, Q4: 1492
+Jézus Krisztus szupersztár, Q1: 2748, Q2: 783, Q3: 2549, Q4: 2964
