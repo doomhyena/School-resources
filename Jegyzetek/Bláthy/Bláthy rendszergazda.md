@@ -4,5 +4,6 @@
 [[IKT Projektmunka I.]]
 [[IKT Projektmunka II.]]
 [[Munkavállalói Ismeretek]]
+[[Programozási Alapok]]
 [[Bláthy/Szakmai angol|Szakmai angol]]
 [[Szerverek és felhőszolgáltatások]]

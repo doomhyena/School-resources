@@ -1,3 +1,7 @@
 [[01.Visual Studio Code és Windows parancsok]]
 [[02.CSS alapok]]
 [[03.HTML & CSS alapok]]
+[[04.Képek és illusztrációk]]
+[[05.Verziókezelés]]
+[[06.Reszponziv web]]
+[[07.Weboldalak formázása]]

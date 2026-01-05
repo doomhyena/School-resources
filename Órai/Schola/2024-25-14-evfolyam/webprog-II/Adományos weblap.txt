@@ -1,8 +1,0 @@
-Adományos weblap készítése:
-	- Az oldal segítségével nyomon követhetjük, hogy a legutóbbi 10 napban mekkora pénzösszeg gyűlt össze.
-	- A 10 nap összegei 10 egymás mellett lévő dobozkában jelennek meg (bevinni egy felette lévő szövegdobozban lehet).
-	- Ha több mint 10 nap volt már, akkor is csak a legutóbbi 10 jelenjen meg.
-	- Az oldal tetején jelenjen meg egy tematikának megfelelő kép (malacpersely, vagy ilyesmi).
-	- A 10 nap összege alatt legyen 3 extra érték: eddigi teljes összeg, átlagos napi adomány és a legmagasabb napi adomány.
-	- Legalul van egy "Heti cél" mező, amely számolja, hogy mennyi gyűlt eddig össze (pl. "320 / 1000 Euró").
-	- Ezt a haladást egy csík vagy karika is jelezze, amely ezzel arányosan telik be.

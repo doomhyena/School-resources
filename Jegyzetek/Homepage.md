@@ -22,7 +22,6 @@
 >
 > **Gyors linkek:**
 > - [[Schola Szoftver]]
-> - [[Schola projektek]]
 
 ---
 
@@ -42,7 +41,6 @@
 >
 > **Gyors linkek:**
 > - [[Bláthy rendszergazda]]
-> - [[Bláthy projektek]]
 
 ---
 

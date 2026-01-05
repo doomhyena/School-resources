@@ -13,13 +13,13 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 /halozatok-I/                       #
 /halozatok-II/                      #
 /halozatok-programozasa-es-iot/     #
-/ikt-projektmunka-I/                # Frontend alapok
+/ikt-projektmunka-I/                # 
 /ikt-projektmunka-II/               #
 /info-alapok-I/                     #
 /info-alapok-II/                    #
 /munkavallaloi-idegen-nyelv/        #
 /munkavallaloi-ismeretek/           #
-/prog-alapok/                       #
+/prog-alapok/                       # Frontend alapok & Python alapok
 /szakmai-angol/                     #
 /szerverek-es-felhoszolgaltatasok/  #
 
@@ -56,9 +56,9 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 | Munkavállalói ismeretek               |                    |
 | Munkavállalói idegen nyelv            |                    |
 | Informatikai és távközlési alapok I.  |                    |
-| Informatikai és távközlési alapok II. |                    |
-| Programozási alapok                   |                    |
-| IKT projektmunka I.                   | Duffka Erik Martin |
+| Informatikai és távközlési alapok II. |   Krucsay Attila   |
+| Programozási alapok                   | Duffka Erik Martin |
+| IKT projektmunka I.                   |                    |
 | IKT projektmunka II.                  |                    |
 | Hálózatok I.                          |                    |
 | Hálózatok II.                         |                    |

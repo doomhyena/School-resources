@@ -1,7 +1,0 @@
-Az ügyféladatbázisunk megrendelésekkel kapcsolatos dolgokat tartalmaz.
-Az ügyfelek releváns adatait, valamint az ő megrendendeléseikkel 
-kapcsolatos információikat. A termékeknek 2 táblája van: az egyik az 
-általános sablon, a másik a konkrétan megrendelt elemekkel kapcsolatos.
-Minden termék beletartozik egy termékcsaládba is. Valamint még 
-nyilvántartjuk az települések és a teljes ország adait. Gondoljunk a 
-nekünk dolgozó kiszállítókra és a teljesített rendelésekre is.

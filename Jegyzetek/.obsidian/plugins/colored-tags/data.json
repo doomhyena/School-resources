@@ -170,7 +170,11 @@
     "-et": 158,
     "RestAPI": 159,
     "Boots": 160,
-    "Bootstrap": 161
+    "Bootstrap": 161,
+    "Git": 162,
+    "GitHub": 163,
+    "Admin": 164,
+    "Rendszerga": 165
   },
   "_version": 3
 }

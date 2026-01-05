@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f287724839c8c870",
+            "id": "fc942e56fabee928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/05.Grafikus programozás (Swing).md",
+                "file": "Schola/14/Szakmai Angol/04.Rendszergazda interjú.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Grafikus programozás (Swing)"
+              "title": "04.Rendszergazda interjú"
+            }
+          },
+          {
+            "id": "db7d5d59d447761c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Which person.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Which person"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#WebDevelopment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +220,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f287724839c8c870",
+  "active": "db7d5d59d447761c",
   "lastOpenFiles": [
+    "Which person.md",
+    "Schola/14/Szakmai Angol/04.Rendszergazda interjú.md",
+    "Untitled.base",
+    "Schola/14/Szakmai Angol/03.Dolgozat - 29.09.2025.md",
+    "Schola/14/Adatbázis II/04.Bootstrap 5 Részletesjegyzet és komponensmagyarázat.md",
+    "Homepage.md",
+    "Bláthy/Bláthy rendszergazda.md",
+    "Bláthy/Programozási Alapok.md",
+    "Bláthy/IKT Projektmunka I..md",
+    "Bláthy/ikt-projektmunka-I/05.Verziókezelés.md",
+    "Bláthy/ikt-projektmunka-I/06.Reszponziv web.md",
+    "Bláthy/ikt-projektmunka-I/04.Képek és illusztrációk.md",
+    "Bláthy/prog-alapok/02.Python alapok II..md",
+    "Bláthy/prog-alapok/01.Python alapok I..md",
+    "Bláthy/ikt-projektmunka-I/07.Weboldalak formázása.md",
+    "Bláthy/ikt-projektmunka-I/02.CSS alapok.md",
+    "Bláthy/ikt-projektmunka-I/03.HTML & CSS alapok.md",
+    "Bláthy/ikt-projektmunka-I/01.Visual Studio Code és Windows parancsok.md",
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/05.Grafikus programozás (Swing).md",
     "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/04.2023-as vizsgafeladat megoldása 18.09.2025.md",
     "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/03.Random dolgok Dávidtól 18.09.2025.md",
     "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/02.2025-es vizsgafeladat megoldása - 11.09.2025.md",
@@ -215,31 +249,12 @@
     "Schola/14/Munkaválallói Idegennyelv/29.09.2025 Use of English Test Master.md",
     "Schola/14/Munkaválallói Idegennyelv/15.09.2025 - Angol emelt érettségi feleadat 2021. május 6., nyelvhelyesség Task 4.md",
     "Schola/13/Programming/Python/Ádám/13.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/12.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/06.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/11.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/10.óra - Python.md",
-    "Schola/Projekt/01.Projektterv - Jegyzetár.md",
-    "Schola/Projekt/00.Projekt.md",
-    "Schola/13/Programming/Python/Ádám/09.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/08.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/07.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/05.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/04.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/03..óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/02.óra - Python.md",
-    "Schola/13/Programming/Python/Ádám/01.óra - Python.md",
-    "Schola/13/Programming/Frontend/HTML/Józsi/01.Alapvizsga HTML.md",
-    "Schola/13/Programming/Frontend/CSS/Józsi/11.CSS Combinators.md",
-    "Schola/13/Programming/Frontend/CSS/Józsi/12.CSS Pseudo Classes.md",
-    "Schola/13/Programming/Frontend/CSS/Józsi/13.CSS Layout - clear and clearfix.md",
     "Bláthy/IKT projektmunka I/img/01.ábra.png",
     "Bláthy/IKT projektmunka I/img",
     "Bláthy/IKT projektmunka I/Új mappa",
     "Untitled 2.base",
     "Untitled.canvas",
     "Untitled 1.base",
-    "Untitled.base",
     "Bláthy/IKT projektmunka I",
     "Bláthy/Szakmai angol",
     "Bláthy/Szerverek és felhőszolgáltatások",
