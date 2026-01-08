@@ -4,7 +4,7 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 
 ---
 
-## BLáthy
+## Bláthy
 
 ### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
 
