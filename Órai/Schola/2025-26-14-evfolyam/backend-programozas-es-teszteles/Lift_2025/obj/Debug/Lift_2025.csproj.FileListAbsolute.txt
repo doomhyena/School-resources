@@ -1,0 +1,42 @@
+C:\Users\kizo7\source\repos\Lift_2025\bin\Debug\Lift_2025.exe.config
+C:\Users\kizo7\source\repos\Lift_2025\bin\Debug\Lift_2025.exe
+C:\Users\kizo7\source\repos\Lift_2025\bin\Debug\Lift_2025.pdb
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.csproj.AssemblyReference.cache
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.Properties.Resources.resources
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.csproj.GenerateResource.cache
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.csproj.CoreCompileInputs.cache
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.exe
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.pdb
+C:\Users\kizo7\source\repos\Lift_2025\obj\Debug\Lift_2025.exe.config
+C:\Users\kizo7\Desktop\Lift_2025\bin\Debug\Lift_2025.exe.config
+C:\Users\kizo7\Desktop\Lift_2025\bin\Debug\Lift_2025.exe
+C:\Users\kizo7\Desktop\Lift_2025\bin\Debug\Lift_2025.pdb
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.csproj.AssemblyReference.cache
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.Models.Display.resources
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.Properties.Resources.resources
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.csproj.GenerateResource.cache
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.csproj.CoreCompileInputs.cache
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.exe
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.pdb
+C:\Users\kizo7\Desktop\Lift_2025\obj\Debug\Lift_2025.exe.config
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\bin\Debug\Lift_2025.exe.config
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\bin\Debug\Lift_2025.exe
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\bin\Debug\Lift_2025.pdb
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.csproj.AssemblyReference.cache
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.exe.config
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.Models.Display.resources
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.Properties.Resources.resources
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.csproj.GenerateResource.cache
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.csproj.CoreCompileInputs.cache
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.exe
+C:\Users\kizo74\OneDrive\!-Munka\Schola\# - Winform\Lift_2025\obj\Debug\Lift_2025.pdb
+C:\Users\csontoskincso\source\repos\Lift_2025\bin\Debug\Lift_2025.exe.config
+C:\Users\csontoskincso\source\repos\Lift_2025\bin\Debug\Lift_2025.exe
+C:\Users\csontoskincso\source\repos\Lift_2025\bin\Debug\Lift_2025.pdb
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.csproj.AssemblyReference.cache
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.Models.Display.resources
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.Properties.Resources.resources
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.csproj.GenerateResource.cache
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.csproj.CoreCompileInputs.cache
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.exe
+C:\Users\csontoskincso\source\repos\Lift_2025\obj\Debug\Lift_2025.pdb
