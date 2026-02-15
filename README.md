@@ -4,7 +4,7 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 
 ---
 
-## Bláthy
+## BLáthy
 
 ### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
 
@@ -13,13 +13,12 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 /halozatok-I/                       #
 /halozatok-II/                      #
 /halozatok-programozasa-es-iot/     #
-/ikt-projektmunka-I/                # 
+ikt-projektmunka-I-prog-alapok      # Frontend alapok & Python alapok
 /ikt-projektmunka-II/               #
 /info-alapok-I/                     #
-/info-alapok-II/                    #
+/info-alapok-II/                    # Cisco Packet Tracer
 /munkavallaloi-idegen-nyelv/        #
 /munkavallaloi-ismeretek/           #
-/prog-alapok/                       # Frontend alapok & Python alapok
 /szakmai-angol/                     #
 /szerverek-es-felhoszolgaltatasok/  #
 
@@ -53,19 +52,19 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 
 | Tantárgy                              | Tanár neve         |
 | ------------------------------------- | ------------------ |
-| Munkavállalói ismeretek               |                    |
+| Munkavállalói ismeretek               | Sándor Péter       |
 | Munkavállalói idegen nyelv            |                    |
-| Informatikai és távközlési alapok I.  |                    |
-| Informatikai és távközlési alapok II. |   Krucsay Attila   |
+| Informatikai és távközlési alapok I.  | Virág Ádám         |
+| Informatikai és távközlési alapok II. | Krucsay Attila     |
 | Programozási alapok                   | Duffka Erik Martin |
-| IKT projektmunka I.                   |                    |
+| IKT projektmunka I.                   | Duffka Erik Martin |
 | IKT projektmunka II.                  |                    |
-| Hálózatok I.                          |                    |
+| Hálózatok I.                          | Krucsay Attila     |
 | Hálózatok II.                         |                    |
 | Hálózat programozása és Iot           |                    |
-| Szerverek és felhőszolgáltatások      |                    |
+| Szerverek és felhőszolgáltatások      | Duffka Erik Martin |
 | Adatbázis-kezelés I.                  |                    |
-| Szakmai Angol                         |                    |
+| Szakmai Angol                         | Sándor Péter       |
 
 ## Schola
 
@@ -89,9 +88,8 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 ```
 /adatbaziskezeles-I/                                            # SQL lekérdezések, táblák, adatmodellek
 /asztali-es-mobil-alkalmazasok-fejlesztese-es-tesztelese        # Java alkalmazások (konzolos, GUI), Játékfejlesztés
-/backend-programozas-es-teszteles/                              # C# alapok, kisebb programok
-/frontend-programozas-es-teszteles/kiss                         # C# alapok, kisebb programok
-/frontend-programozas-es-teszteles/varga                        # HTML, CSS, Bootstrap frontend projektek
+backend-programozas-es-teszteles-szoftverteszteles              # C# alapok, kisebb programok
+/frontend-programozas-es-teszteles/                             # HTML, CSS, Bootstrap frontend projektek
 /ikt-projektmunka-II/                                           # PHP projektek, űrlapkezelés, adatbázis
 /munakvallaloi-idegen-nyelv/                                    # Angol szakszókincs, fordítások, szövegek
 /szakmai-angol/                                                 # Angol szakszókincs, fordítások, szövegek
@@ -104,7 +102,7 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 
 - **Programozási nyelvek:** Python, C#, Java, PHP, JavaScript, SQL
 - **Webfejlesztés:** HTML, CSS, Bootstrap
-- **Egyéb:** Visual Paradigm, PDF, Markdown
+- **Egyéb:** Visual Paradigm, PDF, Markdown, Cisco Packet Tracer
 
 ---
 
@@ -146,17 +144,17 @@ Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült fela
 
 #### 👨‍🏫 Oktatók 2025/26 tanév
 
-| Tantárgy                                                    | Tanár neve                |
-| ----------------------------------------------------------- | ------------------------- |
-| Adatbázis-kezelés I.                                        | Kiss Ádám                 |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése     | Wuncs Dávid               |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése II. | Kiss Zoltán               |
-| Backend programozás és tesztelés                            | Kiss Zoltán               |
-| Frontend programozás és tesztelés II.                       | Varga József              |
-| Frontend programozás és tesztelés I.                        | Varga József              |
-| IKT projektmunka II.                                        | Hujber Balázs             |
-| Munkavállalói Idegen Nyelv                                  | Kövesdiné Lám Zsuzsánna   |
-| Szakmai Angol                                               | Kiss Ádám                 |
+| Tantárgy                                                    | Tanár neve                               |
+| ----------------------------------------------------------- | ---------------------------------------- |
+| Adatbázis-kezelés I.                                        | Kiss Ádám                                |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése     | Wuncs Dávid                              |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése II. | Kiss Zoltán                              |
+| Backend programozás és tesztelés I.                         | Kiss Zoltán                              |
+| Frontend programozás és tesztelés II.                       | Kiss Zoltán                              |
+| Frontend programozás és tesztelés I.                        | Varga József                             |
+| IKT projektmunka II.                                        | Hujber Balázs                            |
+| Munkavállalói Idegen Nyelv                                  | ~~Kövesdiné Lám Zsuzsánna~~ Kiss Ágnes   |
+| Szakmai Angol                                               | Kiss Ádám                                |
 
 ## 📄 Licenc
 
