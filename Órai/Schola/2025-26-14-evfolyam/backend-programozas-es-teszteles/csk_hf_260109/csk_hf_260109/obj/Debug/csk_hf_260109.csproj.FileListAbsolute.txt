@@ -1,0 +1,7 @@
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\bin\Debug\csk_hf_260109.exe.config
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\bin\Debug\csk_hf_260109.exe
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\bin\Debug\csk_hf_260109.pdb
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\obj\Debug\csk_hf_260109.csproj.AssemblyReference.cache
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\obj\Debug\csk_hf_260109.csproj.CoreCompileInputs.cache
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\obj\Debug\csk_hf_260109.exe
+C:\Users\csontoskincso\source\repos\csk_hf_260109\csk_hf_260109\obj\Debug\csk_hf_260109.pdb
