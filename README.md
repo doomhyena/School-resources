@@ -1,27 +1,26 @@
 # 🎓 Szakmai évek
 
-Ez a repó a 2024/2026-ös illetve 2025/26-s szakmai évek során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk. Illetve a 2025/26-s szakmai év
+Ez a repó a 2024/2026-ös illetve 2025/26-os szakmai évek során készült feladatokat, beadandókat és jegyzeteket tartalmazza. A fájlok tantárgyak szerint vannak rendszerezve, és különböző programozási nyelveket, technológiákat használunk. Illetve a 2025/26-s szakmai év
 
 ---
 
-## BLáthy
+## Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum
 
 ### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
 
 ```
 /adatbazis-kezeles-I/               #
-/halozatok-I/                       #
+/halozatok-I/                       # Cisco Packet Tracer
 /halozatok-II/                      #
 /halozatok-programozasa-es-iot/     #
-ikt-projektmunka-I-prog-alapok      # Frontend alapok & Python alapok
+ikt-projektmunka-I-prog-alapok/     # Frontend alapok & Python alapok
 /ikt-projektmunka-II/               #
 /info-alapok-I/                     #
 /info-alapok-II/                    # Cisco Packet Tracer
-/munkavallaloi-idegen-nyelv/        #
+/munkavallaloi-idegen-nyelv/        # Angol szakszókincs, fordítások, szövegek
 /munkavallaloi-ismeretek/           #
-/szakmai-angol/                     #
-/szerverek-es-felhoszolgaltatasok/  #
-
+/szakmai-angol/                     # Angol szakszókincs, fordítások, szövegek
+/szerverek-es-felhoszolgaltatasok/  # Virtualizáció
 ```
 
 ---
@@ -66,7 +65,7 @@ ikt-projektmunka-I-prog-alapok      # Frontend alapok & Python alapok
 | Adatbázis-kezelés I.                  |                    |
 | Szakmai Angol                         | Sándor Péter       |
 
-## Schola
+## "Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola
 
 ### 📁 Mappastruktúra és tantárgyak 2024-25-13-evfolyam
 
@@ -93,7 +92,6 @@ backend-programozas-es-teszteles-szoftverteszteles              # C# alapok, kis
 /ikt-projektmunka-II/                                           # PHP projektek, űrlapkezelés, adatbázis
 /munakvallaloi-idegen-nyelv/                                    # Angol szakszókincs, fordítások, szövegek
 /szakmai-angol/                                                 # Angol szakszókincs, fordítások, szövegek
-
 ```
 
 ---
