@@ -1,0 +1,68 @@
+/*********
+Színek: fekete: #000; lila: #552583; arany: #FDB927;
+***********/
+
+
+.container, footer, header {
+    padding: 20px;
+    border-left: 2px solid var(--lila);
+    border-right: 2px solid var(--lila);
+}
+header {
+    border-bottom: 2px dashed #aaa;
+}
+
+p {
+    line-height: 150%;
+    text-indent: 30px;
+}
+
+section{
+    margin: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+tr:nth-child(odd) {
+    background-color: #aaa;
+}
+
+th {
+    width: 50%;
+}
+
+td, th {
+    padding: 10px;
+    border: 2px solid var(--fekete);
+}
+
+img {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    border: 2px solid var(--lila);
+}
+
+.nav-link {
+    color: var(--arany);
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.bg-menu {
+	color: var(--arany);
+    background-color: var(--lila);
+}
+
+img.bryant {
+    border-radius: 20px;
+}
+
+
