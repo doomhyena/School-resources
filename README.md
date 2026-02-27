@@ -49,21 +49,17 @@ ikt-projektmunka-I-prog-alapok/     # Frontend alapok & Python alapok
 
 #### 👨‍🏫 Oktatók 2025/26 1.félév
 
-| Tantárgy                              | Tanár neve         |
-| ------------------------------------- | ------------------ |
-| Munkavállalói ismeretek               | Sándor Péter       |
-| Munkavállalói idegen nyelv            |                    |
-| Informatikai és távközlési alapok I.  | Virág Ádám         |
-| Informatikai és távközlési alapok II. | Krucsay Attila     |
-| Programozási alapok                   | Duffka Erik Martin |
-| IKT projektmunka I.                   | Duffka Erik Martin |
-| IKT projektmunka II.                  |                    |
-| Hálózatok I.                          | Krucsay Attila     |
-| Hálózatok II.                         |                    |
-| Hálózat programozása és Iot           |                    |
-| Szerverek és felhőszolgáltatások      | Duffka Erik Martin |
-| Adatbázis-kezelés I.                  |                    |
-| Szakmai Angol                         | Sándor Péter       |
+| Tantárgy                                                                      | Tanár neve         |
+| ----------------------------------------------------------------------------- | ------------------ |
+| Munkavállalói ismeretek, Szakmai Angol                                        | Sándor Péter       |
+| Munkavállalói idegen nyelv                                                    | -                  |
+| Informatikai és távközlési alapok I.                                          | Virág Ádám         |
+| Informatikai és távközlési alapok II., Hálózatok I.                           | Krucsay Attila     |
+| Programozási alapok, IKT projektmunka I., Szerverek és felhőszolgáltatások    | Duffka Erik Martin |
+| IKT projektmunka II.                                                          | -                  |
+| Hálózatok II.                                                                 | -                  |
+| Hálózat programozása és Iot                                                   | -                  |
+| Adatbázis-kezelés I.                                                          | -                  |
 
 ## "Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola
 
@@ -125,34 +121,26 @@ backend-programozas-es-teszteles-szoftverteszteles              # C# alapok, kis
 
 #### 👨‍🏫 Oktatók 2024/25 tanév
 
-| Tantárgy                               | Tanár neve              |
-| -------------------------------------- | ----------------------- |
-| Adatbázis-kezelés I.                   | Kiss Ádám               |
-| Asztali Alkalmazások I.                | Hujber Balázs           |
-| Asztali Alkalmazások II.               | Wuncs Dávid             |
-| IKT projektmunka I.                    | Kiss Ádám               |
-| Informatikai és Távközlési Alapok I.   | Kumpera Ferenc          |
-| Informatikai és Távközlési Alapok II.  | Hujber Balázs           |
-| Informatikai és Távközlési Alapok III. | Varga József            |
-| Programozási Alapok                    | Kiss Ádám               |
-| Szakmai Angol                          | Kövesdiné Lám Zsuzsánna |
-| Szoftvertesztelés                      | Kiss Zoltán             |
-| Webprogramozás I.                      | Varga József            |
-| Webprogramozás II.                     | Kiss Ádám               |
+| Tantárgy                                                                              | Tanár neve              |
+| ------------------------------------------------------------------------------------- | ----------------------- |
+| Adatbázis-kezelés I., Programozási Alapok, Webprogramozás II., IKT projektmunka I.    | Kiss Ádám               |
+| Asztali Alkalmazások I., Informatikai és Távközlési Alapok II.                        | Hujber Balázs           |
+| Asztali Alkalmazások II.                                                              | Wuncs Dávid             |
+| Informatikai és Távközlési Alapok I.                                                  | Kumpera Ferenc          |
+| Informatikai és Távközlési Alapok III., Webprogramozás I.                             | Varga József            |
+| Szakmai Angol                                                                         | Kövesdiné Lám Zsuzsánna |
+| Szoftvertesztelés                                                                     | Kiss Zoltán             |
 
 #### 👨‍🏫 Oktatók 2025/26 tanév
 
-| Tantárgy                                                    | Tanár neve                               |
-| ----------------------------------------------------------- | ---------------------------------------- |
-| Adatbázis-kezelés I.                                        | Kiss Ádám                                |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése     | Wuncs Dávid                              |
-| Asztali és mobil alkalmazások fejlesztése és tesztelése II. | Kiss Zoltán                              |
-| Backend programozás és tesztelés I.                         | Kiss Zoltán                              |
-| Frontend programozás és tesztelés II.                       | Kiss Zoltán                              |
-| Frontend programozás és tesztelés I.                        | Varga József                             |
-| IKT projektmunka II.                                        | Hujber Balázs                            |
-| Munkavállalói Idegen Nyelv                                  | ~~Kövesdiné Lám Zsuzsánna~~ Kiss Ágnes   |
-| Szakmai Angol                                               | Kiss Ádám                                |
+| Tantárgy                                                                                                                                | Tanár neve                               |
+| -----------------------------------------------------------                                                                             | -------------------------------------- |
+| Adatbázis-kezelés II., Szakmai Angol                                                                                                     | Kiss Ádám                              |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése                                                                                  | Wuncs Dávid                            |
+| Asztali és mobil alkalmazások fejlesztése és tesztelése II., Backend programozás és tesztelés I., Frontend programozás és tesztelés II.  | Kiss Zoltán                            |
+| Frontend programozás és tesztelés I.                                                                                                     | Varga József                           |
+| IKT projektmunka II.                                                                                                                     | Hujber Balázs                          |
+| Munkavállalói Idegen Nyelv                                                                                                               | ~~Kövesdiné Lám Zsuzsánna~~ Kiss Ágnes |
 
 ## 📄 Licenc
 
