@@ -1,0 +1,22 @@
+npm init -y
+npm install express
+npm install uuid
+
+node rendeles.js
+
+Az alábbi cmd parancsokat egy másik cmd ablakba írni, mert az elsőbe nem enged:
+
+Orvos bejelentkezés (token szerzés):
+curl -X POST -H "Content-Type: application/json" -d "{\"email\":\"drkovacs@email.com\",\"jelszo\":\"valami123\"}" http://localhost:6700/orvosok/bejelentkezes
+Válaszként kapsz egy token-t.
+
+Beteg hozzáadása:
+curl -X POST -H "Content-Type: application/json" -d "{\"nev\":\"Nagy József\",\"szuletesi_datum\":\"1970-05-13\",\"taj\":\"987654321\"}" http://localhost:6700/betegek
+Vizit/időpont foglalás:
+curl -X POST -H "Content-Type: application/json" -d "{\"beteg_id\":2,\"orvos_id\":1,\"idopont\":\"2024-06-10 09:30\"}" http://localhost:6700/vizitek/foglalas
+Vizit lezárása/lelet írása (csak orvosi tokennel):
+curl -X PUT -H "Content-Type: application/json" -H "token: 0c2c4e05-cd39-4e49-bd2e-951454da81e4" -d "{\"lelet_szoveg\":\"Minden rendben.\"}" http://localhost:6700/vizitek/1/lezar
+Egy beteg összes lelete:
+curl http://localhost:6700/betegek/2/leletek
+Egy orvos aktuális vizitjei:
+curl http://localhost:6700/orvosok/1/aktualis_vizitek
