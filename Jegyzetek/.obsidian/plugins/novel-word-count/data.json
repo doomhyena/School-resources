@@ -117,56 +117,6 @@
         "nonWhitespaceCharacterCount": 510
       }
     },
-    "Schola/Projektterv - Jegyzetár.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 415,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3833333333333333,
-      "characterCount": 4218,
-      "nonWhitespaceCharacterCount": 3478,
-      "readingTimeInMinutes": 1.5660377358490567,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1768688844132,
-      "modifiedDate": 1771279418871,
-      "sizeInBytes": 4582,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.3833333333333333,
-        "wordCount": 415,
-        "characterCount": 4218,
-        "nonWhitespaceCharacterCount": 3478
-      }
-    },
-    "Schola/Probavizsga Valaszsor.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 520,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7333333333333334,
-      "characterCount": 3996,
-      "nonWhitespaceCharacterCount": 3267,
-      "readingTimeInMinutes": 1.9622641509433962,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581661,
-      "modifiedDate": 1771160546903,
-      "sizeInBytes": 4377,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7333333333333334,
-        "wordCount": 520,
-        "characterCount": 3996,
-        "nonWhitespaceCharacterCount": 3267
-      }
-    },
     "Schola/Probavizsga Kerdessor.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -242,29 +192,79 @@
         "nonWhitespaceCharacterCount": 826
       }
     },
-    "Schola/Java próbavizsga.md": {
+    "Schola/Projektterv - Jegyzetár.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 701,
+      "wordCount": 415,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.3366666666666664,
-      "characterCount": 9071,
-      "nonWhitespaceCharacterCount": 6242,
-      "readingTimeInMinutes": 2.6452830188679246,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 4218,
+      "nonWhitespaceCharacterCount": 3478,
+      "readingTimeInMinutes": 1.5660377358490567,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1762286740998,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 9280,
+      "createdDate": 1768688844132,
+      "modifiedDate": 1771279418871,
+      "sizeInBytes": 4582,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.3366666666666664,
-        "wordCount": 701,
-        "characterCount": 9071,
-        "nonWhitespaceCharacterCount": 6242
+        "pageCount": 1.3833333333333333,
+        "wordCount": 415,
+        "characterCount": 4218,
+        "nonWhitespaceCharacterCount": 3478
+      }
+    },
+    "Schola/14/Munkavállalói Idegennyelv.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 98,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581658,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 117,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.043333333333333335,
+        "wordCount": 13,
+        "characterCount": 113,
+        "nonWhitespaceCharacterCount": 98
+      }
+    },
+    "Schola/14/IKT II..md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 54,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581656,
+      "modifiedDate": 1758727581656,
+      "sizeInBytes": 69,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 60,
+        "nonWhitespaceCharacterCount": 54
       }
     },
     "Schola/14/Szakmai Angol.md": {
@@ -317,31 +317,6 @@
         "nonWhitespaceCharacterCount": 401
       }
     },
-    "Schola/14/Szakmai Angol/04.Rendszergazda interjú.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 778,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5933333333333333,
-      "characterCount": 6092,
-      "nonWhitespaceCharacterCount": 4982,
-      "readingTimeInMinutes": 2.9358490566037734,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1767604851743,
-      "modifiedDate": 1770034606957,
-      "sizeInBytes": 6471,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5933333333333333,
-        "wordCount": 778,
-        "characterCount": 6092,
-        "nonWhitespaceCharacterCount": 4982
-      }
-    },
     "Schola/14/Szakmai Angol/03.Dolgozat - 29.09.2025.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -365,6 +340,31 @@
         "wordCount": 42,
         "characterCount": 524,
         "nonWhitespaceCharacterCount": 447
+      }
+    },
+    "Schola/14/Szakmai Angol/04.Rendszergazda interjú.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 778,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5933333333333333,
+      "characterCount": 6092,
+      "nonWhitespaceCharacterCount": 4982,
+      "readingTimeInMinutes": 2.9358490566037734,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767604851743,
+      "modifiedDate": 1770034606957,
+      "sizeInBytes": 6471,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5933333333333333,
+        "wordCount": 778,
+        "characterCount": 6092,
+        "nonWhitespaceCharacterCount": 4982
       }
     },
     "Schola/14/Szakmai Angol/02.Tesztelés - 15.09.2025.md": {
@@ -442,31 +442,6 @@
         "nonWhitespaceCharacterCount": 17
       }
     },
-    "Schola/14/Munkavállalói Idegennyelv.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 113,
-      "nonWhitespaceCharacterCount": 98,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581658,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 117,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 113,
-        "nonWhitespaceCharacterCount": 98
-      }
-    },
     "Schola/14/Rust/01.Rust alapok.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -490,6 +465,181 @@
         "wordCount": 36,
         "characterCount": 286,
         "nonWhitespaceCharacterCount": 241
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/08.Nem legális puska.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 612,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.04,
+      "characterCount": 8123,
+      "nonWhitespaceCharacterCount": 6489,
+      "readingTimeInMinutes": 2.309433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772697776995,
+      "modifiedDate": 1772697938710,
+      "sizeInBytes": 8262,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.04,
+        "wordCount": 612,
+        "characterCount": 8123,
+        "nonWhitespaceCharacterCount": 6489
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/04.2023-as vizsgafeladat megoldása 18.09.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 150,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759159620752,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 181,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 174,
+        "nonWhitespaceCharacterCount": 150
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/02.2025-es vizsgafeladat megoldása - 11.09.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 350,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1666666666666667,
+      "characterCount": 3220,
+      "nonWhitespaceCharacterCount": 2547,
+      "readingTimeInMinutes": 1.320754716981132,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759158887763,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 3392,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1666666666666667,
+        "wordCount": 350,
+        "characterCount": 3220,
+        "nonWhitespaceCharacterCount": 2547
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/07.Fájlbeolvasás, listához hozzáadás törlés grafikus.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 851,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8366666666666664,
+      "characterCount": 8749,
+      "nonWhitespaceCharacterCount": 6903,
+      "readingTimeInMinutes": 3.211320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771160546965,
+      "modifiedDate": 1771160546965,
+      "sizeInBytes": 9128,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.8366666666666664,
+        "wordCount": 851,
+        "characterCount": 8749,
+        "nonWhitespaceCharacterCount": 6903
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/05.Grafikus programozás (Swing).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.78,
+      "characterCount": 13979,
+      "nonWhitespaceCharacterCount": 10517,
+      "readingTimeInMinutes": 4.279245283018868,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763637542932,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 14324,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.78,
+        "wordCount": 1134,
+        "characterCount": 13979,
+        "nonWhitespaceCharacterCount": 10517
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/03.Random dolgok Dávidtól 18.09.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 227,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 2050,
+      "nonWhitespaceCharacterCount": 1607,
+      "readingTimeInMinutes": 0.8566037735849057,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759159061737,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 2169,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7566666666666667,
+        "wordCount": 227,
+        "characterCount": 2050,
+        "nonWhitespaceCharacterCount": 1607
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/01.Első éves anyag - Wuncs Dávid órái.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1868,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.226666666666667,
+      "characterCount": 18533,
+      "nonWhitespaceCharacterCount": 14123,
+      "readingTimeInMinutes": 7.049056603773585,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581656,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 19252,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.226666666666667,
+        "wordCount": 1868,
+        "characterCount": 18533,
+        "nonWhitespaceCharacterCount": 14123
       }
     },
     "Schola/14/Munkaválallói Idegennyelv/29.09.2025 Use of English Test Master.md": {
@@ -565,31 +715,6 @@
         "wordCount": 55,
         "characterCount": 293,
         "nonWhitespaceCharacterCount": 201
-      }
-    },
-    "Schola/14/IKT II..md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 60,
-      "nonWhitespaceCharacterCount": 54,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581656,
-      "modifiedDate": 1758727581656,
-      "sizeInBytes": 69,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 60,
-        "nonWhitespaceCharacterCount": 54
       }
     },
     "Schola/14/IKT II/03.Témazáró.md": {
@@ -717,231 +842,6 @@
         "nonWhitespaceCharacterCount": 22
       }
     },
-    "Schola/14/Frontend Programozás és Tesztelés I/01.Bootstrap alapok.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 273,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759134517991,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 340,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 312,
-        "nonWhitespaceCharacterCount": 273
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 62,
-      "nonWhitespaceCharacterCount": 54,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581653,
-      "modifiedDate": 1763211992590,
-      "sizeInBytes": 68,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 62,
-        "nonWhitespaceCharacterCount": 54
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/07.Fájlbeolvasás, listához hozzáadás törlés grafikus.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 851,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8366666666666664,
-      "characterCount": 8749,
-      "nonWhitespaceCharacterCount": 6903,
-      "readingTimeInMinutes": 3.211320754716981,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1771160546965,
-      "modifiedDate": 1771160546965,
-      "sizeInBytes": 9128,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8366666666666664,
-        "wordCount": 851,
-        "characterCount": 8749,
-        "nonWhitespaceCharacterCount": 6903
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/05.Grafikus programozás (Swing).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1134,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.78,
-      "characterCount": 13979,
-      "nonWhitespaceCharacterCount": 10517,
-      "readingTimeInMinutes": 4.279245283018868,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763637542932,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 14324,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.78,
-        "wordCount": 1134,
-        "characterCount": 13979,
-        "nonWhitespaceCharacterCount": 10517
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/04.2023-as vizsgafeladat megoldása 18.09.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 174,
-      "nonWhitespaceCharacterCount": 150,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759159620752,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 181,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 174,
-        "nonWhitespaceCharacterCount": 150
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/03.Random dolgok Dávidtól 18.09.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 227,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 2050,
-      "nonWhitespaceCharacterCount": 1607,
-      "readingTimeInMinutes": 0.8566037735849057,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759159061737,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 2169,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7566666666666667,
-        "wordCount": 227,
-        "characterCount": 2050,
-        "nonWhitespaceCharacterCount": 1607
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/02.2025-es vizsgafeladat megoldása - 11.09.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 350,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1666666666666667,
-      "characterCount": 3220,
-      "nonWhitespaceCharacterCount": 2547,
-      "readingTimeInMinutes": 1.320754716981132,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759158887763,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 3392,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1666666666666667,
-        "wordCount": 350,
-        "characterCount": 3220,
-        "nonWhitespaceCharacterCount": 2547
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/01.Első éves anyag - Wuncs Dávid órái.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1868,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.226666666666667,
-      "characterCount": 18533,
-      "nonWhitespaceCharacterCount": 14123,
-      "readingTimeInMinutes": 7.049056603773585,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581656,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 19252,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.226666666666667,
-        "wordCount": 1868,
-        "characterCount": 18533,
-        "nonWhitespaceCharacterCount": 14123
-      }
-    },
-    "Schola/14/Adatbázis II..md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 33,
-      "nonWhitespaceCharacterCount": 30,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581653,
-      "modifiedDate": 1758727581653,
-      "sizeInBytes": 35,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.013333333333333334,
-        "wordCount": 4,
-        "characterCount": 33,
-        "nonWhitespaceCharacterCount": 30
-      }
-    },
     "Schola/14/Adatbázis II/04.Bootstrap 5 Részletesjegyzet és komponensmagyarázat.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1042,29 +942,129 @@
         "nonWhitespaceCharacterCount": 2751
       }
     },
-    "Schola/13/Programming/Python/Ádám/21.Számológép.md": {
+    "Schola/14/Frontend Programozás és Tesztelés I/01.Bootstrap alapok.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 368,
+      "wordCount": 39,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.2266666666666666,
-      "characterCount": 5631,
-      "nonWhitespaceCharacterCount": 4550,
-      "readingTimeInMinutes": 1.3886792452830188,
+      "pageCount": 0.13,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 273,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759134517991,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 340,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 312,
+        "nonWhitespaceCharacterCount": 273
+      }
+    },
+    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 54,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581653,
+      "modifiedDate": 1763211992590,
+      "sizeInBytes": 68,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 62,
+        "nonWhitespaceCharacterCount": 54
+      }
+    },
+    "Schola/14/Adatbázis II..md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.01509433962264151,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581653,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 5691,
+      "modifiedDate": 1758727581653,
+      "sizeInBytes": 35,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.2266666666666666,
-        "wordCount": 368,
-        "characterCount": 5631,
-        "nonWhitespaceCharacterCount": 4550
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 33,
+        "nonWhitespaceCharacterCount": 30
+      }
+    },
+    "Schola/Probavizsga Valaszsor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 520,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7333333333333334,
+      "characterCount": 3996,
+      "nonWhitespaceCharacterCount": 3267,
+      "readingTimeInMinutes": 1.9622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581661,
+      "modifiedDate": 1771160546903,
+      "sizeInBytes": 4377,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7333333333333334,
+        "wordCount": 520,
+        "characterCount": 3996,
+        "nonWhitespaceCharacterCount": 3267
+      }
+    },
+    "Schola/Java próbavizsga.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 701,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3366666666666664,
+      "characterCount": 9071,
+      "nonWhitespaceCharacterCount": 6242,
+      "readingTimeInMinutes": 2.6452830188679246,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762286740998,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 9280,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.3366666666666664,
+        "wordCount": 701,
+        "characterCount": 9071,
+        "nonWhitespaceCharacterCount": 6242
       }
     },
     "Schola/13/Programming/Python/Ádám/20.Mozijegy foglaló.md": {
@@ -1090,6 +1090,56 @@
         "wordCount": 322,
         "characterCount": 5683,
         "nonWhitespaceCharacterCount": 4435
+      }
+    },
+    "Schola/13/Programming/Python/Ádám/17.tkinter alapjai 03.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 105,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35,
+      "characterCount": 1508,
+      "nonWhitespaceCharacterCount": 1242,
+      "readingTimeInMinutes": 0.39622641509433965,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581652,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 1547,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.35,
+        "wordCount": 105,
+        "characterCount": 1508,
+        "nonWhitespaceCharacterCount": 1242
+      }
+    },
+    "Schola/13/Programming/Python/Ádám/21.Számológép.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 368,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2266666666666666,
+      "characterCount": 5631,
+      "nonWhitespaceCharacterCount": 4550,
+      "readingTimeInMinutes": 1.3886792452830188,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581653,
+      "modifiedDate": 1771160546888,
+      "sizeInBytes": 5691,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2266666666666666,
+        "wordCount": 368,
+        "characterCount": 5631,
+        "nonWhitespaceCharacterCount": 4550
       }
     },
     "Schola/13/Programming/Python/Ádám/19.tkinter alapjai 06.md": {
@@ -1140,31 +1190,6 @@
         "wordCount": 82,
         "characterCount": 1170,
         "nonWhitespaceCharacterCount": 946
-      }
-    },
-    "Schola/13/Programming/Python/Ádám/17.tkinter alapjai 03.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 105,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.35,
-      "characterCount": 1508,
-      "nonWhitespaceCharacterCount": 1242,
-      "readingTimeInMinutes": 0.39622641509433965,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581652,
-      "modifiedDate": 1771160546888,
-      "sizeInBytes": 1547,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.35,
-        "wordCount": 105,
-        "characterCount": 1508,
-        "nonWhitespaceCharacterCount": 1242
       }
     },
     "Schola/13/Programming/Python/Ádám/16.tkinter alapjai 02.md": {
@@ -1317,29 +1342,29 @@
         "nonWhitespaceCharacterCount": 9025
       }
     },
-    "Schola/13/Programming/Python/Ádám/10.óra - Python.md": {
+    "Schola/13/Programming/Python/Ádám/07.óra - Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 103,
+      "wordCount": 1101,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3433333333333333,
-      "characterCount": 913,
-      "nonWhitespaceCharacterCount": 721,
-      "readingTimeInMinutes": 0.3886792452830189,
+      "pageCount": 3.67,
+      "characterCount": 11233,
+      "nonWhitespaceCharacterCount": 9015,
+      "readingTimeInMinutes": 4.154716981132076,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1758727581650,
+      "createdDate": 1758727581648,
       "modifiedDate": 1771160546872,
-      "sizeInBytes": 924,
+      "sizeInBytes": 11881,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.3433333333333333,
-        "wordCount": 103,
-        "characterCount": 913,
-        "nonWhitespaceCharacterCount": 721
+        "pageCount": 3.67,
+        "wordCount": 1101,
+        "characterCount": 11233,
+        "nonWhitespaceCharacterCount": 9015
       }
     },
     "Schola/13/Programming/Python/Ádám/09.óra - Python.md": {
@@ -1367,54 +1392,29 @@
         "nonWhitespaceCharacterCount": 3762
       }
     },
-    "Schola/13/Programming/Python/Ádám/08.óra - Python.md": {
+    "Schola/13/Programming/Python/Ádám/10.óra - Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1356,
+      "wordCount": 103,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.52,
-      "characterCount": 16118,
-      "nonWhitespaceCharacterCount": 12706,
-      "readingTimeInMinutes": 5.1169811320754715,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 913,
+      "nonWhitespaceCharacterCount": 721,
+      "readingTimeInMinutes": 0.3886792452830189,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581650,
       "modifiedDate": 1771160546872,
-      "sizeInBytes": 16795,
+      "sizeInBytes": 924,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.52,
-        "wordCount": 1356,
-        "characterCount": 16118,
-        "nonWhitespaceCharacterCount": 12706
-      }
-    },
-    "Schola/13/Programming/Python/Ádám/07.óra - Python.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1101,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.67,
-      "characterCount": 11233,
-      "nonWhitespaceCharacterCount": 9015,
-      "readingTimeInMinutes": 4.154716981132076,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581648,
-      "modifiedDate": 1771160546872,
-      "sizeInBytes": 11881,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.67,
-        "wordCount": 1101,
-        "characterCount": 11233,
-        "nonWhitespaceCharacterCount": 9015
+        "pageCount": 0.3433333333333333,
+        "wordCount": 103,
+        "characterCount": 913,
+        "nonWhitespaceCharacterCount": 721
       }
     },
     "Schola/13/Programming/Python/Ádám/06.óra - Python.md": {
@@ -1442,29 +1442,29 @@
         "nonWhitespaceCharacterCount": 2145
       }
     },
-    "Schola/13/Programming/Python/Ádám/05.óra - Python.md": {
+    "Schola/13/Programming/Python/Ádám/08.óra - Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 722,
+      "wordCount": 1356,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4066666666666667,
-      "characterCount": 7340,
-      "nonWhitespaceCharacterCount": 5658,
-      "readingTimeInMinutes": 2.7245283018867923,
+      "pageCount": 4.52,
+      "characterCount": 16118,
+      "nonWhitespaceCharacterCount": 12706,
+      "readingTimeInMinutes": 5.1169811320754715,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1758727581648,
+      "createdDate": 1758727581650,
       "modifiedDate": 1771160546872,
-      "sizeInBytes": 7813,
+      "sizeInBytes": 16795,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.4066666666666667,
-        "wordCount": 722,
-        "characterCount": 7340,
-        "nonWhitespaceCharacterCount": 5658
+        "pageCount": 4.52,
+        "wordCount": 1356,
+        "characterCount": 16118,
+        "nonWhitespaceCharacterCount": 12706
       }
     },
     "Schola/13/Programming/Python/Ádám/04.óra - Python.md": {
@@ -1517,29 +1517,29 @@
         "nonWhitespaceCharacterCount": 8441
       }
     },
-    "Schola/13/Programming/Python/Ádám/02.óra - Python.md": {
+    "Schola/13/Programming/Python/Ádám/05.óra - Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1573,
+      "wordCount": 722,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.243333333333333,
-      "characterCount": 13728,
-      "nonWhitespaceCharacterCount": 10465,
-      "readingTimeInMinutes": 5.935849056603773,
-      "linkCount": 3,
+      "pageCount": 2.4066666666666667,
+      "characterCount": 7340,
+      "nonWhitespaceCharacterCount": 5658,
+      "readingTimeInMinutes": 2.7245283018867923,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581648,
       "modifiedDate": 1771160546872,
-      "sizeInBytes": 14710,
+      "sizeInBytes": 7813,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 5.243333333333333,
-        "wordCount": 1573,
-        "characterCount": 13728,
-        "nonWhitespaceCharacterCount": 10465
+        "pageCount": 2.4066666666666667,
+        "wordCount": 722,
+        "characterCount": 7340,
+        "nonWhitespaceCharacterCount": 5658
       }
     },
     "Schola/13/Programming/Python/Ádám/01.óra - Python.md": {
@@ -1567,6 +1567,31 @@
         "nonWhitespaceCharacterCount": 8212
       }
     },
+    "Schola/13/Programming/Python/Ádám/02.óra - Python.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1573,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.243333333333333,
+      "characterCount": 13728,
+      "nonWhitespaceCharacterCount": 10465,
+      "readingTimeInMinutes": 5.935849056603773,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581648,
+      "modifiedDate": 1771160546872,
+      "sizeInBytes": 14710,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.243333333333333,
+        "wordCount": 1573,
+        "characterCount": 13728,
+        "nonWhitespaceCharacterCount": 10465
+      }
+    },
     "Schola/13/Programming/Python/05.Programozasi tetelek - Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1590,31 +1615,6 @@
         "wordCount": 565,
         "characterCount": 4800,
         "nonWhitespaceCharacterCount": 3525
-      }
-    },
-    "Schola/13/Programming/Python/04.For ciklus, input, listak - Python.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 711,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.37,
-      "characterCount": 5753,
-      "nonWhitespaceCharacterCount": 4488,
-      "readingTimeInMinutes": 2.6830188679245284,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581646,
-      "modifiedDate": 1771160546872,
-      "sizeInBytes": 6017,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.37,
-        "wordCount": 711,
-        "characterCount": 5753,
-        "nonWhitespaceCharacterCount": 4488
       }
     },
     "Schola/13/Programming/Python/03.Ket dimenzios tombok.md": {
@@ -1667,6 +1667,31 @@
         "nonWhitespaceCharacterCount": 2745
       }
     },
+    "Schola/13/Programming/Python/04.For ciklus, input, listak - Python.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 711,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.37,
+      "characterCount": 5753,
+      "nonWhitespaceCharacterCount": 4488,
+      "readingTimeInMinutes": 2.6830188679245284,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581646,
+      "modifiedDate": 1771160546872,
+      "sizeInBytes": 6017,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.37,
+        "wordCount": 711,
+        "characterCount": 5753,
+        "nonWhitespaceCharacterCount": 4488
+      }
+    },
     "Schola/13/Programming/Python/01.Alapok - Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1690,6 +1715,31 @@
         "wordCount": 728,
         "characterCount": 5902,
         "nonWhitespaceCharacterCount": 4510
+      }
+    },
+    "Schola/13/Programming/MySQL/2024.10.04 - SQL alapok.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 255,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.85,
+      "characterCount": 2557,
+      "nonWhitespaceCharacterCount": 2002,
+      "readingTimeInMinutes": 0.9622641509433962,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581642,
+      "modifiedDate": 1771160546872,
+      "sizeInBytes": 2608,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.85,
+        "wordCount": 255,
+        "characterCount": 2557,
+        "nonWhitespaceCharacterCount": 2002
       }
     },
     "Schola/13/Programming/MySQL/Ádám/06.SQL - Alkalmazottak.md": {
@@ -1740,6 +1790,31 @@
         "wordCount": 512,
         "characterCount": 10797,
         "nonWhitespaceCharacterCount": 10132
+      }
+    },
+    "Schola/13/Programming/MySQL/Ádám/01.SQL - Nobel.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 515,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7166666666666666,
+      "characterCount": 4023,
+      "nonWhitespaceCharacterCount": 3241,
+      "readingTimeInMinutes": 1.9433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581642,
+      "modifiedDate": 1771160546872,
+      "sizeInBytes": 4103,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7166666666666666,
+        "wordCount": 515,
+        "characterCount": 4023,
+        "nonWhitespaceCharacterCount": 3241
       }
     },
     "Schola/13/Programming/MySQL/Ádám/04.SQL - Ügyfél.md": {
@@ -1817,54 +1892,79 @@
         "nonWhitespaceCharacterCount": 1863
       }
     },
-    "Schola/13/Programming/MySQL/Ádám/01.SQL - Nobel.md": {
+    "Schola/13/Programming/Java/06. Java Metódusok II..md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 515,
+      "wordCount": 337,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7166666666666666,
-      "characterCount": 4023,
-      "nonWhitespaceCharacterCount": 3241,
-      "readingTimeInMinutes": 1.9433962264150944,
+      "pageCount": 1.1233333333333333,
+      "characterCount": 2977,
+      "nonWhitespaceCharacterCount": 2433,
+      "readingTimeInMinutes": 1.271698113207547,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1758727581642,
-      "modifiedDate": 1771160546872,
-      "sizeInBytes": 4103,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 3184,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.7166666666666666,
-        "wordCount": 515,
-        "characterCount": 4023,
-        "nonWhitespaceCharacterCount": 3241
+        "pageCount": 1.1233333333333333,
+        "wordCount": 337,
+        "characterCount": 2977,
+        "nonWhitespaceCharacterCount": 2433
       }
     },
-    "Schola/13/Programming/MySQL/2024.10.04 - SQL alapok.md": {
+    "Schola/13/Programming/Java/03.Változók és Operátorok - Java.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 255,
+      "wordCount": 276,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.85,
-      "characterCount": 2557,
-      "nonWhitespaceCharacterCount": 2002,
-      "readingTimeInMinutes": 0.9622641509433962,
+      "pageCount": 0.92,
+      "characterCount": 3778,
+      "nonWhitespaceCharacterCount": 2179,
+      "readingTimeInMinutes": 1.0415094339622641,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 3784,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.92,
+        "wordCount": 276,
+        "characterCount": 3778,
+        "nonWhitespaceCharacterCount": 2179
+      }
+    },
+    "Schola/13/Programming/Java/Dávid/03.Java - Lista & Gyakorlás.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 297,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.99,
+      "characterCount": 3139,
+      "nonWhitespaceCharacterCount": 2157,
+      "readingTimeInMinutes": 1.120754716981132,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581642,
-      "modifiedDate": 1771160546872,
-      "sizeInBytes": 2608,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 3222,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.85,
-        "wordCount": 255,
-        "characterCount": 2557,
-        "nonWhitespaceCharacterCount": 2002
+        "pageCount": 0.99,
+        "wordCount": 297,
+        "characterCount": 3139,
+        "nonWhitespaceCharacterCount": 2157
       }
     },
     "Schola/13/Programming/Java/Dávid/05.Osztályok és Metódusok.md": {
@@ -1917,31 +2017,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Schola/13/Programming/Java/Dávid/03.Java - Lista & Gyakorlás.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 297,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.99,
-      "characterCount": 3139,
-      "nonWhitespaceCharacterCount": 2157,
-      "readingTimeInMinutes": 1.120754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581642,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 3222,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.99,
-        "wordCount": 297,
-        "characterCount": 3139,
-        "nonWhitespaceCharacterCount": 2157
-      }
-    },
     "Schola/13/Programming/Java/Dávid/02.Java - Másodfokú Egyenlet.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1992,56 +2067,6 @@
         "nonWhitespaceCharacterCount": 2701
       }
     },
-    "Schola/13/Programming/Java/05. Java Metódusok I..md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 333,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.11,
-      "characterCount": 2985,
-      "nonWhitespaceCharacterCount": 2490,
-      "readingTimeInMinutes": 1.2566037735849056,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 3197,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.11,
-        "wordCount": 333,
-        "characterCount": 2985,
-        "nonWhitespaceCharacterCount": 2490
-      }
-    },
-    "Schola/13/Programming/Java/06. Java Metódusok II..md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 337,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1233333333333333,
-      "characterCount": 2977,
-      "nonWhitespaceCharacterCount": 2433,
-      "readingTimeInMinutes": 1.271698113207547,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 3184,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1233333333333333,
-        "wordCount": 337,
-        "characterCount": 2977,
-        "nonWhitespaceCharacterCount": 2433
-      }
-    },
     "Schola/13/Programming/Java/04.Programozási Tételek Java.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2065,31 +2090,6 @@
         "wordCount": 273,
         "characterCount": 2855,
         "nonWhitespaceCharacterCount": 1896
-      }
-    },
-    "Schola/13/Programming/Java/03.Változók és Operátorok - Java.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 276,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.92,
-      "characterCount": 3778,
-      "nonWhitespaceCharacterCount": 2179,
-      "readingTimeInMinutes": 1.0415094339622641,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 3784,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.92,
-        "wordCount": 276,
-        "characterCount": 3778,
-        "nonWhitespaceCharacterCount": 2179
       }
     },
     "Schola/13/Programming/Java/02.Alapok Java.md": {
@@ -2117,6 +2117,31 @@
         "nonWhitespaceCharacterCount": 6728
       }
     },
+    "Schola/13/Programming/Java/05. Java Metódusok I..md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 333,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.11,
+      "characterCount": 2985,
+      "nonWhitespaceCharacterCount": 2490,
+      "readingTimeInMinutes": 1.2566037735849056,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 3197,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.11,
+        "wordCount": 333,
+        "characterCount": 2985,
+        "nonWhitespaceCharacterCount": 2490
+      }
+    },
     "Schola/13/Programming/Java/01.Alapok Java.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2142,229 +2167,29 @@
         "nonWhitespaceCharacterCount": 3290
       }
     },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/09.óra - JavaScript.md": {
+    "Schola/13/Programming/Dávid (A nem dollárbaloldali Dávid dolgozata).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 194,
+      "wordCount": 419,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6466666666666666,
-      "characterCount": 1878,
-      "nonWhitespaceCharacterCount": 1439,
-      "readingTimeInMinutes": 0.7320754716981132,
-      "linkCount": 1,
+      "pageCount": 1.3966666666666667,
+      "characterCount": 4196,
+      "nonWhitespaceCharacterCount": 3193,
+      "readingTimeInMinutes": 1.5811320754716982,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 1971,
+      "createdDate": 1758727581629,
+      "modifiedDate": 1771160546851,
+      "sizeInBytes": 4520,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6466666666666666,
-        "wordCount": 194,
-        "characterCount": 1878,
-        "nonWhitespaceCharacterCount": 1439
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/08.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 582,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.94,
-      "characterCount": 4964,
-      "nonWhitespaceCharacterCount": 4030,
-      "readingTimeInMinutes": 2.1962264150943396,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 5250,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.94,
-        "wordCount": 582,
-        "characterCount": 4964,
-        "nonWhitespaceCharacterCount": 4030
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/07.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 84,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 755,
-      "nonWhitespaceCharacterCount": 584,
-      "readingTimeInMinutes": 0.3169811320754717,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 798,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.28,
-        "wordCount": 84,
-        "characterCount": 755,
-        "nonWhitespaceCharacterCount": 584
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/06.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 257,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8566666666666667,
-      "characterCount": 2262,
-      "nonWhitespaceCharacterCount": 1836,
-      "readingTimeInMinutes": 0.969811320754717,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 2421,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8566666666666667,
-        "wordCount": 257,
-        "characterCount": 2262,
-        "nonWhitespaceCharacterCount": 1836
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/05.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 387,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.29,
-      "characterCount": 3592,
-      "nonWhitespaceCharacterCount": 2886,
-      "readingTimeInMinutes": 1.460377358490566,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 3764,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.29,
-        "wordCount": 387,
-        "characterCount": 3592,
-        "nonWhitespaceCharacterCount": 2886
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/04.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 426,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.42,
-      "characterCount": 3959,
-      "nonWhitespaceCharacterCount": 3148,
-      "readingTimeInMinutes": 1.6075471698113208,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 4166,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.42,
-        "wordCount": 426,
-        "characterCount": 3959,
-        "nonWhitespaceCharacterCount": 3148
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/03.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 225,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.75,
-      "characterCount": 2323,
-      "nonWhitespaceCharacterCount": 1854,
-      "readingTimeInMinutes": 0.8490566037735849,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 2446,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.75,
-        "wordCount": 225,
-        "characterCount": 2323,
-        "nonWhitespaceCharacterCount": 1854
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/02.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 500,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6666666666666667,
-      "characterCount": 4438,
-      "nonWhitespaceCharacterCount": 3542,
-      "readingTimeInMinutes": 1.8867924528301887,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 4668,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6666666666666667,
-        "wordCount": 500,
-        "characterCount": 4438,
-        "nonWhitespaceCharacterCount": 3542
-      }
-    },
-    "Schola/13/Programming/Frontend/Javascript/Ádám/01.óra - JavaScript.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 279,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.93,
-      "characterCount": 2679,
-      "nonWhitespaceCharacterCount": 2140,
-      "readingTimeInMinutes": 1.0528301886792453,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581636,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 2817,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.93,
-        "wordCount": 279,
-        "characterCount": 2679,
-        "nonWhitespaceCharacterCount": 2140
+        "pageCount": 1.3966666666666667,
+        "wordCount": 419,
+        "characterCount": 4196,
+        "nonWhitespaceCharacterCount": 3193
       }
     },
     "Schola/13/Programming/Frontend/HTML/Józsi/01.Alapvizsga HTML.md": {
@@ -2392,29 +2217,229 @@
         "nonWhitespaceCharacterCount": 1746
       }
     },
-    "Schola/13/Programming/Frontend/CSS/Józsi/15.CSS The !Important Rule.md": {
+    "Schola/13/Programming/Frontend/Javascript/Ádám/09.óra - JavaScript.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 194,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 89,
-      "nonWhitespaceCharacterCount": 76,
-      "readingTimeInMinutes": 0.03018867924528302,
+      "pageCount": 0.6466666666666666,
+      "characterCount": 1878,
+      "nonWhitespaceCharacterCount": 1439,
+      "readingTimeInMinutes": 0.7320754716981132,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1758727581634,
+      "createdDate": 1758727581636,
       "modifiedDate": 1771160546857,
-      "sizeInBytes": 91,
+      "sizeInBytes": 1971,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 89,
-        "nonWhitespaceCharacterCount": 76
+        "pageCount": 0.6466666666666666,
+        "wordCount": 194,
+        "characterCount": 1878,
+        "nonWhitespaceCharacterCount": 1439
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/07.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 84,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.28,
+      "characterCount": 755,
+      "nonWhitespaceCharacterCount": 584,
+      "readingTimeInMinutes": 0.3169811320754717,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 798,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.28,
+        "wordCount": 84,
+        "characterCount": 755,
+        "nonWhitespaceCharacterCount": 584
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/08.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 582,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.94,
+      "characterCount": 4964,
+      "nonWhitespaceCharacterCount": 4030,
+      "readingTimeInMinutes": 2.1962264150943396,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 5250,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.94,
+        "wordCount": 582,
+        "characterCount": 4964,
+        "nonWhitespaceCharacterCount": 4030
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/06.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 257,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8566666666666667,
+      "characterCount": 2262,
+      "nonWhitespaceCharacterCount": 1836,
+      "readingTimeInMinutes": 0.969811320754717,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 2421,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8566666666666667,
+        "wordCount": 257,
+        "characterCount": 2262,
+        "nonWhitespaceCharacterCount": 1836
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/04.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 426,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.42,
+      "characterCount": 3959,
+      "nonWhitespaceCharacterCount": 3148,
+      "readingTimeInMinutes": 1.6075471698113208,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 4166,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.42,
+        "wordCount": 426,
+        "characterCount": 3959,
+        "nonWhitespaceCharacterCount": 3148
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/05.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 387,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.29,
+      "characterCount": 3592,
+      "nonWhitespaceCharacterCount": 2886,
+      "readingTimeInMinutes": 1.460377358490566,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 3764,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.29,
+        "wordCount": 387,
+        "characterCount": 3592,
+        "nonWhitespaceCharacterCount": 2886
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/03.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 225,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.75,
+      "characterCount": 2323,
+      "nonWhitespaceCharacterCount": 1854,
+      "readingTimeInMinutes": 0.8490566037735849,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 2446,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.75,
+        "wordCount": 225,
+        "characterCount": 2323,
+        "nonWhitespaceCharacterCount": 1854
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/01.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 279,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.93,
+      "characterCount": 2679,
+      "nonWhitespaceCharacterCount": 2140,
+      "readingTimeInMinutes": 1.0528301886792453,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 2817,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.93,
+        "wordCount": 279,
+        "characterCount": 2679,
+        "nonWhitespaceCharacterCount": 2140
+      }
+    },
+    "Schola/13/Programming/Frontend/Javascript/Ádám/02.óra - JavaScript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 500,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6666666666666667,
+      "characterCount": 4438,
+      "nonWhitespaceCharacterCount": 3542,
+      "readingTimeInMinutes": 1.8867924528301887,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581636,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 4668,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.6666666666666667,
+        "wordCount": 500,
+        "characterCount": 4438,
+        "nonWhitespaceCharacterCount": 3542
       }
     },
     "Schola/13/Programming/Frontend/CSS/Józsi/14.CSS Navigation Bar.md": {
@@ -2442,31 +2467,6 @@
         "nonWhitespaceCharacterCount": 125
       }
     },
-    "Schola/13/Programming/Frontend/CSS/Józsi/13.CSS Layout - clear and clearfix.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 153,
-      "nonWhitespaceCharacterCount": 128,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581634,
-      "modifiedDate": 1771160546857,
-      "sizeInBytes": 157,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 153,
-        "nonWhitespaceCharacterCount": 128
-      }
-    },
     "Schola/13/Programming/Frontend/CSS/Józsi/12.CSS Pseudo Classes.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2492,6 +2492,31 @@
         "nonWhitespaceCharacterCount": 107
       }
     },
+    "Schola/13/Programming/Frontend/CSS/Józsi/15.CSS The !Important Rule.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 89,
+      "nonWhitespaceCharacterCount": 76,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581634,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 91,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 89,
+        "nonWhitespaceCharacterCount": 76
+      }
+    },
     "Schola/13/Programming/Frontend/CSS/Józsi/11.CSS Combinators.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2515,6 +2540,31 @@
         "wordCount": 14,
         "characterCount": 146,
         "nonWhitespaceCharacterCount": 123
+      }
+    },
+    "Schola/13/Programming/Frontend/CSS/Józsi/13.CSS Layout - clear and clearfix.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 128,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581634,
+      "modifiedDate": 1771160546857,
+      "sizeInBytes": 157,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 153,
+        "nonWhitespaceCharacterCount": 128
       }
     },
     "Schola/13/Programming/Frontend/CSS/Józsi/10.CSS Layout - The display Property.md": {
@@ -2567,31 +2617,6 @@
         "nonWhitespaceCharacterCount": 119
       }
     },
-    "Schola/13/Programming/Frontend/CSS/Józsi/08.CSS Box Siting.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 125,
-      "nonWhitespaceCharacterCount": 105,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581630,
-      "modifiedDate": 1771160546856,
-      "sizeInBytes": 129,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04,
-        "wordCount": 12,
-        "characterCount": 125,
-        "nonWhitespaceCharacterCount": 105
-      }
-    },
     "Schola/13/Programming/Frontend/CSS/Józsi/07.CSS Box Model.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2642,7 +2667,7 @@
         "nonWhitespaceCharacterCount": 100
       }
     },
-    "Schola/13/Programming/Frontend/CSS/Józsi/04.CSS Comments.md": {
+    "Schola/13/Programming/Frontend/CSS/Józsi/05.CSS Margins.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -2667,32 +2692,32 @@
         "nonWhitespaceCharacterCount": 101
       }
     },
-    "Schola/13/Programming/Frontend/CSS/Józsi/03.CSS Selectors.md": {
+    "Schola/13/Programming/Frontend/CSS/Józsi/08.CSS Box Siting.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 118,
-      "nonWhitespaceCharacterCount": 100,
-      "readingTimeInMinutes": 0.03773584905660377,
+      "pageCount": 0.04,
+      "characterCount": 125,
+      "nonWhitespaceCharacterCount": 105,
+      "readingTimeInMinutes": 0.045283018867924525,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581630,
-      "modifiedDate": 1771160546853,
-      "sizeInBytes": 122,
+      "modifiedDate": 1771160546856,
+      "sizeInBytes": 129,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 118,
-        "nonWhitespaceCharacterCount": 100
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 125,
+        "nonWhitespaceCharacterCount": 105
       }
     },
-    "Schola/13/Programming/Frontend/CSS/Józsi/05.CSS Margins.md": {
+    "Schola/13/Programming/Frontend/CSS/Józsi/04.CSS Comments.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -2740,6 +2765,31 @@
         "wordCount": 108,
         "characterCount": 2892,
         "nonWhitespaceCharacterCount": 2653
+      }
+    },
+    "Schola/13/Programming/Frontend/CSS/Józsi/03.CSS Selectors.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 118,
+      "nonWhitespaceCharacterCount": 100,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581630,
+      "modifiedDate": 1771160546853,
+      "sizeInBytes": 122,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 118,
+        "nonWhitespaceCharacterCount": 100
       }
     },
     "Schola/13/Programming/Frontend/CSS/Józsi/02.CSS Syntax.md": {
@@ -2790,356 +2840,6 @@
         "wordCount": 34,
         "characterCount": 560,
         "nonWhitespaceCharacterCount": 512
-      }
-    },
-    "Schola/13/Programming/Dávid (A nem dollárbaloldali Dávid dolgozata).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 419,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3966666666666667,
-      "characterCount": 4196,
-      "nonWhitespaceCharacterCount": 3193,
-      "readingTimeInMinutes": 1.5811320754716982,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581629,
-      "modifiedDate": 1771160546851,
-      "sizeInBytes": 4520,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.3966666666666667,
-        "wordCount": 419,
-        "characterCount": 4196,
-        "nonWhitespaceCharacterCount": 3193
-      }
-    },
-    "Schola/13/Programming/Csharp/Ádám/04.Tree View.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 495,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.65,
-      "characterCount": 5581,
-      "nonWhitespaceCharacterCount": 4388,
-      "readingTimeInMinutes": 1.8679245283018868,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581628,
-      "modifiedDate": 1771160546851,
-      "sizeInBytes": 5719,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.65,
-        "wordCount": 495,
-        "characterCount": 5581,
-        "nonWhitespaceCharacterCount": 4388
-      }
-    },
-    "Schola/13/Programming/Csharp/Ádám/03.My Progress.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 791,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.6366666666666667,
-      "characterCount": 12218,
-      "nonWhitespaceCharacterCount": 9996,
-      "readingTimeInMinutes": 2.9849056603773585,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581628,
-      "modifiedDate": 1771160546851,
-      "sizeInBytes": 12379,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.6366666666666667,
-        "wordCount": 791,
-        "characterCount": 12218,
-        "nonWhitespaceCharacterCount": 9996
-      }
-    },
-    "Schola/13/Programming/Csharp/Ádám/02.My Paint.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2076,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.92,
-      "characterCount": 31274,
-      "nonWhitespaceCharacterCount": 24985,
-      "readingTimeInMinutes": 7.833962264150943,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581628,
-      "modifiedDate": 1771160546849,
-      "sizeInBytes": 31806,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.92,
-        "wordCount": 2076,
-        "characterCount": 31274,
-        "nonWhitespaceCharacterCount": 24985
-      }
-    },
-    "Schola/13/Programming/Csharp/Ádám/01.Calculator.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1311,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.37,
-      "characterCount": 19571,
-      "nonWhitespaceCharacterCount": 16113,
-      "readingTimeInMinutes": 4.947169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581628,
-      "modifiedDate": 1771160546849,
-      "sizeInBytes": 19822,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.37,
-        "wordCount": 1311,
-        "characterCount": 19571,
-        "nonWhitespaceCharacterCount": 16113
-      }
-    },
-    "Schola/13/Programming/Csharp/Zoli/03.Cursor Move 2.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 253,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8433333333333334,
-      "characterCount": 3534,
-      "nonWhitespaceCharacterCount": 2753,
-      "readingTimeInMinutes": 0.9547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581626,
-      "modifiedDate": 1771160546849,
-      "sizeInBytes": 3638,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8433333333333334,
-        "wordCount": 253,
-        "characterCount": 3534,
-        "nonWhitespaceCharacterCount": 2753
-      }
-    },
-    "Schola/13/Programming/Csharp/Zoli/02.Cursor Move 1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 692,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3066666666666666,
-      "characterCount": 6623,
-      "nonWhitespaceCharacterCount": 4736,
-      "readingTimeInMinutes": 2.611320754716981,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581626,
-      "modifiedDate": 1771160546849,
-      "sizeInBytes": 6842,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3066666666666666,
-        "wordCount": 692,
-        "characterCount": 6623,
-        "nonWhitespaceCharacterCount": 4736
-      }
-    },
-    "Schola/13/Programming/Csharp/Zoli/01.Kő Papír Olló.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 342,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.14,
-      "characterCount": 4006,
-      "nonWhitespaceCharacterCount": 3185,
-      "readingTimeInMinutes": 1.290566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581626,
-      "modifiedDate": 1771160546847,
-      "sizeInBytes": 4226,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.14,
-        "wordCount": 342,
-        "characterCount": 4006,
-        "nonWhitespaceCharacterCount": 3185
-      }
-    },
-    "Schola/13/Programming/Csharp/05.Napszak köszönés.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 808,
-      "nonWhitespaceCharacterCount": 464,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581626,
-      "modifiedDate": 1771160546847,
-      "sizeInBytes": 812,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 808,
-        "nonWhitespaceCharacterCount": 464
-      }
-    },
-    "Schola/13/Programming/Csharp/06.Switch-try.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 54,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 1299,
-      "nonWhitespaceCharacterCount": 561,
-      "readingTimeInMinutes": 0.2037735849056604,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581626,
-      "modifiedDate": 1771160546847,
-      "sizeInBytes": 1303,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.18,
-        "wordCount": 54,
-        "characterCount": 1299,
-        "nonWhitespaceCharacterCount": 561
-      }
-    },
-    "Schola/13/Programming/Csharp/04.Monorgram.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1849,
-      "nonWhitespaceCharacterCount": 1334,
-      "readingTimeInMinutes": 0.5924528301886792,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581626,
-      "modifiedDate": 1771160546845,
-      "sizeInBytes": 1922,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5233333333333333,
-        "wordCount": 157,
-        "characterCount": 1849,
-        "nonWhitespaceCharacterCount": 1334
-      }
-    },
-    "Schola/13/Programming/Csharp/03.Számokkal való műveletek.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 211,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7033333333333334,
-      "characterCount": 2137,
-      "nonWhitespaceCharacterCount": 1434,
-      "readingTimeInMinutes": 0.7962264150943397,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581625,
-      "modifiedDate": 1771160546845,
-      "sizeInBytes": 2232,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7033333333333334,
-        "wordCount": 211,
-        "characterCount": 2137,
-        "nonWhitespaceCharacterCount": 1434
-      }
-    },
-    "Schola/13/Programming/Csharp/02.Alapok CSharp.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 219,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.73,
-      "characterCount": 2127,
-      "nonWhitespaceCharacterCount": 1537,
-      "readingTimeInMinutes": 0.8264150943396227,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581625,
-      "modifiedDate": 1771160546845,
-      "sizeInBytes": 2224,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.73,
-        "wordCount": 219,
-        "characterCount": 2127,
-        "nonWhitespaceCharacterCount": 1537
-      }
-    },
-    "Schola/13/Programming/Csharp/01.Alapok Csharp.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 485,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6166666666666667,
-      "characterCount": 4505,
-      "nonWhitespaceCharacterCount": 3619,
-      "readingTimeInMinutes": 1.830188679245283,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581625,
-      "modifiedDate": 1771160546845,
-      "sizeInBytes": 4781,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6166666666666667,
-        "wordCount": 485,
-        "characterCount": 4505,
-        "nonWhitespaceCharacterCount": 3619
       }
     },
     "Schola/13/Programming/Backnd/Balázs/17.YouTube - PHP.md": {
@@ -3267,29 +2967,29 @@
         "nonWhitespaceCharacterCount": 10972
       }
     },
-    "Schola/13/Programming/Backnd/Balázs/12.Social Media - PHP.md": {
+    "Schola/13/Programming/Backnd/Balázs/10.hét - PHP.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 931,
+      "wordCount": 338,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.1033333333333335,
-      "characterCount": 13120,
-      "nonWhitespaceCharacterCount": 10874,
-      "readingTimeInMinutes": 3.513207547169811,
+      "pageCount": 1.1266666666666667,
+      "characterCount": 5958,
+      "nonWhitespaceCharacterCount": 4868,
+      "readingTimeInMinutes": 1.2754716981132075,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581621,
-      "modifiedDate": 1771160546841,
-      "sizeInBytes": 13281,
+      "modifiedDate": 1771160546839,
+      "sizeInBytes": 6060,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.1033333333333335,
-        "wordCount": 931,
-        "characterCount": 13120,
-        "nonWhitespaceCharacterCount": 10874
+        "pageCount": 1.1266666666666667,
+        "wordCount": 338,
+        "characterCount": 5958,
+        "nonWhitespaceCharacterCount": 4868
       }
     },
     "Schola/13/Programming/Backnd/Balázs/11.hét - PHP.md": {
@@ -3317,79 +3017,29 @@
         "nonWhitespaceCharacterCount": 5075
       }
     },
-    "Schola/13/Programming/Backnd/Balázs/10.hét - PHP.md": {
+    "Schola/13/Programming/Backnd/Balázs/12.Social Media - PHP.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 338,
+      "wordCount": 931,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1266666666666667,
-      "characterCount": 5958,
-      "nonWhitespaceCharacterCount": 4868,
-      "readingTimeInMinutes": 1.2754716981132075,
+      "pageCount": 3.1033333333333335,
+      "characterCount": 13120,
+      "nonWhitespaceCharacterCount": 10874,
+      "readingTimeInMinutes": 3.513207547169811,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758727581621,
-      "modifiedDate": 1771160546839,
-      "sizeInBytes": 6060,
+      "modifiedDate": 1771160546841,
+      "sizeInBytes": 13281,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1266666666666667,
-        "wordCount": 338,
-        "characterCount": 5958,
-        "nonWhitespaceCharacterCount": 4868
-      }
-    },
-    "Schola/13/Programming/Backnd/Balázs/09.hét - PHP.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 366,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.22,
-      "characterCount": 6504,
-      "nonWhitespaceCharacterCount": 5478,
-      "readingTimeInMinutes": 1.381132075471698,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581621,
-      "modifiedDate": 1771160546839,
-      "sizeInBytes": 6571,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.22,
-        "wordCount": 366,
-        "characterCount": 6504,
-        "nonWhitespaceCharacterCount": 5478
-      }
-    },
-    "Schola/13/Programming/Backnd/Balázs/08.hét - PHP.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 116,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.38666666666666666,
-      "characterCount": 2061,
-      "nonWhitespaceCharacterCount": 1628,
-      "readingTimeInMinutes": 0.4377358490566038,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758727581621,
-      "modifiedDate": 1771160546839,
-      "sizeInBytes": 2073,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.38666666666666666,
-        "wordCount": 116,
-        "characterCount": 2061,
-        "nonWhitespaceCharacterCount": 1628
+        "pageCount": 3.1033333333333335,
+        "wordCount": 931,
+        "characterCount": 13120,
+        "nonWhitespaceCharacterCount": 10874
       }
     },
     "Schola/13/Programming/Backnd/Balázs/07.hét - PHP.md": {
@@ -3417,6 +3067,31 @@
         "nonWhitespaceCharacterCount": 2333
       }
     },
+    "Schola/13/Programming/Backnd/Balázs/08.hét - PHP.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 116,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 2061,
+      "nonWhitespaceCharacterCount": 1628,
+      "readingTimeInMinutes": 0.4377358490566038,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581621,
+      "modifiedDate": 1771160546839,
+      "sizeInBytes": 2073,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38666666666666666,
+        "wordCount": 116,
+        "characterCount": 2061,
+        "nonWhitespaceCharacterCount": 1628
+      }
+    },
     "Schola/13/Programming/Backnd/Balázs/06.hét - PHP.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3440,6 +3115,31 @@
         "wordCount": 253,
         "characterCount": 4269,
         "nonWhitespaceCharacterCount": 3213
+      }
+    },
+    "Schola/13/Programming/Backnd/Balázs/09.hét - PHP.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 366,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.22,
+      "characterCount": 6504,
+      "nonWhitespaceCharacterCount": 5478,
+      "readingTimeInMinutes": 1.381132075471698,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581621,
+      "modifiedDate": 1771160546839,
+      "sizeInBytes": 6571,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.22,
+        "wordCount": 366,
+        "characterCount": 6504,
+        "nonWhitespaceCharacterCount": 5478
       }
     },
     "Schola/13/Programming/Backnd/Balázs/05.hét - PHP.md": {
@@ -3640,6 +3340,331 @@
         "wordCount": 1390,
         "characterCount": 14540,
         "nonWhitespaceCharacterCount": 11837
+      }
+    },
+    "Schola/13/Programming/Csharp/06.Switch-try.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 1299,
+      "nonWhitespaceCharacterCount": 561,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581626,
+      "modifiedDate": 1771160546847,
+      "sizeInBytes": 1303,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18,
+        "wordCount": 54,
+        "characterCount": 1299,
+        "nonWhitespaceCharacterCount": 561
+      }
+    },
+    "Schola/13/Programming/Csharp/Zoli/03.Cursor Move 2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 253,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8433333333333334,
+      "characterCount": 3534,
+      "nonWhitespaceCharacterCount": 2753,
+      "readingTimeInMinutes": 0.9547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581626,
+      "modifiedDate": 1771160546849,
+      "sizeInBytes": 3638,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8433333333333334,
+        "wordCount": 253,
+        "characterCount": 3534,
+        "nonWhitespaceCharacterCount": 2753
+      }
+    },
+    "Schola/13/Programming/Csharp/Zoli/02.Cursor Move 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 692,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3066666666666666,
+      "characterCount": 6623,
+      "nonWhitespaceCharacterCount": 4736,
+      "readingTimeInMinutes": 2.611320754716981,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581626,
+      "modifiedDate": 1771160546849,
+      "sizeInBytes": 6842,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.3066666666666666,
+        "wordCount": 692,
+        "characterCount": 6623,
+        "nonWhitespaceCharacterCount": 4736
+      }
+    },
+    "Schola/13/Programming/Csharp/Zoli/01.Kő Papír Olló.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 342,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.14,
+      "characterCount": 4006,
+      "nonWhitespaceCharacterCount": 3185,
+      "readingTimeInMinutes": 1.290566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581626,
+      "modifiedDate": 1771160546847,
+      "sizeInBytes": 4226,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.14,
+        "wordCount": 342,
+        "characterCount": 4006,
+        "nonWhitespaceCharacterCount": 3185
+      }
+    },
+    "Schola/13/Programming/Csharp/Ádám/03.My Progress.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 791,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.6366666666666667,
+      "characterCount": 12218,
+      "nonWhitespaceCharacterCount": 9996,
+      "readingTimeInMinutes": 2.9849056603773585,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581628,
+      "modifiedDate": 1771160546851,
+      "sizeInBytes": 12379,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.6366666666666667,
+        "wordCount": 791,
+        "characterCount": 12218,
+        "nonWhitespaceCharacterCount": 9996
+      }
+    },
+    "Schola/13/Programming/Csharp/Ádám/04.Tree View.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 495,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.65,
+      "characterCount": 5581,
+      "nonWhitespaceCharacterCount": 4388,
+      "readingTimeInMinutes": 1.8679245283018868,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581628,
+      "modifiedDate": 1771160546851,
+      "sizeInBytes": 5719,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.65,
+        "wordCount": 495,
+        "characterCount": 5581,
+        "nonWhitespaceCharacterCount": 4388
+      }
+    },
+    "Schola/13/Programming/Csharp/Ádám/02.My Paint.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2076,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.92,
+      "characterCount": 31274,
+      "nonWhitespaceCharacterCount": 24985,
+      "readingTimeInMinutes": 7.833962264150943,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581628,
+      "modifiedDate": 1771160546849,
+      "sizeInBytes": 31806,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.92,
+        "wordCount": 2076,
+        "characterCount": 31274,
+        "nonWhitespaceCharacterCount": 24985
+      }
+    },
+    "Schola/13/Programming/Csharp/Ádám/01.Calculator.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1311,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.37,
+      "characterCount": 19571,
+      "nonWhitespaceCharacterCount": 16113,
+      "readingTimeInMinutes": 4.947169811320754,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581628,
+      "modifiedDate": 1771160546849,
+      "sizeInBytes": 19822,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.37,
+        "wordCount": 1311,
+        "characterCount": 19571,
+        "nonWhitespaceCharacterCount": 16113
+      }
+    },
+    "Schola/13/Programming/Csharp/03.Számokkal való műveletek.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 211,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 2137,
+      "nonWhitespaceCharacterCount": 1434,
+      "readingTimeInMinutes": 0.7962264150943397,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581625,
+      "modifiedDate": 1771160546845,
+      "sizeInBytes": 2232,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7033333333333334,
+        "wordCount": 211,
+        "characterCount": 2137,
+        "nonWhitespaceCharacterCount": 1434
+      }
+    },
+    "Schola/13/Programming/Csharp/02.Alapok CSharp.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 219,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.73,
+      "characterCount": 2127,
+      "nonWhitespaceCharacterCount": 1537,
+      "readingTimeInMinutes": 0.8264150943396227,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581625,
+      "modifiedDate": 1771160546845,
+      "sizeInBytes": 2224,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.73,
+        "wordCount": 219,
+        "characterCount": 2127,
+        "nonWhitespaceCharacterCount": 1537
+      }
+    },
+    "Schola/13/Programming/Csharp/05.Napszak köszönés.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 51,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17,
+      "characterCount": 808,
+      "nonWhitespaceCharacterCount": 464,
+      "readingTimeInMinutes": 0.19245283018867926,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581626,
+      "modifiedDate": 1771160546847,
+      "sizeInBytes": 812,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 808,
+        "nonWhitespaceCharacterCount": 464
+      }
+    },
+    "Schola/13/Programming/Csharp/04.Monorgram.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 157,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 1849,
+      "nonWhitespaceCharacterCount": 1334,
+      "readingTimeInMinutes": 0.5924528301886792,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581626,
+      "modifiedDate": 1771160546845,
+      "sizeInBytes": 1922,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5233333333333333,
+        "wordCount": 157,
+        "characterCount": 1849,
+        "nonWhitespaceCharacterCount": 1334
+      }
+    },
+    "Schola/13/Programming/Csharp/01.Alapok Csharp.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 485,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6166666666666667,
+      "characterCount": 4505,
+      "nonWhitespaceCharacterCount": 3619,
+      "readingTimeInMinutes": 1.830188679245283,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758727581625,
+      "modifiedDate": 1771160546845,
+      "sizeInBytes": 4781,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.6166666666666667,
+        "wordCount": 485,
+        "characterCount": 4505,
+        "nonWhitespaceCharacterCount": 3619
       }
     },
     "Schola/13/Link/Python.md": {
@@ -3892,6 +3917,31 @@
         "nonWhitespaceCharacterCount": 1737
       }
     },
+    "Admin cucc.txt": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 571,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9033333333333333,
+      "characterCount": 4543,
+      "nonWhitespaceCharacterCount": 3573,
+      "readingTimeInMinutes": 2.1547169811320757,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767604749209,
+      "modifiedDate": 1767596517643,
+      "sizeInBytes": 4836,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9033333333333333,
+        "wordCount": 571,
+        "characterCount": 4543,
+        "nonWhitespaceCharacterCount": 3573
+      }
+    },
     "LICENSE": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3942,29 +3992,54 @@
         "nonWhitespaceCharacterCount": 1148
       }
     },
-    "Bláthy/Vizsgamunka/Terv.md": {
+    "Bláthy/Szerverek és felhőszolgáltatások.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 225,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.75,
-      "characterCount": 1681,
-      "nonWhitespaceCharacterCount": 1384,
-      "readingTimeInMinutes": 0.8490566037735849,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1772224382744,
-      "modifiedDate": 1772224561208,
-      "sizeInBytes": 1782,
+      "createdDate": 1763056707947,
+      "modifiedDate": 1763056790743,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.75,
-        "wordCount": 225,
-        "characterCount": 1681,
-        "nonWhitespaceCharacterCount": 1384
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Bláthy/Szakmai angol.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763056707947,
+      "modifiedDate": 1763056781177,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Bláthy/Vizsgamunka/IP címek.md": {
@@ -3992,29 +4067,29 @@
         "nonWhitespaceCharacterCount": 2583
       }
     },
-    "Bláthy/szerverek-es-felhoszolgaltatasok/04-RAID.md": {
+    "Bláthy/Vizsgamunka/Terv.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 160,
+      "wordCount": 225,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5333333333333333,
-      "characterCount": 1347,
-      "nonWhitespaceCharacterCount": 1045,
-      "readingTimeInMinutes": 0.6037735849056604,
+      "pageCount": 0.75,
+      "characterCount": 1681,
+      "nonWhitespaceCharacterCount": 1384,
+      "readingTimeInMinutes": 0.8490566037735849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1771711847705,
-      "modifiedDate": 1771711847705,
-      "sizeInBytes": 1474,
+      "createdDate": 1772224382744,
+      "modifiedDate": 1772224561208,
+      "sizeInBytes": 1782,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5333333333333333,
-        "wordCount": 160,
-        "characterCount": 1347,
-        "nonWhitespaceCharacterCount": 1045
+        "pageCount": 0.75,
+        "wordCount": 225,
+        "characterCount": 1681,
+        "nonWhitespaceCharacterCount": 1384
       }
     },
     "Bláthy/szerverek-es-felhoszolgaltatasok/03.itredundancia.md": {
@@ -4040,6 +4115,31 @@
         "wordCount": 317,
         "characterCount": 3006,
         "nonWhitespaceCharacterCount": 2245
+      }
+    },
+    "Bláthy/szerverek-es-felhoszolgaltatasok/04-RAID.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 160,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5333333333333333,
+      "characterCount": 1347,
+      "nonWhitespaceCharacterCount": 1045,
+      "readingTimeInMinutes": 0.6037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771711847705,
+      "modifiedDate": 1771711847705,
+      "sizeInBytes": 1474,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5333333333333333,
+        "wordCount": 160,
+        "characterCount": 1347,
+        "nonWhitespaceCharacterCount": 1045
       }
     },
     "Bláthy/szerverek-es-felhoszolgaltatasok/01.Virtualizáció.md": {
@@ -4090,56 +4190,6 @@
         "wordCount": 1065,
         "characterCount": 8201,
         "nonWhitespaceCharacterCount": 6612
-      }
-    },
-    "Bláthy/Szerverek és felhőszolgáltatások.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763056707947,
-      "modifiedDate": 1763056790743,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Bláthy/Szakmai angol.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763056707947,
-      "modifiedDate": 1763056781177,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Bláthy/Programozási Alapok.md": {
@@ -4267,6 +4317,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Bláthy/ikt-projektmunka-I/06.Reszponziv web.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 435,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.45,
+      "characterCount": 3531,
+      "nonWhitespaceCharacterCount": 2745,
+      "readingTimeInMinutes": 1.6415094339622642,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1766794845152,
+      "modifiedDate": 1771160546825,
+      "sizeInBytes": 3849,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.45,
+        "wordCount": 435,
+        "characterCount": 3531,
+        "nonWhitespaceCharacterCount": 2745
+      }
+    },
     "Bláthy/ikt-projektmunka-I/07.Weboldalak formázása.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4292,6 +4367,31 @@
         "nonWhitespaceCharacterCount": 2980
       }
     },
+    "Bláthy/ikt-projektmunka-I/01.Visual Studio Code és Windows parancsok.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 133,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44333333333333336,
+      "characterCount": 2327,
+      "nonWhitespaceCharacterCount": 980,
+      "readingTimeInMinutes": 0.5018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763211158257,
+      "modifiedDate": 1771160546825,
+      "sizeInBytes": 2930,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44333333333333336,
+        "wordCount": 133,
+        "characterCount": 2327,
+        "nonWhitespaceCharacterCount": 980
+      }
+    },
     "Bláthy/ikt-projektmunka-I/05.Verziókezelés.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4315,31 +4415,6 @@
         "wordCount": 675,
         "characterCount": 5192,
         "nonWhitespaceCharacterCount": 4249
-      }
-    },
-    "Bláthy/ikt-projektmunka-I/06.Reszponziv web.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 435,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.45,
-      "characterCount": 3531,
-      "nonWhitespaceCharacterCount": 2745,
-      "readingTimeInMinutes": 1.6415094339622642,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1766794845152,
-      "modifiedDate": 1771160546825,
-      "sizeInBytes": 3849,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.45,
-        "wordCount": 435,
-        "characterCount": 3531,
-        "nonWhitespaceCharacterCount": 2745
       }
     },
     "Bláthy/ikt-projektmunka-I/04.Képek és illusztrációk.md": {
@@ -4415,31 +4490,6 @@
         "wordCount": 406,
         "characterCount": 3240,
         "nonWhitespaceCharacterCount": 2521
-      }
-    },
-    "Bláthy/ikt-projektmunka-I/01.Visual Studio Code és Windows parancsok.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 133,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.44333333333333336,
-      "characterCount": 2327,
-      "nonWhitespaceCharacterCount": 980,
-      "readingTimeInMinutes": 0.5018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763211158257,
-      "modifiedDate": 1771160546825,
-      "sizeInBytes": 2930,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.44333333333333336,
-        "wordCount": 133,
-        "characterCount": 2327,
-        "nonWhitespaceCharacterCount": 980
       }
     },
     "Bláthy/IKT Projektmunka II..md": {
@@ -4642,48 +4692,23 @@
         "nonWhitespaceCharacterCount": 220
       }
     },
-    "Admin cucc.txt": {
+    "Schola/14/Szakmai Angol/06. Lesson name.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 571,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9033333333333333,
-      "characterCount": 4543,
-      "nonWhitespaceCharacterCount": 3573,
-      "readingTimeInMinutes": 2.1547169811320757,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 75,
+      "nonWhitespaceCharacterCount": 63,
+      "readingTimeInMinutes": 0.04905660377358491,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1767604749209,
-      "modifiedDate": 1767596517643,
-      "sizeInBytes": 4836,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.9033333333333333,
-        "wordCount": 571,
-        "characterCount": 4543,
-        "nonWhitespaceCharacterCount": 3573
-      }
-    },
-    "Schola/14/Asztali és mobil alkalmazások fejlesztése és tesztelése/08.Nem legális puska.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 612,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.04,
-      "characterCount": 8123,
-      "nonWhitespaceCharacterCount": 6489,
-      "readingTimeInMinutes": 2.309433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772697776995,
-      "modifiedDate": 1772697938710,
-      "sizeInBytes": 8262,
+      "createdDate": 1773054994088,
+      "modifiedDate": 1773055043003,
+      "sizeInBytes": 75,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
