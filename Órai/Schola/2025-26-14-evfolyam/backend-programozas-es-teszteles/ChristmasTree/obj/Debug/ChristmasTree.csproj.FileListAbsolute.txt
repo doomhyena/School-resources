@@ -1,8 +1,0 @@
-C:\Users\csontoskincso\source\repos\ChristmasTree\bin\Debug\ChristmasTree.exe.config
-C:\Users\csontoskincso\source\repos\ChristmasTree\bin\Debug\ChristmasTree.exe
-C:\Users\csontoskincso\source\repos\ChristmasTree\bin\Debug\ChristmasTree.pdb
-C:\Users\csontoskincso\source\repos\ChristmasTree\obj\Debug\ChristmasTree.csproj.AssemblyReference.cache
-C:\Users\csontoskincso\source\repos\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
-C:\Users\csontoskincso\source\repos\ChristmasTree\obj\Debug\ChristmasTree.exe
-C:\Users\csontoskincso\source\repos\ChristmasTree\obj\Debug\ChristmasTree.pdb
-C:\Users\csontoskincso\source\repos\ChristmasTree\obj\Debug\ChristmasTree.exe.config

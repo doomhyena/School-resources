@@ -1,8 +1,0 @@
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\bin\Debug\Lift_2009.exe.config
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\bin\Debug\Lift_2009.exe
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\bin\Debug\Lift_2009.pdb
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\obj\Debug\Lift_2009.csproj.AssemblyReference.cache
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\obj\Debug\Lift_2009.csproj.CoreCompileInputs.cache
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\obj\Debug\Lift_2009.exe
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\obj\Debug\Lift_2009.pdb
-S:\Szoftver\Szoftver14\KZ\A\Vizsgafeladatok\Lift_2009\obj\Debug\Lift_2009.exe.config

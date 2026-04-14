@@ -1,8 +1,0 @@
-C:\Users\csontoskincso\source\repos\lift\obj\Debug\lift.csproj.AssemblyReference.cache
-C:\Users\csontoskincso\source\repos\lift\obj\Debug\lift.csproj.CoreCompileInputs.cache
-C:\Users\csontoskincso\source\repos\lift\bin\Debug\lift.exe.config
-C:\Users\csontoskincso\source\repos\lift\bin\Debug\lift.exe
-C:\Users\csontoskincso\source\repos\lift\bin\Debug\lift.pdb
-C:\Users\csontoskincso\source\repos\lift\obj\Debug\lift.exe
-C:\Users\csontoskincso\source\repos\lift\obj\Debug\lift.pdb
-C:\Users\csontoskincso\source\repos\lift\obj\Debug\lift.exe.config
