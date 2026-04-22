@@ -1,0 +1,71 @@
+.start {
+    background-image: url('img/s_and_e-background.png');
+    min-height: 100vh;
+}
+
+@media (min-width: 768px) {
+    .start {
+        min-height: calc(100vh - 4rem);
+    }
+}
+
+.start .btn {
+    width: 14rem;
+}
+
+.start .row {
+    margin-top: 60vh;
+}
+
+@media (max-width: 575px) {
+    .start .row .col-12{
+        margin: 2vh 0;
+    }
+
+    .start .row {
+        margin-top: 35vh;
+    }
+
+    .start .row .btn {
+        min-width: 15rem;
+        font-size: 1rem;
+    }    
+}
+
+.start .row .btn {
+    min-width: calc(100% - 4rem);
+    font-size: 1.7vw;
+}
+
+.container {
+    background-color: rgb(205, 252, 200);
+    min-height: 100vh;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card-img-bottom {
+    max-height: 40vh;
+    width: auto;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* 1. feladat: kártyák fejléc szövegszíne = háttérszín */
+.card-header {
+    color: rgb(205, 252, 200);
+}
+
+/* 2. feladat: aktív menüpont színe és félkövér */
+.nav-link.active {
+    color: rgb(150, 61, 150) !important;
+    font-weight: bold;
+}
+
+/* 4. feladat: háttérkép ne ismétlődjön, töltse ki a keretet */
+.start {
+    background-repeat: no-repeat;
+    background-size: cover;
+}

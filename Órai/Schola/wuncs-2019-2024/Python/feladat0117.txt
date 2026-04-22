@@ -1,9 +1,0 @@
-Készítsen listát "szamok" néven és tárolja el benne 1,2,3,4,5 számokat.
-Olvassa be a "szam.txt" fájlt és tárolja el egy változóban.
-	- Ha a beolvasott szám nem része a "számok" listának
-	 akkor tegye bele.
-	- Ha benne van akkor növelje a szám értékét mindaddig,
-	míg olyan szám nem lesz ami nincs benne a listában.
-		- Tegye bele a számot a listába.
-
-Írja ki a listát.
