@@ -1,0 +1,78 @@
+[gd_scene format=3 uid="uid://mulya5tpw21n"]
+
+[ext_resource type="Script" uid="uid://bqgs1vsll40jn" path="res://main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Control" unique_id=781164001]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ig7tw")
+
+[node name="Id" type="Label" parent="." unique_id=1370933664]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+text = "ID:"
+
+[node name="Username" type="Label" parent="." unique_id=687218557]
+layout_mode = 0
+offset_left = 161.0
+offset_right = 246.0
+offset_bottom = 23.0
+text = "Username:"
+
+[node name="Credit" type="Label" parent="." unique_id=1505045476]
+layout_mode = 0
+offset_left = 465.0
+offset_right = 517.0
+offset_bottom = 23.0
+text = "Credit:"
+
+[node name="LogoutBtn" type="Button" parent="." unique_id=1075829140]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -62.0
+offset_bottom = 31.0
+grow_horizontal = 0
+text = "Logout"
+
+[node name="Cookie" type="Button" parent="." unique_id=1649231087]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = -25.0
+offset_right = 125.0
+offset_bottom = 25.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Cookie"
+
+[node name="HTTPRequest" type="HTTPRequest" parent="." unique_id=1043629029]
+
+[node name="Perks" type="Button" parent="." unique_id=295239854]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = 96.0
+offset_right = 125.0
+offset_bottom = 146.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Perks"
+
+[connection signal="pressed" from="LogoutBtn" to="." method="_on_logout_btn_pressed"]
+[connection signal="pressed" from="Cookie" to="." method="_on_cookie_pressed"]
+[connection signal="pressed" from="Perks" to="." method="_on_perks_pressed"]

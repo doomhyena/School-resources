@@ -1,0 +1,110 @@
+[gd_scene format=3 uid="uid://djswh4lchvqdd"]
+
+[ext_resource type="Script" uid="uid://clyqvi8k3opow" path="res://login.gd" id="1_cau7c"]
+
+[node name="Login" type="Control" unique_id=2011368685]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_cau7c")
+
+[node name="Username" type="LineEdit" parent="." unique_id=1076672320]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = -84.0
+offset_right = 125.0
+offset_bottom = -34.0
+grow_horizontal = 2
+grow_vertical = 2
+placeholder_text = "Felhasználónév"
+alignment = 1
+
+[node name="Password" type="LineEdit" parent="." unique_id=1050165778]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = -24.0
+offset_right = 125.0
+offset_bottom = 26.0
+grow_horizontal = 2
+grow_vertical = 2
+placeholder_text = "Jelszó"
+alignment = 1
+secret = true
+
+[node name="LoginBtn" type="Button" parent="." unique_id=570689517]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = 36.0
+offset_right = 125.0
+offset_bottom = 86.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Bejelentkezés"
+
+[node name="HTTPRequest" type="HTTPRequest" parent="." unique_id=1188893725]
+
+[node name="UsernameError" type="Panel" parent="." unique_id=1225587092]
+visible = false
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = -144.0
+offset_right = 125.0
+offset_bottom = -94.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="UsernameError" unique_id=38713872]
+layout_mode = 0
+offset_right = 250.0
+offset_bottom = 50.0
+text = "Nincs ilyen felhasználó!"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="PasswordError" type="Panel" parent="." unique_id=94960424]
+visible = false
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = -144.0
+offset_right = 125.0
+offset_bottom = -94.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="PasswordError" unique_id=282302029]
+layout_mode = 0
+offset_right = 250.0
+offset_bottom = 50.0
+text = "Hibás jelszó!"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="pressed" from="LoginBtn" to="." method="_on_login_btn_pressed"]
