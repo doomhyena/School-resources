@@ -49,17 +49,14 @@ ikt-projektmunka-I-prog-alapok/     # Frontend alapok & Python alapok
 
 #### 👨‍🏫 Oktatók 2025/26 1.félév
 
-| Tantárgy                                                                      | Tanár neve         |
-| ----------------------------------------------------------------------------- | ------------------ |
-| Munkavállalói ismeretek, Szakmai Angol                                        | Sándor Péter       |
-| Munkavállalói idegen nyelv                                                    | -                  |
-| Informatikai és távközlési alapok I.                                          | Virág Ádám         |
-| Informatikai és távközlési alapok II., Hálózatok I.                           | Krucsay Attila     |
-| Programozási alapok, IKT projektmunka I., Szerverek és felhőszolgáltatások    | Duffka Erik Martin |
-| IKT projektmunka II.                                                          | -                  |
-| Hálózatok II.                                                                 | -                  |
-| Hálózat programozása és Iot                                                   | -                  |
-| Adatbázis-kezelés I.                                                          | -                  |
+| Tantárgy                                                                                                                                  | Tanár neve         |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Munkavállalói ismeretek, Szakmai Angol                                                                                                    | Sándor Péter       |
+| Munkavállalói idegen nyelv                                                                                                                | -                  |
+| Informatikai és távközlési alapok I.                                                                                                      | Virág Ádám         |
+| Informatikai és távközlési alapok II., Hálózatok I., Adatbázis-kezelés I., IKT projektmunka II., Hálózatok II.                            | Krucsay Attila     |
+| Programozási alapok, IKT projektmunka I., Szerverek és felhőszolgáltatások                                                                | Duffka Erik Martin |
+| Hálózat programozása és Iot                                                                                                               | -                  |
 
 ## "Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola
 
