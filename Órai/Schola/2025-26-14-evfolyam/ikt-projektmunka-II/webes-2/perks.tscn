@@ -39,4 +39,83 @@ text = "500 süti"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+[node name="Plus5" type="Button" parent="." unique_id=437999466]
+layout_mode = 0
+offset_left = 300.0
+offset_top = 100.0
+offset_right = 350.0
+offset_bottom = 150.0
+text = "+5"
+
+[node name="Label" type="Label" parent="Plus5" unique_id=1024439220]
+layout_mode = 0
+offset_left = -25.0
+offset_top = 55.0
+offset_right = 75.0
+offset_bottom = 85.0
+text = "1000 süti"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Plus10" type="Button" parent="." unique_id=1842987161]
+layout_mode = 0
+offset_left = 500.0
+offset_top = 100.0
+offset_right = 550.0
+offset_bottom = 150.0
+text = "+10"
+
+[node name="Label" type="Label" parent="Plus10" unique_id=981977096]
+layout_mode = 0
+offset_left = -25.0
+offset_top = 55.0
+offset_right = 75.0
+offset_bottom = 85.0
+text = "2500 süti"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Plus25" type="Button" parent="." unique_id=1799317177]
+layout_mode = 0
+offset_left = 700.0
+offset_top = 100.0
+offset_right = 750.0
+offset_bottom = 150.0
+text = "+25"
+
+[node name="Label" type="Label" parent="Plus25" unique_id=240271642]
+layout_mode = 0
+offset_left = -25.0
+offset_top = 55.0
+offset_right = 75.0
+offset_bottom = 85.0
+text = "5000 süti"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Plus50" type="Button" parent="." unique_id=621267474]
+layout_mode = 0
+offset_left = 900.0
+offset_top = 100.0
+offset_right = 950.0
+offset_bottom = 150.0
+text = "+50"
+
+[node name="Label" type="Label" parent="Plus50" unique_id=935652533]
+layout_mode = 0
+offset_left = -25.0
+offset_top = 55.0
+offset_right = 75.0
+offset_bottom = 85.0
+text = "10000 süti"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HTTPRequest" type="HTTPRequest" parent="." unique_id=1952127433]
+
 [connection signal="pressed" from="BackBtn" to="." method="_on_back_btn_pressed"]
+[connection signal="pressed" from="Plus2" to="." method="_on_plus_2_pressed"]
+[connection signal="pressed" from="Plus5" to="." method="_on_plus_5_pressed"]
+[connection signal="pressed" from="Plus10" to="." method="_on_plus_10_pressed"]
+[connection signal="pressed" from="Plus25" to="." method="_on_plus_25_pressed"]
+[connection signal="pressed" from="Plus50" to="." method="_on_plus_50_pressed"]

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <title>48 órás időjárás előrejelzés</title>
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 2em auto; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid #ccc; padding: 0.5em; text-align: center; }
+    th { background: #f0f0f0; }
+    .icon { font-size: 1.5em; }
+  </style>
+</head>
+<body>
+  <h1>A következő 48 óra: Budapest időjárása</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Óra</th><th>Hőmérséklet (°C)</th><th>Felhő (%)</th>
+        <th>Csapadék (%)</th><th>Szél (m/s)</th><th>Minta</th>
+      </tr>
+    </thead>
+    <tbody id="weather-body"></tbody>
+  </table>
+  <script>
+    const lat = 47.4979, lon = 19.0402; //BP koordinátái
+    const params = [
+      'temperature_2m', 'cloudcover', 'precipitation_probability', 'windspeed_10m'
+    ];
+    const api = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=${params.join(',')}&timezone=Europe/Budapest`;
+
+    fetch(api)
+      .then(res => res.json())
+      .then(json => {
+        const times = json.hourly.time, temp = json.hourly.temperature_2m;
+        const cloud = json.hourly.cloudcover, precip = json.hourly.precipitation_probability;
+        const wind = json.hourly.windspeed_10m;
+        const tbody = document.getElementById('weather-body');
+        let sorok = '';
+        for (let i = 0; i < 48; i++) {
+          const datum = new Date(times[i]);
+          const hour = datum.getHours().toString().padStart(2,'0') + ':00';
+          //Ikonválasztás:
+          const ikonFajta = cloud[i] > 75 ? 'wi-cloudy' :
+                            precip[i] > 50 ? 'wi-rain' :
+                            'wi-day-sunny';
+          sorok += `<tr>
+            <td>${hour}</td>
+            <td>${temp[i].toFixed(1)}</td>
+            <td>${cloud[i]}</td>
+            <td>${precip[i]}</td>
+            <td>${wind[i].toFixed(1)}</td>
+            <td><i class="icon wi ${ikonFajta}"></i></td>
+          </tr>`;
+        }
+        tbody.innerHTML = sorok;
+      })
+      .catch(hiba => {
+        document.body.innerHTML = `<p style="color:red">Hiba: ${hiba.message}</p>`;
+      });
+  </script>
+</body>
+</html>

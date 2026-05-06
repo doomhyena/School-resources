@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Nyitva tartó hely kereső</title>
+    <style>
+		<!--A body fontcsaládja sans-serif, a maximális szélessége 700 pixel. -->
+        body { ...; margin: 2em auto; }
+        form { margin-bottom: 1.5em; }
+        input, button { font-size: 1em; padding: 0.5em; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ccc; padding: 0.5em; }
+        th { background: #f0f0f0; }
+        .hiba { color: red; margin-top: 1em; }
+        #terkep { height: 350px; margin: 1em 0; border: 2px solid #aac; }
+    </style>
+	<!--További css formázásként a leaflet-et használjuk: https://unpkg.com/leaflet/dist/leaflet.css-->
+    <link .../>
+</head>
+<body>
+    <h1>Nyitva tartó helyek keresése</h1>
+    <form ...> <!--submit esemény esetén hívja meg az helyekKeresese() függvényt az aktuális event paraméterre-->
+        <label>Kategória: 
+            ... <!--Kötelezően kitöltendő szöveges input mező, kategoria ID-vel, "pl. múzeum" alapfelirattal -->
+        </label>
+        <label>Város:
+            ... <!--Kötelezően kitöltendő szöveges input mező, varos ID-vel, "pl. Budapest" alapfelirattal -->
+        </label>
+        ... <!--Keresés gomb, amely submit típusú-->
+    </form>
+    <div id="hiba" class="hiba"></div>
+    <div id="terkep"></div>
+    <div id="talalatok"></div>
+	... <!-- Leaflet behívása JS modulként is (https://unpkg.com/leaflet/dist/leaflet.js) -->
+    <script>
+    function nagyKezdo(s) {
+        return s.charAt(0).toUpperCase() + s.slice(1);
+    }
+
+    let terkep = null;
+    let markerCsoport = null;
+
+    ... helyekKeresese(e) { //Ez egy aszinkron függvény lesz
+        e.preventDefault();
+        ...; //A 'hiba' ID-jű elem szöveges tartalma üres legyen
+        ...; //A 'találatok' ID-jű mező belső HTML szöveg az "Keresés folyamatban..." legyen
+        ...; //A 'terkep' ID-jű elem stíluselemei közül a megjelenítés értéke "none" legyen
+
+        const kategoria = document.getElementById('kategoria').value....; //A tartalomból szűrjük ki a speciális karaktereket és legyen kisbetűs
+        const varos = document.getElementById('varos').value.trim(); //A tartalomból simán csak szűrjük ki a speciális karaktereket
+
+        try {
+            //Város középpont koordinátáinak lekérése:
+            const helyResp = await fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(varos)}&format=json&limit=1`);
+            const helyAdat = await helyResp.json();
+            if (...) throw new Error("A megadott város nem található!"); //Ha helyAdat változónak nincs értéke (hossza)
+            const { lat, lon } = helyAdat[0];
+
+            // Overpass API lekérdezés összeállítása:
+            const kulcsok = {
+                'múzeum': 'tourism=museum',
+                'könyvtár': 'amenity=library',
+                'uszoda': 'leisure=swimming_pool',
+                'étterem': 'amenity=restaurant',
+                'pizzéria': 'amenity=restaurant',
+                'kávézó': 'amenity=cafe',
+                'mozi': 'amenity=cinema',
+                'fitnesz': 'leisure=fitness_centre',
+                'gyógyszertár': 'amenity=pharmacy',
+                'bolt': 'shop',
+                'pékség': 'shop=bakery'
+            };
+            let osmQuery = '';
+            if (kulcsok[kategoria]) {
+                if (kulcsok[kategoria].includes('=')) {
+                    osmQuery = `[${kulcsok[kategoria]}]`;
+                } else {
+                    osmQuery = `[${kulcsok[kategoria]}]`;
+                }
+            } else {
+                osmQuery = `[~"^name|amenity|shop|tourism|leisure"~"${kategoria}",i]`;
+            }
+
+            //Overpass API lekérdezés (a város 3km-es sugarú körében):
+            const overpassUrl = "https://overpass-api.de/api/interpreter";
+            const query = `
+                [out:json][timeout:25];
+                (
+                  node${osmQuery}(around:3000,${lat},${lon});
+                  way${osmQuery}(around:3000,${lat},${lon});
+                  relation${osmQuery}(around:3000,${lat},${lon});
+                );
+                out center tags 25;
+            `;
+
+            const overpassResp = await fetch(overpassUrl, {
+                method: "POST",
+                body: query
+            });
+            const overpassData = await overpassResp.json();
+			//Ha az overpassData hossza nem olvashtó, akkor dobjon egy hibát egy sablon figyelmeztetéssel (pl. "Nem található ilyen hely a környéken!"):
+            if (...overpassData.elements....) ... new ...(...);
+
+            //Találatok feldolgozása és kiírása:
+            let html = `<table>
+                <thead>
+                    <tr>
+                        <th>Név</th>
+                        <th>Cím</th>
+                        <th>Nyitva most?</th>
+                    </tr>
+                </thead>
+                <tbody>
+            `;
+
+            //Aktuális idő (óra:perc):
+            const most = new Date();
+            const aktualisOra = most.getHours() + most.getMinutes() / 60;
+
+            //Térkép:
+            if (!terkep) {
+                terkep = L.map('terkep').setView([lat, lon], 13);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 18,
+                    attribution: '© OpenStreetMap'
+                }).addTo(terkep);
+            } else {
+                terkep.setView([lat, lon], 13);
+                if (markerCsoport) markerCsoport.clearLayers();
+            }
+            markerCsoport = L.layerGroup().addTo(terkep);
+
+            for (const elem of overpassData.elements) {
+                const cim = elem.tags['addr:street'] ? 
+                    `${elem.tags['addr:street']} ${elem.tags['addr:housenumber'] || ''}` :
+                    (elem.tags['addr:full'] || '—');
+                const nev = elem.tags.name ...; //A másik eshetőség egy 'Névtelen hely' felirat legyen
+
+                //Nyitvatartás feldolgozása:
+                let nyitvaMost = 'ismeretlen';
+                if (elem.tags.opening_hours) {
+                    //Egyszerűsített ellenőrzés:
+                    try {
+                        const oh = elem.tags.opening_hours;
+                        //Ha most van nyitvatartási intervallum:
+                        const napok = ['Su','Mo','Tu','We','Th','Fr','Sa'];
+                        const napIndex = most.getDay();
+                        //Eltérés:
+                        const napKod = napok[napIndex];
+                        //Kikeresi az adott napra vonatkozó időintervallumot:
+                        const regex = new RegExp(`${napKod}\\s*([0-9\\-:\\,; ]+)`);
+                        const match = oh.match(regex);
+                        if (match && match[1]) {
+                            //Több intervallum lehet:
+                            const intervallumok = match[1].....map(i => i.trim()); //Vegyük úgy, hogy a szöveg vesszővel van tagolva
+                            for (const interv of intervallumok) {
+                                const [kezd, veg] = interv....; //Vegyük úgy, hogy a szöveg kötőjellel van tagolva
+                                if (kezd && veg) {
+                                    const kezdOra = parseInt(kezd.split(':')[0]) + parseInt(kezd.split(':')[1] || '0')/60;
+                                    const vegOra = parseInt(veg.split(':')[0]) + parseInt(veg.split(':')[1] || '0')/60;
+                                    if (...) { //Ha az aktualisOra kezdOra és vegOra között van
+                                        nyitvaMost = '<span style="color:green;font-weight:bold">NYITVA</span>';
+                                        break;
+                                    }
+                                }
+                            }
+                            if (nyitvaMost !== '<span style="color:green;font-weight:bold">NYITVA</span>') {
+                                nyitvaMost = '<span style="color:#a22">ZÁRVA</span>';
+                            }
+                        }
+                    } catch {}
+                }
+                //Marker a térképen:
+                let marker = null;
+                if (elem.lat && elem.lon) {
+                    marker = L.marker([elem.lat, elem.lon]);
+                } else if (elem.center) {
+                    marker = L.marker([elem.center.lat, elem.center.lon]);
+                }
+                if (marker) {
+                    marker.bindPopup(`<b>${nev}</b><br>${cim}<br>Nyitva most: ${nyitvaMost.replace(/<[^>]+>/g,'')}`);
+                    marker.addTo(markerCsoport);
+                }
+                html += `<tr>
+                    <td>${nev}</td>
+                    <td>${cim}</td>
+                    <td>${nyitvaMost}</td>
+                </tr>`;
+            }
+            html += "</tbody></table>";
+            document.getElementById('talalatok').innerHTML = html;
+            document.getElementById('terkep').style.display = "block";
+            terkep.invalidateSize();
+
+        } ... (err) { //Ha a try szegmens nem tudott lefutni
+            document.getElementById('talalatok').innerHTML = "";
+            ...; //A 'hiba' ID-jű elem szöveges tartalma az err.message legyen.
+        }
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+Előkészítés:
+npm init -y
+npm install express uuid
+
+Indítás: node pm.js
+
+1. Regisztráció (új tag):
+curl -X POST -H "Content-Type: application/json" -d "{\"nev\":\"Teszt Elek\",\"email\":\"teszt@pm.hu\",\"jelszo\":\"titok\"}" http://localhost:5000/regisztracio
+2. Bejelentkezés:
+curl -X POST -H "Content-Type: application/json" -d "{\"email\":\"teszt@pm.hu\",\"jelszo\":\"titok\"}" http://localhost:5000/bejelentkezes
+A válaszban megkapod a saját token-edet!
+3. Projekt létrehozása (token-nel):
+curl -X POST -H "Content-Type: application/json" -H "token: TokenHelye" -d "{\"nev\":\"Webshop\",\"leiras\":\"Frontend-backend\"}" http://localhost:5000/projektek
+4. Feladat létrehozása a projekthez:
+curl -X POST -H "Content-Type: application/json" -H "token: TokenHelye" -d "{\"projekt_id\":1,\"cim\":\"Felhasználó regisztráció\",\"leiras\":\"POST /regisztracio\"}" http://localhost:5000/feladatok
+5. Feladat státuszváltás:
+curl -X PUT -H "Content-Type: application/json" -H "token: TokenHelye" -d "{\"statusz\":\"folyamatban\"}" http://localhost:5000/feladatok/1/statusz
+6. Feladathoz komment írása:
+curl -X POST -H "Content-Type: application/json" -H "token: TokenHelye" -d "{\"szoveg\":\"Ez fontos rész.\"}" http://localhost:5000/feladatok/1/kommentek
+7. Feladatok keresése kulcsszóra:
+curl -H "token: TokenHelye" "http://localhost:5000/kereses/feladatok?kulcsszo=regisztracio"
+
+
+
+Az API csak a konkrét végpontokon működik:
+http://localhost:5000/cimkek
+http://localhost:5000/projektek
+http://localhost:5000/felhasznalok

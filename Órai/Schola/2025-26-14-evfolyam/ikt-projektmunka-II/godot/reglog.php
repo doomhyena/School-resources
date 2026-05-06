@@ -13,7 +13,7 @@
 				
 				$titkos = password_hash($_POST['pass1'], PASSWORD_DEFAULT);
 				
-				$conn->query("INSERT INTO users VALUES(id, '$_POST[username]', '$titkos', 0)");
+				$conn->query("INSERT INTO users VALUES(id, '$_POST[username]', '$titkos', 0, 1)");
 				
 			}
 			else{

@@ -1,0 +1,13 @@
+# Called when the node enters the scene tree for the first time.
+func _ready() -> void:
+	id.text = "ID: "+Globals.id
+	username.text = "Username: "+Globals.username
+	credit.text = "Credit: "+str(Globals.credit)
+	cookie.text = "+"+str(Globals.plus_cookies)+" süti"
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta: float) -> void:
+	id.text = "ID: "+str(Globals.id)
+	username.text = "Username: "+str(Globals.username)
+	credit.text = "Credit: "+str(Globals.credit)
+	cookie.text = "+"+str(Globals.plus_cookies)+" süti"

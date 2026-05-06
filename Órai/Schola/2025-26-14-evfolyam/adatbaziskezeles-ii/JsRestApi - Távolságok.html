@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>2 város közti távolság</title>
+    <style>
+        body { font-family: sans-serif; max-width: 550px; margin: 2em auto; }
+        label { display: block; margin-top: 1em; }
+        input { width: 100%; padding: 0.4em; margin-top: 0.2em; }
+        button { margin-top: 1.3em; padding: 0.5em 1.2em; font-size: 1em; background: #3384e3; color: #fff; border: none; border-radius: 7px; }
+        .eredmeny { margin-top: 2em; border-top: 1px solid #ccc; padding-top: 1em; }
+        .hiba { color: red; font-weight: bold; margin-top: 1em; }
+    </style>
+</head>
+<body>
+    <h1>2 város közti távolság</h1>
+    <form id="tavForm" onsubmit="szamol(event)">
+        <label>Egyik város:
+            <input type="text" id="hely1" required placeholder="Pl. Budapest">
+        </label>
+        <label>Másik város:
+            <input type="text" id="hely2" required placeholder="Pl. Debrecen">
+        </label>
+        <button type="submit">Távolság számítása</button>
+    </form>
+    <div id="eredmeny" class="eredmeny"></div>
+    <div id="hiba" class="hiba"></div>
+    <script>
+        function fokba(fok) {
+            return fok * Math.PI / 180;
+        }
+
+        async function szamol(e) {
+            e.preventDefault();
+            document.getElementById('hiba').textContent = "";
+            document.getElementById('eredmeny').innerHTML = "Számítás folyamatban...";
+
+            const hely1 = document.getElementById('hely1').value;
+            const hely2 = document.getElementById('hely2').value;
+
+            try {
+                //Keresés első helyre:
+                const apiValasz = await fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(hely1)}&format=json`);
+                const adat1 = await apiValasz.json();
+                if (!adat1.length) throw new Error("Az első hely nem található.");
+                const loc1 = adat1[0];
+
+                //Keresés második helyre:
+                const apiValasz2 = await fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(hely2)}&format=json`);
+                const adat2 = await apiValasz2.json();
+                if (!adat2.length) throw new Error("A második hely nem található.");
+                const loc2 = adat2[0];
+
+                //Koordináták átvétele és számítások:
+                const szelesseg1 = parseFloat(loc1.lat), hosszusag1 = parseFloat(loc1.lon);
+                const szelesseg2 = parseFloat(loc2.lat), hosszusag2 = parseFloat(loc2.lon);
+
+                //Számítás:
+                const R = 6371; //Ez a km lesz
+                const szelKul = fokba(szelesseg2 - szelesseg1);
+                const hosszKul = fokba(hosszusag2 - hosszusag1);
+                const a = Math.sin(szelKul/2) ** 2 +
+                          Math.cos(fokba(szelesseg1)) * Math.cos(fokba(szelesseg2)) *
+                          Math.sin(hosszKul/2) ** 2;
+                const c = 2 * Math.asin(Math.sqrt(a));
+                const tav = R * c;
+
+                //Eredmény kiírása:
+                document.getElementById('eredmeny').innerHTML = `
+                    <b>Első hely:</b> ${loc1.display_name}<br>
+                    <b>Koordináták:</b> ${szelesseg1.toFixed(5)}, ${hosszusag1.toFixed(5)}<br><br>
+                    <b>Második hely:</b> ${loc2.display_name}<br>
+                    <b>Koordináták:</b> ${szelesseg2.toFixed(5)}, ${hosszusag2.toFixed(5)}<br><br>
+                    <b>A távolság pedig:</b> ${tav.toFixed(2)} km
+                `;
+            } catch (err) {
+                document.getElementById('eredmeny').innerHTML = "";
+                document.getElementById('hiba').textContent = err.message;
+            }
+        }
+    </script>
+</body>
+</html>

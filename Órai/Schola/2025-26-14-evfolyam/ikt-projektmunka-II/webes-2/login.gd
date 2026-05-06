@@ -20,7 +20,7 @@ func _on_login_btn_pressed() -> void:
 	var log_pass = password.get_text()
 
 	http.request_completed.connect(_on_request_completed)
-	http.request("http://127.0.0.1/14b/godot/gamelogin.php?username="+log_usern+"&password="+log_pass)
+	http.request("http://192.168.3.88/14b/godot/gamelogin.php?username="+log_usern+"&password="+log_pass)
 	
 func _on_request_completed(result, response_code, header, body):
 	
@@ -47,4 +47,5 @@ func _on_request_completed(result, response_code, header, body):
 			Globals.id = data.id
 			Globals.username = data.username
 			Globals.credit = data.credit
+			Globals.plus_cookies = int(data.perk)
 			get_tree().change_scene_to_file("res://main.tscn")

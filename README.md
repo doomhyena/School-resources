@@ -9,12 +9,12 @@ Ez a repó a 2024/2026-ös illetve 2025/26-os szakmai évek során készült fel
 ### 📁 Mappastruktúra és tantárgyak 2025-26 1.félév
 
 ```
-/adatbazis-kezeles-I/               #
+/adatbazis-kezeles-I/               # Cisco Packet Tracer
 /halozatok-I/                       # Cisco Packet Tracer
-/halozatok-II/                      #
+/halozatok-II/                      # Cisco Packet Tracer
 /halozatok-programozasa-es-iot/     #
 ikt-projektmunka-I-prog-alapok/     # Frontend alapok & Python alapok
-/ikt-projektmunka-II/               #
+/ikt-projektmunka-II/               # Cisco Packet Tracer
 /info-alapok-I/                     #
 /info-alapok-II/                    # Cisco Packet Tracer
 /munkavallaloi-idegen-nyelv/        # Angol szakszókincs, fordítások, szövegek

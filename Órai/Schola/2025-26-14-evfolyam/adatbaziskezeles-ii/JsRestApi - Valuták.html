@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Kriptovaluta árfolyamok</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 2em auto; }
+        table { width: 100%; border-collapse: collapse; margin-top: 1em; }
+        th, td { border: 1px solid #ccc; padding: 0.7em; text-align: left; }
+        th { background: #f0f0f0; }
+        #idopont { margin-bottom: 1em; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Valuták aktuális árfolyama (HUF)</h1>
+    <div id="idopont">Adatok betöltése...</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Valuta</th>
+                <th>Árfolyam (HUF)</th>
+            </tr>
+        </thead>
+        <tbody id="tabla-tartalom">
+        </tbody>
+    </table>
+
+    <script>
+        //1 egységnyi valuta = X HUF:
+        const valutak = [
+            { kod: "eur", nev: "euró" },
+            { kod: "usd", nev: "amerikai dollár" },
+            { kod: "gbp", nev: "angol font" },
+            { kod: "chf", nev: "svájci frank" },
+            { kod: "jpy", nev: "japán jen" },
+            { kod: "czk", nev: "cseh korona" },
+            { kod: "pln", nev: "lengyel zloty" }
+        ];
+        fetch("https://api.coingecko.com/api/v3/exchange_rates")
+		//fetch(): adatok lekérése az api linkről
+		//then(): várja meg az előző művelet befejezését a kezdés előtt
+            .then(response => response.json()) //json formában kell az eredmény
+            .then(data => {
+                //Forint árfolyam 1 bitcoin-hoz képest:
+                const hufPerBtc = data.rates.huf.value;
+                //A kiválasztott valuták árfolyama 1 bitcoin-hoz képest:
+                const sorok = valutak.map(valuta => {
+                    const rate = data.rates[valuta.kod];
+                    if (!rate) return null; //Ha nem talál ráta értéket, akkor null lesz
+                    //Átváltás: 1 egység = X forint:
+                    const arfolyam = hufPerBtc / rate.value;
+                    return `<tr>
+                        <td>${valuta.nev}</td>
+                        <td>${arfolyam.toLocaleString("hu-HU", {maximumFractionDigits: 2})}</td>
+                    </tr>`;
+                }).filter(Boolean).join("");
+
+                document.getElementById("tabla-tartalom").innerHTML = sorok;
+                //Időpont:
+                const now = new Date();
+                document.getElementById("idopont").textContent =
+                    "Adatok lekérésének időpontja: " +
+                    now.toLocaleString("hu-HU", { dateStyle: "full", timeStyle: "medium" });
+            })
+					//toLocaleString(): nyelvi kompatibilitás miatt
+			//Itt nem volt try rész a catch előtt, de attól még belefoglalhatjuk:
+            .catch(() => {
+				//Egy hibaüzenet lesz a dátum kiírás helyén:
+                document.getElementById("idopont").textContent = "Hiba történt az adatok lekérésekor!";
+            });
+    </script>
+</body>
+</html>

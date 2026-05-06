@@ -4,17 +4,21 @@ extends Control
 @onready var username: Label = $Username
 @onready var credit: Label = $Credit
 @onready var http: HTTPRequest = $HTTPRequest
+@onready var cookie: Button = $Cookie
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	id.text = "ID: "+Globals.id
 	username.text = "Username: "+Globals.username
-	credit.text = "Credit: "+Globals.credit
-
+	credit.text = "Credit: "+str(Globals.credit)
+	cookie.text = "+"+str(Globals.plus_cookies)+" süti"
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
-	pass
+	id.text = "ID: "+str(Globals.id)
+	username.text = "Username: "+str(Globals.username)
+	credit.text = "Credit: "+str(Globals.credit)
+	cookie.text = "+"+str(Globals.plus_cookies)+" süti"
 
 
 func _on_logout_btn_pressed() -> void:
@@ -26,7 +30,7 @@ func _on_logout_btn_pressed() -> void:
 	
 func _on_cookie_pressed() -> void:
 	
-	http.request("http://127.0.0.1/14b/godot/getcookie.php?id="+Globals.id+"&plus="+str(Globals.plus_cookies))
+	http.request("http://192.168.3.88/14b/godot/getcookie.php?id="+Globals.id+"&plus="+str(Globals.plus_cookies))
 	Globals.credit = int(Globals.credit)+Globals.plus_cookies
 	credit.text = "Credit: "+str(Globals.credit)
 	
