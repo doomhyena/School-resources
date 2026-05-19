@@ -1,0 +1,3 @@
+Adatbázis: kiadasok
+SQL fájl importálása benne
+Új felhasználót regisztrálni
