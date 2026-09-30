@@ -13,12 +13,12 @@
   **EN:** I studied `Software Developer and Tester` here. I have since graduated and obtained the qualification, so the Schola-related part of this repository will no longer be updated.
 
 - **[Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)** - `2025.11.14.` óta / since `2025.11.14.`  
-  **HU:** Jelenleg `Informatikai rendszer- és alkalmazás-üzemeltető technikus` szakon tanulok.  
-  **EN:** I am currently studying `IT Systems and Application Operations Technician` here.
+  **HU:** Az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` szakon folytatott iskolai tanulmányaimat hivatalosan `2026.09.30.`-án befejeztem. A szakmai vizsgára még várunk.
+  **EN:** I officially completed my school studies in the `IT Systems and Application Operations Technician` program on `2026.09.30.` The final vocational exam is still pending.
 
 ---
 
-## 🔄 Frissítések / Updates
+## 🔄 Frissítések / UpdatesA
 
 **HU:** Ez a repository `2025.04.06.`-tól kezdve egészen addig frissül, amíg be nem fejezem az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` képzést. A képzés befejezése után a repository már nem frissül tovább, hanem nyilvános, archivált állapotba kerül, hogy a tanulmányaim lezárása után is bárki szabadon hozzáférhessen és megtekinthesse.
 
@@ -186,7 +186,7 @@ backend-programozas-es-teszteles-szoftverteszteles              # C# alapok, kis
 | Szakmai Angol / Technical English | Kövesdiné Lám Zsuzsánna |
 | Szoftvertesztelés / Software Testing | Kiss Zoltán |
 
-#### 👨‍🏫 Oktatók / Teachers — 2025/26 tanév / school year
+#### 👨‍🏫 Oktatók / Teachers - 2025/26 tanév / school year
 
 | Tantárgy / Subject | Tanár neve / Teacher |
 | --- | --- |
@@ -204,6 +204,10 @@ backend-programozas-es-teszteles-szoftverteszteles              # C# alapok, kis
 **HU:** Külön szeretném megköszönni **Kiss Ádámnak**, **Hujber Balázsnak** és **Wuncs Dávidnak** a `Szoftverfejlesztő és -Tesztelő` szakon eltöltött elmúlt két évemet. Hálás vagyok azért a tudásért, támogatásért, türelemért és útmutatásért, amit ez idő alatt kaptam tőlük. Nagy szerepük volt abban, hogy fejlődjek szakmailag, magabiztosabbá váljak, és még nagyobb motivációval folytassam ezt az utat.
 
 **EN:** I would especially like to thank **Ádám Kiss**, **Balázs Hujber**, and **Dávid Wuncs** for the past two years in the `Software Developer and Tester` program. I am grateful for the knowledge, support, patience, and guidance I received from them during this time. They played a major role in my professional growth, in helping me become more confident, and in motivating me to continue on this path.
+
+**HU:** Külön szeretném megköszönni **Zaletnyik Péter Tibornak**, **Krucsay Attilának** és **Duffka Erik Martinnak** az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` szakon nyújtott tudást, támogatást, türelmet és útmutatást. Nagyra értékelem mindazt, amit a tanulmányaim során kaptam tőlük, és hálás vagyok azért, hogy hozzájárultak a szakmai fejlődésemhez.
+
+**EN:** I would especially like to thank **Péter Tibor Zaletnyik**, **Attila Krucsay**, and **Erik Martin Duffka** for the knowledge, support, patience, and guidance they provided during my studies in the `IT Systems and Application Operations Technician` program. I greatly appreciate everything I received from them during my studies and am grateful for their contribution to my professional development.
 
 ## 📄 Licenc / License
 
