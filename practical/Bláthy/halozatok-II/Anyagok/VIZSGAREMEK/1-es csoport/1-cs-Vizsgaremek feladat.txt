@@ -1,0 +1,6 @@
+1.)
+-Az új ip-cím számításnak megfelelően csak az IPv4-re!
+ 1.) Ip-címtáblázatot átdolgozni
+ 2.) Ip-címeket az eszközöknek beállítani
+ 3.) Routereken OSPF forgalomirányítást konfigurálni
+ 4.) végpontok közötti kommunikációt ellenőrizni

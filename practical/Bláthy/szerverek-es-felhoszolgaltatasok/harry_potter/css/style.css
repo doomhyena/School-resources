@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Harry;
+    src: url(../fonts/HarryP.ttf);
+}
+
+@font-face {
+    font-family: Texts;
+    src: url(../fonts/MagicOwl.otf);
+}
+
+body{
+    background-image: url("../img/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Texts, serif;
+}
+
+.harryFont{
+
+    font-family: Harry, serif;
+    font-size: 2em;
+}
+.header-text{
+    margin-top: 1em;
+    font-size: 4em;
+}
+.brand{
+    width: 50px;
+}
+
+#content{
+    margin-top: 5em;
+}
+.jkr{
+    border: 2px solid #1a1e21;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.hatter{
+    background-image: url("../img/minibg.png");
+    background-position: center;
+    border: 2px solid black;
+}
+.house{
+    height: 300px;
+}
+.house_kep{
+    height: 340px;
+    width: 340px;
+}
+
+ul{
+    list-style-type: none;
+}
+.house_font{
+    font-size: 20px;
+}
+a, a:hover, a:visited{
+    text-decoration: none;
+    color: #1a1e21;
+}
+
+.admin{
+    margin-top: 20% !important;
+}
+
+input{
+    margin: 10px;
+}

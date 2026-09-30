@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="text-center display-5 page-heading">A sorozat ismertetése</h1>
+<div class="row g-4">
+  <div class="col-md-6">
+    <article class="card parchment h-100">
+      <div class="card-body text-center">
+        <h2>Az író</h2>
+        <h3 class="h5">Joanne Kathleen Rowling</h3>
+        <img src="{{ url_for('static', filename='img/jkr.jpg') }}" class="img-fluid feature-image" alt="J. K. Rowling portréja">
+        <p class="mt-3 text-start">A Harry Potter regények szerzője J. K. Rowling. A könyvsorozat hét kötetből áll; a történetből nyolc egész estés film készült.</p>
+      </div>
+    </article>
+  </div>
+  <div class="col-md-6">
+    <article class="card parchment h-100">
+      <div class="card-body text-center">
+        <h2>A varázsvilág</h2>
+        <h3 class="h5">A történet helyszínei</h3>
+        <img src="{{ url_for('static', filename='img/wizard_world.jpg') }}" class="img-fluid feature-image" alt="Illusztráció a varázsvilágról">
+        <p class="mt-3 text-start">A történet a hétköznapi világ és a varázslók világa között váltakozik. Ismerje meg a könyveket, a filmeket és a roxforti házakat.</p>
+      </div>
+    </article>
+  </div>
+</div>
+{% endblock %}

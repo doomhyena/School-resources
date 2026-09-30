@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card parchment p-4">
+  <a href="{{ url_for('films') }}">← Vissza a filmekhez</a>
+  <h1 class="display-6 my-3">{{ film.title }}</h1>
+  <div class="row g-4">
+    <div class="col-md-4">
+      <img src="{{ url_for('static', filename=film.img_url) }}" class="img-fluid feature-image" alt="{{ film.title }} plakátja">
+      <p class="mt-3">Bemutató: {{ film.premier }}<br>Rendező: {{ film.director }}<br>Bevétel: {{ "{:,}".format(film.income).replace(",", " ") }} USD</p>
+    </div>
+    <div class="col-md-8">
+      <h2 class="h4">Szereplők</h2>
+      <div class="table-responsive">
+        <table class="table table-striped"><thead><tr><th>Színész</th><th>Szereplő</th></tr></thead>
+          <tbody>{% for actor in actors %}<tr><td>{{ actor.name }}</td><td>{{ actor.film_character }}</td></tr>{% endfor %}</tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

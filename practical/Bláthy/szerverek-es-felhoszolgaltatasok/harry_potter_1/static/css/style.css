@@ -1,0 +1,11 @@
+@font-face { font-family: Harry; src: url('../fonts/HarryP.ttf'); font-display: swap; }
+@font-face { font-family: Magic; src: url('../fonts/MagicOwl.otf'); font-display: swap; }
+body { min-height: 100vh; background: #e1d2ac url('../img/bg.jpg') center / cover fixed; color: #1b1d1f; font-family: Magic, Georgia, serif; }
+.harry-font { font-family: Harry, Georgia, serif; font-size: 1.9rem; }
+.page-content { margin: 6.3rem auto 3rem; }
+.page-heading { color: #fff; text-shadow: 0 2px 6px #000; margin-bottom: 1.5rem; }
+.parchment { background: #f2e8cf url('../img/minibg.png') center / cover; border: 1px solid #554a37; }
+.cover { height: 280px; object-fit: contain; padding: 0.8rem; }
+.feature-image { max-height: 310px; object-fit: contain; }
+.house-image { height: 250px; object-fit: contain; }
+.card p, .card td, .card th { font-size: 1.05rem; }

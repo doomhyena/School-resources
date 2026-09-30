@@ -1,0 +1,63 @@
+VIZSGAREMEK FELADATKITŰZÉS (2026.04.18)
+Általános szabályok:
+- Mindenhol kell IPv6 címzés
+- Lehetőleg 1 problémakör 1 alhálózatot érintsen
+	pl.: DHCP/VLAN/WLan 1-1 alhálózatot 
+Tartalmi elelemnek
+0.) Topológia OK
+
+1.-A) IPv4 címzés
+	- Ajánlott Belső lokális ip-címtartományok:
+		10.10.0.0 /16
+		172.168.0.0 /16
+		192.168.0.0 /16
+Teljes belső tartományok
+Osztály		Tartomány			CIDR		Gépszám
+A		10.0.0.0 – 10.255.255.255	10.0.0.0/8	~16,7 millió
+B		172.16.0.0 – 172.31.255.255	172.16.0.0/12	~1 millió
+C		192.168.0.0 – 192.168.255.255	192.168.0.0/16	~65 ezer
+		ip címtartományokat a CISCO-s gyakorlatokból érdemes választani! 
+	- Saját honlap kialakítás (OPCIONÁLIS és ha marad rá idő!!!!!)
+	Kapcsolódó gyakorlatok: 4.2.8
+1-es csoport: 10.10.0.0 /16-> 255.255.0.0
+2-es csoport: 172.16.0.0 /16 -> 255.255.0.0
+3-es csoport: 172.168.10.0 /16
+4-es csoport: 
+
+1.-B) - IPv6 címzés
+	Kapcsolódó gyakorlatok:
+	
+2.) VLAN (Virtual LAN) legalább egy telephelyen több VLAN kialakítását foglalja magában
+	- A VLAN alhálózta mimimum 60 hostot tartalmazzon (64 bites szegmens->2^6-en->6 bit )
+	- minimálisan 4 VLAN
+	- Kötelező VLANok: 		
+		LOGIKAI VLAN-ok
+		1.) Hálózat Management/Native -> ip címigény: roure interfész+ a switcek száma [mimimum 5 host]
+		2.) VoIP VLAN (a főnök gépe előtt egy IP-telefon) ip címigény:  [mimimum 5 host]
+		-------------------------------------------------------------------------------------------------
+		FIZIKAI VLAN-ok
+		3.) Vállalat management	[mimimum 10 host]
+		4.) Saját válaszás [..]
+		...
+- VOIp előkészítés
+	Kapcsolódó gyakorlatok: 4.2.8 (2026.04.14),
+				3.6.2 (2026.04.11)
+				3.6.1 (2026.03.31) VoIPú
+	Switch- VOIP-telefon - Számítógép
+
+3.)Vezeték nélküli hálózatot is tartalmaz
+---------------------------------------------------------------
+
+4.) IPv4 (OK) és IPv6 címzési (még megbeszálendő) rendszert egyaránt használ
+"IPv4 és IPv6 címzési rendszert egyaránt használ"
+
+5.) statikus !!! és dinamikus forgalomirányítást (OK) egyaránt megvalósít??????
+
+
+192.168.0.00000000 /30
+
+54.209.180.000|00000 /28
+
+------------------------------
+Feszítőfa protokoll átvétele
+4-es csoportot értesíteni vizsgaremek ügyben

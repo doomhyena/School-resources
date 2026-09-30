@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="text-center display-5 page-heading">Filmek</h1>
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+  {% for film in films %}
+  <div class="col">
+    <article class="card parchment h-100">
+      <img src="{{ url_for('static', filename=film.img_url) }}" class="card-img-top cover" alt="{{ film.title }} plakátja">
+      <div class="card-body">
+        <h2 class="h5">{{ film.title }}</h2>
+        <p>Bemutató: {{ film.premier }}</p>
+        <a href="{{ url_for('film_detail', film_id=film.id) }}" class="btn btn-dark">Részletek</a>
+      </div>
+    </article>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

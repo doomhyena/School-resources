@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="text-center display-5 page-heading">Könyvek</h1>
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+  {% for book in books %}
+  <div class="col">
+    <article class="card parchment h-100">
+      <img src="{{ url_for('static', filename=book.img_url) }}" class="card-img-top cover" alt="{{ book.title }} borítója">
+      <div class="card-body">
+        <h2 class="h5">{{ book.title }}</h2>
+        <p>Megjelenés: {{ book.publication_date }}<br>Oldalszám: {{ book.pages }}</p>
+      </div>
+    </article>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

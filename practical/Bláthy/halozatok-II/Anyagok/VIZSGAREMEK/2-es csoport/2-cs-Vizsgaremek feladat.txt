@@ -1,0 +1,4 @@
+1.) WIFI routerr bekonfigurálni a terv szerint.
+-
+2.) - router ospf 1-et kiegészíteni egy valódi KÜLSŐ GLOBÁLIS CÍMMEL - valami gyakorlatból ki lehet puskázni és akkor nem lehet belekötni....
+    - Internet Router L0 interfészének az korrábbi  KÜLSŐ GLOBÁLIS CÍmtartományból ip-t adni	

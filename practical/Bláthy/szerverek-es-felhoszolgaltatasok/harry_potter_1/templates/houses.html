@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="text-center display-5 page-heading">Roxfort házai</h1>
+<div class="row row-cols-1 row-cols-md-2 g-4 text-center">
+  {% for house, image, motto in [
+    ('Griffendél', 'griffindor.png', 'Bátorság és kitartás'),
+    ('Mardekár', 'slytherin.png', 'Becsvágy és leleményesség'),
+    ('Hugrabug', 'hufflepuff.png', 'Hűség és szorgalom'),
+    ('Hollóhát', 'ravenclaw.png', 'Tudás és kíváncsiság')
+  ] %}
+  <div class="col"><article class="card parchment h-100 p-3">
+    <h2 class="h4">{{ house }}</h2>
+    <img src="{{ url_for('static', filename='img/' + image) }}" class="img-fluid house-image mx-auto" alt="{{ house }} címere">
+    <p class="mt-3">{{ motto }}</p>
+  </article></div>
+  {% endfor %}
+</div>
+{% endblock %}

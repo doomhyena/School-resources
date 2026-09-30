@@ -1,0 +1,15 @@
+[Unit]
+Description=Harry Potter Flask exam site
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/harry_potter
+EnvironmentFile=/etc/harry-potter.env
+ExecStart=/opt/harry_potter/.venv/bin/gunicorn --workers 1 --bind 127.0.0.1:8000 app:app
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

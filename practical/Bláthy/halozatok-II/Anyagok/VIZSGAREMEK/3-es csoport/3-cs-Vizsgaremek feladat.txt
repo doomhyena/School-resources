@@ -1,0 +1,6 @@
+1.) InterVLAN - routing kialakítása
+2.) Ip-címek beállítása
+3.) A hálózat címzési rendszerének ellenőrzése/beállítása
+3.) A SOHO/Wireless router belső  (LAN) címterének kitalálása és a router beállítása (backup fájl létrehozása a PC-5-ön) [bármely gyakorlatból ki lehet másolni és akkor van hivatkozási alap]
+    A SOHO/Wireless router Internet portjának az Ügyfélszolgálat IP-címtartományából kell ip-t kapnia.
+    
