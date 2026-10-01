@@ -8,13 +8,15 @@
 
 ## 🏫 Tanulmányaim / Studies
 
-- **["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/)** - `2024.09.01.` – `2026.05.29.`  
-  **HU:** `Szoftverfejlesztő és -Tesztelő` szakon tanultam. Azóta elballagtam, és megszereztem a szakmát, ezért a repó Schola-részéhez tartozó anyagok már nem frissülnek.  
+- **["Schola Europa Akadémia" Technikum, Gimnázium és Alapfokú Művészeti Iskola](https://scholaeu.hu/)** - `2024.09.01.` - `2026.05.29.`  
+  **HU:** `Szoftverfejlesztő és -Tesztelő` szakon tanultam. Azóta elballagtam, és megszereztem a szakmát, ezért a repó Schola-részéhez tartozó anyagok már nem frissülnek.
+  
   **EN:** I studied `Software Developer and Tester` here. I have since graduated and obtained the qualification, so the Schola-related part of this repository will no longer be updated.
 
-- **[Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)** - `2025.11.14.` óta / since `2025.11.14.`  
-  **HU:** Az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` szakon folytatott iskolai tanulmányaimat hivatalosan `2026.09.30.`-án befejeztem. A szakmai vizsgára még várunk.
-  **EN:** I officially completed my school studies in the `IT Systems and Application Operations Technician` program on `2026.09.30.` The final vocational exam is still pending.
+- **[Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)** - `2025.11.14.` - `2026.09.30`
+  **HU:** Az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` szakon folytatott iskolai tanulmányaimat hivatalosan `2026.09.30.`-án befejeztem.
+  
+  **EN:** I officially completed my school studies in the `IT Systems and Application Operations Technician` program on `2026.09.30.`.
 
 ---
 
