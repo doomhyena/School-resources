@@ -14,7 +14,7 @@
   
   **EN:** I studied `Software Developer and Tester` here. I have since graduated and obtained the qualification, so the Schola-related part of this repository will no longer be updated.
 
-- **[Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)** - `2025.11.14.` - `2026.09.30`
+- **[Budapesti Műszaki SZC Bláthy Ottó Titusz Informatikai Technikum](https://blathy.info/)** - `2025.11.14.` - `2026.09.30.`
 
   **HU:** Az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` szakon folytatott iskolai tanulmányaimat hivatalosan `2026.09.30.`-án befejeztem.
   
