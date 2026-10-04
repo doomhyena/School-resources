@@ -22,7 +22,7 @@
 
 ---
 
-## 🔄 Frissítések / UpdatesA
+## 🔄 Frissítések / Updates
 
 **HU:** Ez a repository `2025.04.06.`-tól kezdve egészen addig frissül, amíg be nem fejezem az `Informatikai rendszer- és alkalmazás-üzemeltető technikus` képzést. A képzés befejezése után a repository már nem frissül tovább, hanem nyilvános, archivált állapotba kerül, hogy a tanulmányaim lezárása után is bárki szabadon hozzáférhessen és megtekinthesse.
 
